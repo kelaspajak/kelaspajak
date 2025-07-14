@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Subscription Fee dari Luar Negeri: PPN JLN dan PPh 26](https://baca.diskusipajak.com/subscription-fee-dari-luar-negeri-ppn-jln-dan-pph-26/)
+- [Resume PMK 37 Tahun 2025 pajak marketplace](https://baca.diskusipajak.com/resume-pmk-37-tahun-2025-pajak-marketplace/)
+- [Reimburse Biaya Dokter: PPh 21 dan Biaya Perusahaan](https://baca.diskusipajak.com/reimburse-biaya-dokter-pph-21-dan-biaya-perusahaan/)
+- [Memilih Skema PPh untuk WP Badan Baru](https://baca.diskusipajak.com/memilih-skema-pph-untuk-wp-badan-baru/)
 - [Status PKP Saat Pindah ke Batam](https://baca.diskusipajak.com/status-pkp-saat-pindah-ke-batam/)
-- [Penetapan KPP oleh DJP: Jika Lokasi Pendaftaran Tak Jelas](https://baca.diskusipajak.com/penetapan-kpp-oleh-djp-jika-lokasi-pendaftaran-tak-jelas/)
-- [Kapan Batas Waktu Anda Mendaftar NPWP?](https://baca.diskusipajak.com/kapan-batas-waktu-anda-mendaftar-npwp/)
-- [Tempat Daftar NPWP: Di Mana Anda Harus Mendaftar?](https://baca.diskusipajak.com/tempat-daftar-npwp-di-mana-anda-harus-mendaftar/)
-- [Siapa Saja yang Menggunakan Nomor Identitas Perpajakan &lpar;NIP&rpar;?](https://baca.diskusipajak.com/siapa-saja-yang-menggunakan-nomor-identitas-perpajakan-nip/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
