@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pendaftaran NPWP Elektronik: Khusus untuk Penduduk dan Lainnya](https://baca.diskusipajak.com/pendaftaran-npwp-elektronik-khusus-untuk-penduduk-dan-lainnya/)
 - [Hibah ke Badan Penelitian Kesehatan Luar Negeri: PPh 26 &amp; PPN JLN](https://baca.diskusipajak.com/hibah-ke-badan-penelitian-kesehatan-luar-negeri-pph-26-ppn-jln/)
 - [Subscription Fee dari Luar Negeri: PPN JLN dan PPh 26](https://baca.diskusipajak.com/subscription-fee-dari-luar-negeri-ppn-jln-dan-pph-26/)
 - [Resume PMK 37 Tahun 2025 pajak marketplace](https://baca.diskusipajak.com/resume-pmk-37-tahun-2025-pajak-marketplace/)
 - [Reimburse Biaya Dokter: PPh 21 dan Biaya Perusahaan](https://baca.diskusipajak.com/reimburse-biaya-dokter-pph-21-dan-biaya-perusahaan/)
-- [Memilih Skema PPh untuk WP Badan Baru](https://baca.diskusipajak.com/memilih-skema-pph-untuk-wp-badan-baru/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
