@@ -1,6 +1,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Penetapan KPP oleh DJP: Jika Lokasi Pendaftaran Tak Jelas](https://baca.diskusipajak.com/penetapan-kpp-oleh-djp-jika-lokasi-pendaftaran-tak-jelas/)
+- [Kapan Batas Waktu Anda Mendaftar NPWP?](https://baca.diskusipajak.com/kapan-batas-waktu-anda-mendaftar-npwp/)
+- [Tempat Daftar NPWP: Di Mana Anda Harus Mendaftar?](https://baca.diskusipajak.com/tempat-daftar-npwp-di-mana-anda-harus-mendaftar/)
+- [Siapa Saja yang Menggunakan Nomor Identitas Perpajakan &lpar;NIP&rpar;?](https://baca.diskusipajak.com/siapa-saja-yang-menggunakan-nomor-identitas-perpajakan-nip/)
+- [Memahami Nomor Identitas Perpajakan &lpar;NIP&rpar;: Selain NPWP, Siapa yang Perlu?](https://baca.diskusipajak.com/memahami-nomor-identitas-perpajakan-nip-selain-npwp-siapa-yang-perlu/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
