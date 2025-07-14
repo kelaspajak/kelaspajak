@@ -1,5 +1,7 @@
 # Blog posts
 
+website: https://baca.diskusipajak.com
+
 <!-- BLOG-POST-LIST:START -->
 - [Status PKP Saat Pindah ke Batam](https://baca.diskusipajak.com/status-pkp-saat-pindah-ke-batam/)
 - [Penetapan KPP oleh DJP: Jika Lokasi Pendaftaran Tak Jelas](https://baca.diskusipajak.com/penetapan-kpp-oleh-djp-jika-lokasi-pendaftaran-tak-jelas/)
