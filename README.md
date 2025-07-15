@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [NPWP Jabatan](https://baca.diskusipajak.com/npwp-jabatan/)
+- [Tanda Tangan Elektronik Coretax](https://baca.diskusipajak.com/tanda-tangan-elektronik-coretax/)
 - [Formulir Pendaftaran NPWP Badan](https://baca.diskusipajak.com/formulit/)
 - [Keunikan PPh Pasal 22](https://baca.diskusipajak.com/keunikan-pph-pasal-22/)
 - [Pembuatan Bukti Potong PPh Unifikasi untuk Cabang](https://baca.diskusipajak.com/pembuatan-bukti-potong-pph-unifikasi-untuk-cabang/)
-- [Cara Daftar NPWP: Online atau Langsung?](https://baca.diskusipajak.com/cara-daftar-npwp-online-atau-langsung/)
-- [Pengaturan Perpajakan untuk Wanita Kawin](https://baca.diskusipajak.com/pengaturan-perpajakan-untuk-wanita-kawin/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
