@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Masa Berlaku dan Permintaan Kode Otorisasi Baru](https://baca.diskusipajak.com/masa-berlaku-dan-permintaan-kode-otorisasi-baru/)
+- [Aktivasi Akun Wajib Pajak](https://baca.diskusipajak.com/aktivasi-akun-wajib-pajak/)
+- [Saluran Pendaftaran NPWP](https://baca.diskusipajak.com/saluran-pendaftaran-npwp/)
 - [NPWP Jabatan](https://baca.diskusipajak.com/npwp-jabatan/)
 - [Tanda Tangan Elektronik Coretax](https://baca.diskusipajak.com/tanda-tangan-elektronik-coretax/)
-- [Formulir Pendaftaran NPWP Badan](https://baca.diskusipajak.com/formulit/)
-- [Keunikan PPh Pasal 22](https://baca.diskusipajak.com/keunikan-pph-pasal-22/)
-- [Pembuatan Bukti Potong PPh Unifikasi untuk Cabang](https://baca.diskusipajak.com/pembuatan-bukti-potong-pph-unifikasi-untuk-cabang/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
