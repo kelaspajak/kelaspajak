@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Keunikan PPh Pasal 22](https://baca.diskusipajak.com/keunikan-pph-pasal-22/)
+- [Pembuatan Bukti Potong PPh Unifikasi untuk Cabang](https://baca.diskusipajak.com/pembuatan-bukti-potong-pph-unifikasi-untuk-cabang/)
 - [Cara Daftar NPWP: Online atau Langsung?](https://baca.diskusipajak.com/cara-daftar-npwp-online-atau-langsung/)
 - [Pengaturan Perpajakan untuk Wanita Kawin](https://baca.diskusipajak.com/pengaturan-perpajakan-untuk-wanita-kawin/)
 - [Pendaftaran NPWP Elektronik: Khusus untuk Penduduk dan Lainnya](https://baca.diskusipajak.com/pendaftaran-npwp-elektronik-khusus-untuk-penduduk-dan-lainnya/)
-- [Cara Daftar NPWP Langsung atau Lewat Pos](https://baca.diskusipajak.com/cara-daftar-npwp-langsung-atau-lewat-pos/)
-- [Hibah ke Badan Penelitian Kesehatan Luar Negeri: PPh 26 &amp; PPN JLN](https://baca.diskusipajak.com/hibah-ke-badan-penelitian-kesehatan-luar-negeri-pph-26-ppn-jln/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
