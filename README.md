@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pemungutan Pajak melalui Marketplace](https://baca.diskusipajak.com/pemungutan-pajak-melalui-marketplace/)
 - [Masa Berlaku dan Permintaan Kode Otorisasi Baru](https://baca.diskusipajak.com/masa-berlaku-dan-permintaan-kode-otorisasi-baru/)
 - [Aktivasi Akun Wajib Pajak](https://baca.diskusipajak.com/aktivasi-akun-wajib-pajak/)
 - [Saluran Pendaftaran NPWP](https://baca.diskusipajak.com/saluran-pendaftaran-npwp/)
 - [NPWP Jabatan](https://baca.diskusipajak.com/npwp-jabatan/)
-- [Tanda Tangan Elektronik Coretax](https://baca.diskusipajak.com/tanda-tangan-elektronik-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
