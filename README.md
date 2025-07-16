@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Perubahan Data WP](https://baca.diskusipajak.com/perubahan-data-wp/)
 - [Tujuan dan Cara Aktivasi Akun Wajib Pajak](https://baca.diskusipajak.com/tujuan-dan-cara-aktivasi-akun-wajib-pajak/)
 - [Cara lihat dan unduh kode billing  belum terbayar](https://baca.diskusipajak.com/cara-lihat-dan-unduh-kode-billing-belum-terbayar/)
 - [Pemungutan Pajak melalui Marketplace](https://baca.diskusipajak.com/pemungutan-pajak-melalui-marketplace/)
 - [Masa Berlaku dan Permintaan Kode Otorisasi Baru](https://baca.diskusipajak.com/masa-berlaku-dan-permintaan-kode-otorisasi-baru/)
-- [Aktivasi Akun Wajib Pajak](https://baca.diskusipajak.com/aktivasi-akun-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
