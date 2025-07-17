@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pengajuan Keberatan Pajak Tahun Pajak 2023](https://baca.diskusipajak.com/pengajuan-keberatan-pajak-tahun-pajak-2023/)
 - [Aktivasi Akun Coretax DJP dan buat KO DJP](https://baca.diskusipajak.com/aktivasi-akun-coretax-djp-dan-buat-ko-djp/)
 - [Pemotongan PPh Pasal 23 atas Biaya Medical Check Up](https://baca.diskusipajak.com/pemotongan-pph-pasal-23-atas-biaya-medical-check-up/)
 - [Ringkasan Umum PMK Nomor 37 Tahun 2025](https://baca.diskusipajak.com/ringkasan-umum-pmk-nomor-37-tahun-2025/)
 - [Perubahan Data WP](https://baca.diskusipajak.com/perubahan-data-wp/)
-- [Tujuan dan Cara Aktivasi Akun Wajib Pajak](https://baca.diskusipajak.com/tujuan-dan-cara-aktivasi-akun-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
