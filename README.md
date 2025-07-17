@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pemotongan PPh Pasal 23 atas Biaya Medical Check Up](https://baca.diskusipajak.com/pemotongan-pph-pasal-23-atas-biaya-medical-check-up/)
 - [Ringkasan Umum PMK Nomor 37 Tahun 2025](https://baca.diskusipajak.com/ringkasan-umum-pmk-nomor-37-tahun-2025/)
 - [Perubahan Data WP](https://baca.diskusipajak.com/perubahan-data-wp/)
 - [Tujuan dan Cara Aktivasi Akun Wajib Pajak](https://baca.diskusipajak.com/tujuan-dan-cara-aktivasi-akun-wajib-pajak/)
 - [Cara lihat dan unduh kode billing  belum terbayar](https://baca.diskusipajak.com/cara-lihat-dan-unduh-kode-billing-belum-terbayar/)
-- [Pemungutan Pajak melalui Marketplace](https://baca.diskusipajak.com/pemungutan-pajak-melalui-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
