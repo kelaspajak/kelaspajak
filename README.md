@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Formulir dan Prosedur Perubahan Data Wajib Pajak](https://baca.diskusipajak.com/formulir-dan-prosedur-perubahan-data-wajib-pajak/)
 - [Pajak Penghasilan atas Hadiah Undian: Penyetoran dan Pelaporan](https://baca.diskusipajak.com/pajak-penghasilan-atas-hadiah-undian-penyetoran-dan-pelaporan/)
 - [Pengajuan Keberatan Pajak Tahun Pajak 2023](https://baca.diskusipajak.com/pengajuan-keberatan-pajak-tahun-pajak-2023/)
 - [Aktivasi Akun Coretax DJP dan buat KO DJP](https://baca.diskusipajak.com/aktivasi-akun-coretax-djp-dan-buat-ko-djp/)
 - [Pemotongan PPh Pasal 23 atas Biaya Medical Check Up](https://baca.diskusipajak.com/pemotongan-pph-pasal-23-atas-biaya-medical-check-up/)
-- [Ringkasan Umum PMK Nomor 37 Tahun 2025](https://baca.diskusipajak.com/ringkasan-umum-pmk-nomor-37-tahun-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
