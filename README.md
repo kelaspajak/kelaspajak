@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kewajiban PPN atas Komisi Afiliasi Berupa Uang](https://baca.diskusipajak.com/kewajiban-ppn-atas-komisi-afiliasi-berupa-uang/)
 - [Leaflet Pendaftaran WP OP Pribadi Penduduk](https://baca.diskusipajak.com/leaflet-pendaftaran-wp-op-pribadi-penduduk/)
 - [Cara Mendapatkan Sertifikat Digital di Coretax](https://baca.diskusipajak.com/cara-mendapatkan-sertifikat-digital-di-coretax/)
 - [Pengajuan Konfirmasi Status Wajib Pajak](https://baca.diskusipajak.com/pengajuan-konfirmasi-status-wajib-pajak/)
 - [Perubahan Status Wajib Pajak Orang Pribadi Menjadi Warisan Belum Terbagi](https://baca.diskusipajak.com/perubahan-status-wajib-pajak-orang-pribadi-menjadi-warisan-belum-terbagi/)
-- [Kendala Retur Pajak Masukan: &quot;Quantity Has Been Altered!&quot;](https://baca.diskusipajak.com/kendala-retur-pajak-masukan-quantity-has-been-altered/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
