@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kasus Kompensasi Lebih Bayar PPN pada SPT Pembetulan](https://baca.diskusipajak.com/kasus-kompensasi-lebih-bayar-ppn-pada-spt-pembetulan/)
 - [Non-Efektif NPWP Direksi WNA](https://baca.diskusipajak.com/non-efektif-npwp-direksi-wna/)
 - [Penelitian &amp; Keputusan Perubahan Data WP](https://baca.diskusipajak.com/penelitian-keputusan-perubahan-data-wp/)
 - [Formulir dan Prosedur Perubahan Data Wajib Pajak](https://baca.diskusipajak.com/formulir-dan-prosedur-perubahan-data-wajib-pajak/)
 - [Pajak Penghasilan atas Hadiah Undian: Penyetoran dan Pelaporan](https://baca.diskusipajak.com/pajak-penghasilan-atas-hadiah-undian-penyetoran-dan-pelaporan/)
-- [Pengajuan Keberatan Pajak Tahun Pajak 2023](https://baca.diskusipajak.com/pengajuan-keberatan-pajak-tahun-pajak-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
