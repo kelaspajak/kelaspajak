@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Kasus Kompensasi Lebih Bayar PPN pada SPT Pembetulan](https://baca.diskusipajak.com/kasus-kompensasi-lebih-bayar-ppn-pada-spt-pembetulan/)
-- [Non-Efektif NPWP Direksi WNA](https://baca.diskusipajak.com/non-efektif-npwp-direksi-wna/)
-- [Penelitian &amp; Keputusan Perubahan Data WP](https://baca.diskusipajak.com/penelitian-keputusan-perubahan-data-wp/)
-- [Formulir dan Prosedur Perubahan Data Wajib Pajak](https://baca.diskusipajak.com/formulir-dan-prosedur-perubahan-data-wajib-pajak/)
-- [Pajak Penghasilan atas Hadiah Undian: Penyetoran dan Pelaporan](https://baca.diskusipajak.com/pajak-penghasilan-atas-hadiah-undian-penyetoran-dan-pelaporan/)
+- [Leaflet Pendaftaran WP OP Pribadi Penduduk](https://baca.diskusipajak.com/leaflet-pendaftaran-wp-op-pribadi-penduduk/)
+- [Cara Mendapatkan Sertifikat Digital di Coretax](https://baca.diskusipajak.com/cara-mendapatkan-sertifikat-digital-di-coretax/)
+- [Pengajuan Konfirmasi Status Wajib Pajak](https://baca.diskusipajak.com/pengajuan-konfirmasi-status-wajib-pajak/)
+- [Perubahan Status Wajib Pajak Orang Pribadi Menjadi Warisan Belum Terbagi](https://baca.diskusipajak.com/perubahan-status-wajib-pajak-orang-pribadi-menjadi-warisan-belum-terbagi/)
+- [Kendala Retur Pajak Masukan: &quot;Quantity Has Been Altered!&quot;](https://baca.diskusipajak.com/kendala-retur-pajak-masukan-quantity-has-been-altered/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
