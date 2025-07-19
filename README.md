@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pajak atas Hadiah Undian: Ketentuan, Subjek, dan Prosedur](https://baca.diskusipajak.com/pajak-atas-hadiah-undian-ketentuan-subjek-dan-prosedur/)
+- [Perubahan NPWP PT Menjadi NPWP Pribadi](https://baca.diskusipajak.com/perubahan-npwp-pt-menjadi-npwp-pribadi/)
+- [Kewajiban Pelaporan SPT PPh 21 Karyawan Nihil](https://baca.diskusipajak.com/kewajiban-pelaporan-spt-pph-21-karyawan-nihil/)
 - [Pemotongan PPh Sewa Tanpa NIK Terdaftar di Coretax](https://baca.diskusipajak.com/pemotongan-pph-sewa-tanpa-nik-terdaftar-di-coretax/)
 - [Kewajiban PPN atas Komisi Afiliasi Berupa Uang](https://baca.diskusipajak.com/kewajiban-ppn-atas-komisi-afiliasi-berupa-uang/)
-- [Leaflet Pendaftaran WP OP Pribadi Penduduk](https://baca.diskusipajak.com/leaflet-pendaftaran-wp-op-pribadi-penduduk/)
-- [Cara Mendapatkan Sertifikat Digital di Coretax](https://baca.diskusipajak.com/cara-mendapatkan-sertifikat-digital-di-coretax/)
-- [Pengajuan Konfirmasi Status Wajib Pajak](https://baca.diskusipajak.com/pengajuan-konfirmasi-status-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
