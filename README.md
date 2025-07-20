@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Natura dan Kenikmatan: Pelaporan Daftar Nominatif dan Dampaknya](https://baca.diskusipajak.com/natura-dan-kenikmatan-pelaporan-daftar-nominatif-dan-dampaknya/)
 - [&quot;Debit Tersisa&quot; di Coretax](https://baca.diskusipajak.com/debit-tersisa-di-coretax/)
 - [Pajak atas Hadiah Undian: Ketentuan, Subjek, dan Prosedur](https://baca.diskusipajak.com/pajak-atas-hadiah-undian-ketentuan-subjek-dan-prosedur/)
 - [Perubahan NPWP PT Menjadi NPWP Pribadi](https://baca.diskusipajak.com/perubahan-npwp-pt-menjadi-npwp-pribadi/)
 - [Kewajiban Pelaporan SPT PPh 21 Karyawan Nihil](https://baca.diskusipajak.com/kewajiban-pelaporan-spt-pph-21-karyawan-nihil/)
-- [Pemotongan PPh Sewa Tanpa NIK Terdaftar di Coretax](https://baca.diskusipajak.com/pemotongan-pph-sewa-tanpa-nik-terdaftar-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
