@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bisnisnya di daerah, tapi mau bayar pajaknya di Jakarta](https://baca.diskusipajak.com/bisnisnya-di-daerah-tapi-mau-bayar-pajaknya-di-jakarta/)
+- [Kemas Ulang Beras + Vitamin](https://baca.diskusipajak.com/kemas-ulang-beras-vitamin/)
 - [Natura dan Kenikmatan: Pelaporan Daftar Nominatif dan Dampaknya](https://baca.diskusipajak.com/natura-dan-kenikmatan-pelaporan-daftar-nominatif-dan-dampaknya/)
 - [&quot;Debit Tersisa&quot; di Coretax](https://baca.diskusipajak.com/debit-tersisa-di-coretax/)
 - [Pajak atas Hadiah Undian: Ketentuan, Subjek, dan Prosedur](https://baca.diskusipajak.com/pajak-atas-hadiah-undian-ketentuan-subjek-dan-prosedur/)
-- [Perubahan NPWP PT Menjadi NPWP Pribadi](https://baca.diskusipajak.com/perubahan-npwp-pt-menjadi-npwp-pribadi/)
-- [Kewajiban Pelaporan SPT PPh 21 Karyawan Nihil](https://baca.diskusipajak.com/kewajiban-pelaporan-spt-pph-21-karyawan-nihil/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
