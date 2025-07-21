@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPN JLN tidak dapat di PBK?](https://baca.diskusipajak.com/ppn-jln-tidak-dapat-di-pbk/)
 - [Bisnisnya di daerah, tapi mau bayar pajaknya di Jakarta](https://baca.diskusipajak.com/bisnisnya-di-daerah-tapi-mau-bayar-pajaknya-di-jakarta/)
 - [Kemas Ulang Beras + Vitamin](https://baca.diskusipajak.com/kemas-ulang-beras-vitamin/)
 - [Natura dan Kenikmatan: Pelaporan Daftar Nominatif dan Dampaknya](https://baca.diskusipajak.com/natura-dan-kenikmatan-pelaporan-daftar-nominatif-dan-dampaknya/)
 - [&quot;Debit Tersisa&quot; di Coretax](https://baca.diskusipajak.com/debit-tersisa-di-coretax/)
-- [Pajak atas Hadiah Undian: Ketentuan, Subjek, dan Prosedur](https://baca.diskusipajak.com/pajak-atas-hadiah-undian-ketentuan-subjek-dan-prosedur/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
