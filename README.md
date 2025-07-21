@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kendala Teknis Pembetulan SPT PPN](https://baca.diskusipajak.com/kendala-teknis-pembetulan-spt-ppn/)
+- [Kompensasi Lebih Bayar SPT Masa PPN Setelah Pembetulan](https://baca.diskusipajak.com/kompensasi-lebih-bayar-spt-masa-ppn-setelah-pembetulan/)
 - [PPN JLN tidak dapat di PBK?](https://baca.diskusipajak.com/ppn-jln-tidak-dapat-di-pbk/)
 - [Bisnisnya di daerah, tapi mau bayar pajaknya di Jakarta](https://baca.diskusipajak.com/bisnisnya-di-daerah-tapi-mau-bayar-pajaknya-di-jakarta/)
 - [Kemas Ulang Beras + Vitamin](https://baca.diskusipajak.com/kemas-ulang-beras-vitamin/)
-- [Natura dan Kenikmatan: Pelaporan Daftar Nominatif dan Dampaknya](https://baca.diskusipajak.com/natura-dan-kenikmatan-pelaporan-daftar-nominatif-dan-dampaknya/)
-- [&quot;Debit Tersisa&quot; di Coretax](https://baca.diskusipajak.com/debit-tersisa-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
