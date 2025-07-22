@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pencabutan Pengukuhan PKP](https://baca.diskusipajak.com/pencabutan-pengukuhan-pkp/)
 - [Pemungutan Pajak di Marketplace](https://baca.diskusipajak.com/pemungutan-pajak-di-marketplace/)
 - [SPT Istri yg bekerja di perusahaan suami](https://baca.diskusipajak.com/spt-istri-yg-bekerja-di-perusahaan-suami/)
 - [Kendala Teknis Pembetulan SPT PPN](https://baca.diskusipajak.com/kendala-teknis-pembetulan-spt-ppn/)
 - [Kompensasi Lebih Bayar SPT Masa PPN Setelah Pembetulan](https://baca.diskusipajak.com/kompensasi-lebih-bayar-spt-masa-ppn-setelah-pembetulan/)
-- [PPN JLN tidak dapat di PBK?](https://baca.diskusipajak.com/ppn-jln-tidak-dapat-di-pbk/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
