@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Tata Cara Pengaktifan Kembali Wajib Pajak](https://baca.diskusipajak.com/tata-cara-pengaktifan-kembali-wajib-pajak/)
+- [Tata Cara Penghapusan Nomor Pokok Wajib Pajak &lpar;NPWP&rpar;](https://baca.diskusipajak.com/tata-cara-penghapusan-nomor-pokok-wajib-pajak-npwp/)
 - [Pencabutan Pengukuhan PKP](https://baca.diskusipajak.com/pencabutan-pengukuhan-pkp/)
 - [Pemungutan Pajak di Marketplace](https://baca.diskusipajak.com/pemungutan-pajak-di-marketplace/)
 - [SPT Istri yg bekerja di perusahaan suami](https://baca.diskusipajak.com/spt-istri-yg-bekerja-di-perusahaan-suami/)
-- [Kendala Teknis Pembetulan SPT PPN](https://baca.diskusipajak.com/kendala-teknis-pembetulan-spt-ppn/)
-- [Kompensasi Lebih Bayar SPT Masa PPN Setelah Pembetulan](https://baca.diskusipajak.com/kompensasi-lebih-bayar-spt-masa-ppn-setelah-pembetulan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
