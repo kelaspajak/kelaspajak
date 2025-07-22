@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Tata Cara Penetapan Wajib Pajak Nonaktif](https://baca.diskusipajak.com/tata-cara-penetapan-wajib-pajak-nonaktif/)
 - [Tata Cara Pengaktifan Kembali Wajib Pajak](https://baca.diskusipajak.com/tata-cara-pengaktifan-kembali-wajib-pajak/)
 - [Tata Cara Penghapusan Nomor Pokok Wajib Pajak &lpar;NPWP&rpar;](https://baca.diskusipajak.com/tata-cara-penghapusan-nomor-pokok-wajib-pajak-npwp/)
 - [Pencabutan Pengukuhan PKP](https://baca.diskusipajak.com/pencabutan-pengukuhan-pkp/)
 - [Pemungutan Pajak di Marketplace](https://baca.diskusipajak.com/pemungutan-pajak-di-marketplace/)
-- [SPT Istri yg bekerja di perusahaan suami](https://baca.diskusipajak.com/spt-istri-yg-bekerja-di-perusahaan-suami/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
