@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Tata Cara Pencabutan Penetapan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-pencabutan-penetapan-status-wajib-pajak/)
 - [Tata Cara Perubahan Data atas Penambahan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-perubahan-data-atas-penambahan-status-wajib-pajak/)
 - [Pentingnya menjaga kerahasiaan data pribadi dalam konteks pajak](https://baca.diskusipajak.com/pentingnya-menjaga-kerahasiaan-data-pribadi-dalam-konteks-pajak/)
 - [Tata Cara Penambahan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-penambahan-status-wajib-pajak/)
 - [Tata Cara Penetapan Wajib Pajak Nonaktif](https://baca.diskusipajak.com/tata-cara-penetapan-wajib-pajak-nonaktif/)
-- [Tata Cara Pengaktifan Kembali Wajib Pajak](https://baca.diskusipajak.com/tata-cara-pengaktifan-kembali-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
