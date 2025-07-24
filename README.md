@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Mengakses Menu VAT Refund di Coretax](https://baca.diskusipajak.com/mengakses-menu-vat-refund-di-coretax/)
 - [Tata Cara Pemberian Surat Keterangan Fiskal](https://baca.diskusipajak.com/tata-cara-pemberian-surat-keterangan-fiskal/)
 - [Penggunaan NPWP cabang, Sertifikat Elektronik, EFIN, dan Akun Pengusaha Kena Pajak di 2025](https://baca.diskusipajak.com/penggunaan-npwp-cabang-sertifikat-elektronik-efin-dan-akun-pengusaha-kena-pajak-di-2025/)
 - [Tata Cara Pencabutan Penetapan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-pencabutan-penetapan-status-wajib-pajak/)
 - [Tata Cara Perubahan Data atas Penambahan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-perubahan-data-atas-penambahan-status-wajib-pajak/)
-- [Pentingnya menjaga kerahasiaan data pribadi dalam konteks pajak](https://baca.diskusipajak.com/pentingnya-menjaga-kerahasiaan-data-pribadi-dalam-konteks-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
