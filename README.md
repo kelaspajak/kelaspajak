@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mendaftarkan NIK ke Database Coretax untuk Non-Wajib NPWP](https://baca.diskusipajak.com/cara-mendaftarkan-nik-ke-database-coretax-untuk-non-wajib-npwp/)
+- [Solusi Notifikasi &quot;Nomor Identitas Nasional Diduplikasi!&quot; di Coretax](https://baca.diskusipajak.com/solusi-notifikasi-nomor-identitas-nasional-diduplikasi-di-coretax/)
+- [NIK Pegawai Tidak Ditemukan di eBupot Coretax](https://baca.diskusipajak.com/nik-pegawai-tidak-ditemukan-di-ebupot-coretax/)
 - [Mengakses Menu VAT Refund di Coretax](https://baca.diskusipajak.com/mengakses-menu-vat-refund-di-coretax/)
 - [Tata Cara Pemberian Surat Keterangan Fiskal](https://baca.diskusipajak.com/tata-cara-pemberian-surat-keterangan-fiskal/)
-- [Penggunaan NPWP cabang, Sertifikat Elektronik, EFIN, dan Akun Pengusaha Kena Pajak di 2025](https://baca.diskusipajak.com/penggunaan-npwp-cabang-sertifikat-elektronik-efin-dan-akun-pengusaha-kena-pajak-di-2025/)
-- [Tata Cara Pencabutan Penetapan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-pencabutan-penetapan-status-wajib-pajak/)
-- [Tata Cara Perubahan Data atas Penambahan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-perubahan-data-atas-penambahan-status-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
