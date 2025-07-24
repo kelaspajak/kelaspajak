@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Tata Cara Pemberian Surat Keterangan Fiskal](https://baca.diskusipajak.com/tata-cara-pemberian-surat-keterangan-fiskal/)
+- [Penggunaan NPWP cabang, Sertifikat Elektronik, EFIN, dan Akun Pengusaha Kena Pajak di 2025](https://baca.diskusipajak.com/penggunaan-npwp-cabang-sertifikat-elektronik-efin-dan-akun-pengusaha-kena-pajak-di-2025/)
 - [Tata Cara Pencabutan Penetapan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-pencabutan-penetapan-status-wajib-pajak/)
 - [Tata Cara Perubahan Data atas Penambahan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-perubahan-data-atas-penambahan-status-wajib-pajak/)
 - [Pentingnya menjaga kerahasiaan data pribadi dalam konteks pajak](https://baca.diskusipajak.com/pentingnya-menjaga-kerahasiaan-data-pribadi-dalam-konteks-pajak/)
-- [Tata Cara Penambahan Status Wajib Pajak](https://baca.diskusipajak.com/tata-cara-penambahan-status-wajib-pajak/)
-- [Tata Cara Penetapan Wajib Pajak Nonaktif](https://baca.diskusipajak.com/tata-cara-penetapan-wajib-pajak-nonaktif/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
