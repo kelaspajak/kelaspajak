@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penyusutan Harta Berwujud](https://baca.diskusipajak.com/penyusutan-harta-berwujud/)
 - [Cara Mendaftarkan NIK ke Database Coretax untuk Non-Wajib NPWP](https://baca.diskusipajak.com/cara-mendaftarkan-nik-ke-database-coretax-untuk-non-wajib-npwp/)
 - [Solusi Notifikasi &quot;Nomor Identitas Nasional Diduplikasi!&quot; di Coretax](https://baca.diskusipajak.com/solusi-notifikasi-nomor-identitas-nasional-diduplikasi-di-coretax/)
 - [NIK Pegawai Tidak Ditemukan di eBupot Coretax](https://baca.diskusipajak.com/nik-pegawai-tidak-ditemukan-di-ebupot-coretax/)
 - [Mengakses Menu VAT Refund di Coretax](https://baca.diskusipajak.com/mengakses-menu-vat-refund-di-coretax/)
-- [Tata Cara Pemberian Surat Keterangan Fiskal](https://baca.diskusipajak.com/tata-cara-pemberian-surat-keterangan-fiskal/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
