@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Penyusutan Harta Berwujud](https://baca.diskusipajak.com/penyusutan-harta-berwujud/)
-- [Cara Mendaftarkan NIK ke Database Coretax untuk Non-Wajib NPWP](https://baca.diskusipajak.com/cara-mendaftarkan-nik-ke-database-coretax-untuk-non-wajib-npwp/)
-- [Solusi Notifikasi &quot;Nomor Identitas Nasional Diduplikasi!&quot; di Coretax](https://baca.diskusipajak.com/solusi-notifikasi-nomor-identitas-nasional-diduplikasi-di-coretax/)
-- [NIK Pegawai Tidak Ditemukan di eBupot Coretax](https://baca.diskusipajak.com/nik-pegawai-tidak-ditemukan-di-ebupot-coretax/)
-- [Mengakses Menu VAT Refund di Coretax](https://baca.diskusipajak.com/mengakses-menu-vat-refund-di-coretax/)
+- [PPN via Ekspedisi seperti DHL](https://baca.diskusipajak.com/ppn-via-ekspedisi-seperti-dhl/)
+- [Penunjukan Konsultan Pajak Tertunda di Coretax](https://baca.diskusipajak.com/penunjukan-konsultan-pajak-tertunda-di-coretax/)
+- [Amortisasi Harta Tak Berwujud dan Perangkat Lunak](https://baca.diskusipajak.com/amortisasi-harta-tak-berwujud-dan-perangkat-lunak/)
+- [Bisakah Membuat NPWP Tanpa Penghasilan?](https://baca.diskusipajak.com/bisakah-membuat-npwp-tanpa-penghasilan/)
+- [Tata Cara Perubahan Metode Pembukuan dan/atau Tahun Buku](https://baca.diskusipajak.com/tata-cara-perubahan-metode-pembukuan-dan-atau-tahun-buku/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
