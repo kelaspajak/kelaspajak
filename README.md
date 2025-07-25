@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Contoh Kasus Diskon Khusus Pegawai atas Pembelian Barang Produksi dan/atau Barang Dagangan Pemberi Kerja](https://baca.diskusipajak.com/contoh-kasus-diskon-khusus-pegawai-atas-pembelian-barang-produksi-dan-atau-barang-dagangan-pemberi-kerja/)
+- [Ringkasan Kewajiban Perpajakan Instansi Pemerintah](https://baca.diskusipajak.com/ringkasan-kewajiban-perpajakan-instansi-pemerintah/)
+- [Faktur Pajak Uang Muka Bertahap &lpar;Termin&rpar;](https://baca.diskusipajak.com/faktur-pajak-uang-muka-bertahap-termin/)
 - [PPN via Ekspedisi seperti DHL](https://baca.diskusipajak.com/ppn-via-ekspedisi-seperti-dhl/)
 - [Penunjukan Konsultan Pajak Tertunda di Coretax](https://baca.diskusipajak.com/penunjukan-konsultan-pajak-tertunda-di-coretax/)
-- [Amortisasi Harta Tak Berwujud dan Perangkat Lunak](https://baca.diskusipajak.com/amortisasi-harta-tak-berwujud-dan-perangkat-lunak/)
-- [Bisakah Membuat NPWP Tanpa Penghasilan?](https://baca.diskusipajak.com/bisakah-membuat-npwp-tanpa-penghasilan/)
-- [Tata Cara Perubahan Metode Pembukuan dan/atau Tahun Buku](https://baca.diskusipajak.com/tata-cara-perubahan-metode-pembukuan-dan-atau-tahun-buku/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
