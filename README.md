@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penyusutan Harta Berwujud dan/atau Amortisasi Harta Tak Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu](https://baca.diskusipajak.com/penyusutan-harta-berwujud-dan-atau-amortisasi-harta-tak-berwujud-yang-dimiliki-dan-digunakan-dalam-bidang-usaha-tertentu/)
 - [Contoh Kasus Diskon Khusus Pegawai atas Pembelian Barang Produksi dan/atau Barang Dagangan Pemberi Kerja](https://baca.diskusipajak.com/contoh-kasus-diskon-khusus-pegawai-atas-pembelian-barang-produksi-dan-atau-barang-dagangan-pemberi-kerja/)
 - [Ringkasan Kewajiban Perpajakan Instansi Pemerintah](https://baca.diskusipajak.com/ringkasan-kewajiban-perpajakan-instansi-pemerintah/)
 - [Faktur Pajak Uang Muka Bertahap &lpar;Termin&rpar;](https://baca.diskusipajak.com/faktur-pajak-uang-muka-bertahap-termin/)
 - [PPN via Ekspedisi seperti DHL](https://baca.diskusipajak.com/ppn-via-ekspedisi-seperti-dhl/)
-- [Penunjukan Konsultan Pajak Tertunda di Coretax](https://baca.diskusipajak.com/penunjukan-konsultan-pajak-tertunda-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
