@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh 23: Bayar Mei, Bukpot Mei](https://baca.diskusipajak.com/pph-23-bayar-mei-bukpot-mei/)
+- [PPN Penjualan Pasir Kuarsa](https://baca.diskusipajak.com/ppn-penjualan-pasir-kuarsa/)
+- [Contoh Kasus Natura &amp; Kenikmatan](https://baca.diskusipajak.com/c/)
 - [Pemberian Pinjaman Khusus Pegawai dengan Suku Bunga di Bawah Suku Bunga Pinjaman yang Dipublikasikan untuk Umum](https://baca.diskusipajak.com/pemberian-pinjaman-khusus-pegawai-dengan-suku-bunga-di-bawah-suku-bunga-pinjaman-yang-dipublikasikan-untuk-umum/)
 - [Tata Cara Permohonan Persetujuan dan Pemberitahuan Penyusutan &amp; Amortisasi](https://baca.diskusipajak.com/tata-cara-permohonan-persetujuan-dan-pemberitahuan-penyusutan-amortisasi/)
-- [Penyusutan Harta Berwujud dan/atau Amortisasi Harta Tak Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu](https://baca.diskusipajak.com/penyusutan-harta-berwujud-dan-atau-amortisasi-harta-tak-berwujud-yang-dimiliki-dan-digunakan-dalam-bidang-usaha-tertentu/)
-- [Contoh Kasus Diskon Khusus Pegawai atas Pembelian Barang Produksi dan/atau Barang Dagangan Pemberi Kerja](https://baca.diskusipajak.com/contoh-kasus-diskon-khusus-pegawai-atas-pembelian-barang-produksi-dan-atau-barang-dagangan-pemberi-kerja/)
-- [Ringkasan Kewajiban Perpajakan Instansi Pemerintah](https://baca.diskusipajak.com/ringkasan-kewajiban-perpajakan-instansi-pemerintah/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
