@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penanggung Jawab, Impersonate dan Penambahan Role Akses WP Badan](https://baca.diskusipajak.com/penanggung-jawab-impersonate-dan-penambahan-role-akses-wp-badan/)
 - [Reminder Bagi PKP yang baru terdaftar sejak Coretax](https://baca.diskusipajak.com/reminder-bagi-pkp-yang-baru-terdaftar-sejak-coretax/)
 - [Solusi Kesalahan Tahun Pembayaran PPh Pasal 25](https://baca.diskusipajak.com/solusi-kesalahan-tahun-pembayaran-pph-pasal-25/)
 - [LB karena aturan PPN Kendaraan Listrik 2025](https://baca.diskusipajak.com/lb-karena-aturan-ppn-kendaraan-listrik-2025/)
 - [PPh 23: Bayar Mei, Bukpot Mei](https://baca.diskusipajak.com/pph-23-bayar-mei-bukpot-mei/)
-- [PPN Penjualan Pasir Kuarsa](https://baca.diskusipajak.com/ppn-penjualan-pasir-kuarsa/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
