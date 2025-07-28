@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pemberian Pinjaman Khusus Pegawai dengan Suku Bunga di Bawah Suku Bunga Pinjaman yang Dipublikasikan untuk Umum](https://baca.diskusipajak.com/pemberian-pinjaman-khusus-pegawai-dengan-suku-bunga-di-bawah-suku-bunga-pinjaman-yang-dipublikasikan-untuk-umum/)
 - [Tata Cara Permohonan Persetujuan dan Pemberitahuan Penyusutan &amp; Amortisasi](https://baca.diskusipajak.com/tata-cara-permohonan-persetujuan-dan-pemberitahuan-penyusutan-amortisasi/)
 - [Penyusutan Harta Berwujud dan/atau Amortisasi Harta Tak Berwujud yang Dimiliki dan Digunakan dalam Bidang Usaha Tertentu](https://baca.diskusipajak.com/penyusutan-harta-berwujud-dan-atau-amortisasi-harta-tak-berwujud-yang-dimiliki-dan-digunakan-dalam-bidang-usaha-tertentu/)
 - [Contoh Kasus Diskon Khusus Pegawai atas Pembelian Barang Produksi dan/atau Barang Dagangan Pemberi Kerja](https://baca.diskusipajak.com/contoh-kasus-diskon-khusus-pegawai-atas-pembelian-barang-produksi-dan-atau-barang-dagangan-pemberi-kerja/)
 - [Ringkasan Kewajiban Perpajakan Instansi Pemerintah](https://baca.diskusipajak.com/ringkasan-kewajiban-perpajakan-instansi-pemerintah/)
-- [Faktur Pajak Uang Muka Bertahap &lpar;Termin&rpar;](https://baca.diskusipajak.com/faktur-pajak-uang-muka-bertahap-termin/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
