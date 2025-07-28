@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Solusi Kesalahan Tahun Pembayaran PPh Pasal 25](https://baca.diskusipajak.com/solusi-kesalahan-tahun-pembayaran-pph-pasal-25/)
+- [LB karena aturan PPN Kendaraan Listrik 2025](https://baca.diskusipajak.com/lb-karena-aturan-ppn-kendaraan-listrik-2025/)
 - [PPh 23: Bayar Mei, Bukpot Mei](https://baca.diskusipajak.com/pph-23-bayar-mei-bukpot-mei/)
 - [PPN Penjualan Pasir Kuarsa](https://baca.diskusipajak.com/ppn-penjualan-pasir-kuarsa/)
 - [Contoh Kasus Natura &amp; Kenikmatan](https://baca.diskusipajak.com/c/)
-- [Pemberian Pinjaman Khusus Pegawai dengan Suku Bunga di Bawah Suku Bunga Pinjaman yang Dipublikasikan untuk Umum](https://baca.diskusipajak.com/pemberian-pinjaman-khusus-pegawai-dengan-suku-bunga-di-bawah-suku-bunga-pinjaman-yang-dipublikasikan-untuk-umum/)
-- [Tata Cara Permohonan Persetujuan dan Pemberitahuan Penyusutan &amp; Amortisasi](https://baca.diskusipajak.com/tata-cara-permohonan-persetujuan-dan-pemberitahuan-penyusutan-amortisasi/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
