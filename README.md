@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Contoh Daftar Nominatif Natura &amp; Kenikmatan](https://baca.diskusipajak.com/contoh-daftar-nominatif-natura-kenikmatan/)
 - [Pembayaran SPT di Hari Terakhir Deadline](https://baca.diskusipajak.com/pembayaran-spt-di-hari-terakhir-deadline/)
 - [Ketentuan Pembuatan Faktur Pajak Gabungan](https://baca.diskusipajak.com/ketentuan-pembuatan-faktur-pajak-gabungan/)
 - [Keterangan Kode Role Akses &amp; Tata Cara Setting Role Akses](https://baca.diskusipajak.com/keterangan-kode-role-akses-tata-cara-setting-role-akses/)
 - [Penanggung Jawab, Impersonate dan Penambahan Role Akses WP Badan](https://baca.diskusipajak.com/penanggung-jawab-impersonate-dan-penambahan-role-akses-wp-badan/)
-- [Reminder Bagi PKP yang baru terdaftar sejak Coretax](https://baca.diskusipajak.com/reminder-bagi-pkp-yang-baru-terdaftar-sejak-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
