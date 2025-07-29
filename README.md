@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pajak Subscription Fee Luar Negeri](https://baca.diskusipajak.com/pajak-subscription-fee-luar-negeri/)
 - [Batalkan SSE yang sudah dibuat](https://baca.diskusipajak.com/batalkan-sse-yang-sudah-dibuat/)
 - [Deposit Pajak Cukup, Tapi Opsi Pembayaran Tidak Muncul saat Lapor SPT](https://baca.diskusipajak.com/deposit-pajak-cukup-tapi-opsi-pembayaran-tidak-muncul-saat-lapor-spt/)
 - [Contoh Daftar Nominatif Natura &amp; Kenikmatan](https://baca.diskusipajak.com/contoh-daftar-nominatif-natura-kenikmatan/)
 - [Pembayaran SPT di Hari Terakhir Deadline](https://baca.diskusipajak.com/pembayaran-spt-di-hari-terakhir-deadline/)
-- [Ketentuan Pembuatan Faktur Pajak Gabungan](https://baca.diskusipajak.com/ketentuan-pembuatan-faktur-pajak-gabungan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
