@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Biaya Operasional Kendaraan Pribadi Direktur](https://baca.diskusipajak.com/biaya-operasional-kendaraan-pribadi-direktur/)
+- [Prosedur Restitusi PPN Melalui Pemeriksaan](https://baca.diskusipajak.com/prosedur-restitusi-ppn-melalui-pemeriksaan/)
+- [Kode Faktur Pajak Penjualan Benih/Bibit](https://baca.diskusipajak.com/kode-faktur-pajak-penjualan-benih-bibit/)
+- [PPh Pegawai Tidak Tetap di akhir tahun](https://baca.diskusipajak.com/pph-pegawai-tidak-tetap-di-akhir-tahun/)
 - [Kode Faktur Pajak transaksi ke WAPU non instansi](https://baca.diskusipajak.com/kode-faktur-pajak-transaksi-ke-wapu-non-instansi/)
-- [Pajak Subscription Fee Luar Negeri](https://baca.diskusipajak.com/pajak-subscription-fee-luar-negeri/)
-- [Batalkan SSE yang sudah dibuat](https://baca.diskusipajak.com/batalkan-sse-yang-sudah-dibuat/)
-- [Deposit Pajak Cukup, Tapi Opsi Pembayaran Tidak Muncul saat Lapor SPT](https://baca.diskusipajak.com/deposit-pajak-cukup-tapi-opsi-pembayaran-tidak-muncul-saat-lapor-spt/)
-- [Contoh Daftar Nominatif Natura &amp; Kenikmatan](https://baca.diskusipajak.com/contoh-daftar-nominatif-natura-kenikmatan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
