@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pelaporan Pajak Masukan yang Dibiayakan](https://baca.diskusipajak.com/pelaporan-pajak-masukan-yang-dibiayakan/)
+- [Validasi PPh PHTB Lelang Tanpa Notaris](https://baca.diskusipajak.com/validasi-pph-phtb-lelang-tanpa-notaris/)
 - [Membuat Billing untuk STP Keterlambatan SPT Tahunan](https://baca.diskusipajak.com/membuat-billing-untuk-stp-keterlambatan-spt-tahunan/)
 - [Biaya Operasional Kendaraan Pribadi Direktur](https://baca.diskusipajak.com/biaya-operasional-kendaraan-pribadi-direktur/)
 - [Prosedur Restitusi PPN Melalui Pemeriksaan](https://baca.diskusipajak.com/prosedur-restitusi-ppn-melalui-pemeriksaan/)
-- [Kode Faktur Pajak Penjualan Benih/Bibit](https://baca.diskusipajak.com/kode-faktur-pajak-penjualan-benih-bibit/)
-- [PPh Pegawai Tidak Tetap di akhir tahun](https://baca.diskusipajak.com/pph-pegawai-tidak-tetap-di-akhir-tahun/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
