@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pemotongan PPh Sewa Apartemen ke Orang Pribadi](https://baca.diskusipajak.com/pemotongan-pph-sewa-apartemen-ke-orang-pribadi/)
 - [PPh Pasal 22 untuk Perusahaan Asuransi di E-commerce &lpar;PMK-37/2025&rpar;](https://baca.diskusipajak.com/pph-pasal-22-untuk-perusahaan-asuransi-di-e-commerce-pmk-37-2025/)
 - [PPh Pasal 22 UMKM di Marketplace: Bebas Pungutan?](https://baca.diskusipajak.com/pph-pasal-22-umkm-di-marketplace-bebas-pungutan/)
 - [Pelaporan Pajak Masukan yang Dibiayakan](https://baca.diskusipajak.com/pelaporan-pajak-masukan-yang-dibiayakan/)
 - [Validasi PPh PHTB Lelang Tanpa Notaris](https://baca.diskusipajak.com/validasi-pph-phtb-lelang-tanpa-notaris/)
-- [Membuat Billing untuk STP Keterlambatan SPT Tahunan](https://baca.diskusipajak.com/membuat-billing-untuk-stp-keterlambatan-spt-tahunan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
