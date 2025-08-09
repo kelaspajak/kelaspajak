@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Restitusi PPN di Coretax](https://baca.diskusipajak.com/restitusi-ppn-di-coretax/)
+- [Mengkreditkan Pajak Masukan Sebelum Dikukuhkan sebagai PKP](https://baca.diskusipajak.com/mengkreditkan-pajak-masukan-sebelum-dikukuhkan-sebagai-pkp/)
 - [Persyaratan Pengajuan PKP di Coretax](https://baca.diskusipajak.com/persyaratan-pengajuan-pkp-di-coretax/)
 - [Deposit SPT Terkunci di Coretax](https://baca.diskusipajak.com/deposit-spt-terkunci-di-coretax/)
 - [Pencantuman Keterangan di Faktur Pajak Jasa Sewa Alat](https://baca.diskusipajak.com/pencantuman-keterangan-di-faktur-pajak-jasa-sewa-alat/)
-- [Faktur Pajak Penjualan Minyak Goreng dan Margarin](https://baca.diskusipajak.com/faktur-pajak-penjualan-minyak-goreng-dan-margarin/)
-- [Perlakuan Pajak Donasi &lpar;CSR&rpar; untuk Yayasan Sosial](https://baca.diskusipajak.com/perlakuan-pajak-donasi-csr-untuk-yayasan-sosial/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
