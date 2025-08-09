@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Pemotongan PPh Sewa Apartemen ke Orang Pribadi](https://baca.diskusipajak.com/pemotongan-pph-sewa-apartemen-ke-orang-pribadi/)
-- [PPh Pasal 22 untuk Perusahaan Asuransi di E-commerce &lpar;PMK-37/2025&rpar;](https://baca.diskusipajak.com/pph-pasal-22-untuk-perusahaan-asuransi-di-e-commerce-pmk-37-2025/)
-- [PPh Pasal 22 UMKM di Marketplace: Bebas Pungutan?](https://baca.diskusipajak.com/pph-pasal-22-umkm-di-marketplace-bebas-pungutan/)
-- [Pelaporan Pajak Masukan yang Dibiayakan](https://baca.diskusipajak.com/pelaporan-pajak-masukan-yang-dibiayakan/)
-- [Validasi PPh PHTB Lelang Tanpa Notaris](https://baca.diskusipajak.com/validasi-pph-phtb-lelang-tanpa-notaris/)
+- [Persyaratan Pengajuan PKP di Coretax](https://baca.diskusipajak.com/persyaratan-pengajuan-pkp-di-coretax/)
+- [Deposit SPT Terkunci di Coretax](https://baca.diskusipajak.com/deposit-spt-terkunci-di-coretax/)
+- [Pencantuman Keterangan di Faktur Pajak Jasa Sewa Alat](https://baca.diskusipajak.com/pencantuman-keterangan-di-faktur-pajak-jasa-sewa-alat/)
+- [Faktur Pajak Penjualan Minyak Goreng dan Margarin](https://baca.diskusipajak.com/faktur-pajak-penjualan-minyak-goreng-dan-margarin/)
+- [Perlakuan Pajak Donasi &lpar;CSR&rpar; untuk Yayasan Sosial](https://baca.diskusipajak.com/perlakuan-pajak-donasi-csr-untuk-yayasan-sosial/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
