@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penjelasan Skema Delta SPT](https://baca.diskusipajak.com/penjelasan-skema-delta-spt/)
+- [PPN Atas Pemberian Hadiah Barang ke Pelanggan](https://baca.diskusipajak.com/ppn-atas-pemberian-hadiah-barang-ke-pelanggan/)
+- [Pengajuan SKTD di Coretax dan DJP Online](https://baca.diskusipajak.com/pengajuan-sktd-di-coretax-dan-djp-online/)
 - [WNI di Luar Negeri yang Menjual Properti di Indonesia](https://baca.diskusipajak.com/wni-di-luar-negeri-yang-menjual-properti-di-indonesia/)
 - [Perhitungan PPh 21 Karyawan Tidak Tetap dengan Gaji Bulanan](https://baca.diskusipajak.com/perhitungan-pph-21-karyawan-tidak-tetap-dengan-gaji-bulanan/)
-- [Pinjaman Tanpa Bunga dari Selain Pemegang Saham](https://baca.diskusipajak.com/pinjaman-tanpa-bunga-dari-selain-pemegang-saham/)
-- [Perlakuan Pajak atas Pembelian Software/Aplikasi dari Luar Negeri](https://baca.diskusipajak.com/perlakuan-pajak-atas-pembelian-software-aplikasi-dari-luar-negeri/)
-- [Restitusi PPN di Coretax](https://baca.diskusipajak.com/restitusi-ppn-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
