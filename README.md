@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Perhitungan PPh 21 Karyawan Tidak Tetap dengan Gaji Bulanan](https://baca.diskusipajak.com/perhitungan-pph-21-karyawan-tidak-tetap-dengan-gaji-bulanan/)
+- [Pinjaman Tanpa Bunga dari Selain Pemegang Saham](https://baca.diskusipajak.com/pinjaman-tanpa-bunga-dari-selain-pemegang-saham/)
 - [Perlakuan Pajak atas Pembelian Software/Aplikasi dari Luar Negeri](https://baca.diskusipajak.com/perlakuan-pajak-atas-pembelian-software-aplikasi-dari-luar-negeri/)
 - [Restitusi PPN di Coretax](https://baca.diskusipajak.com/restitusi-ppn-di-coretax/)
 - [Mengkreditkan Pajak Masukan Sebelum Dikukuhkan sebagai PKP](https://baca.diskusipajak.com/mengkreditkan-pajak-masukan-sebelum-dikukuhkan-sebagai-pkp/)
-- [Persyaratan Pengajuan PKP di Coretax](https://baca.diskusipajak.com/persyaratan-pengajuan-pkp-di-coretax/)
-- [Deposit SPT Terkunci di Coretax](https://baca.diskusipajak.com/deposit-spt-terkunci-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
