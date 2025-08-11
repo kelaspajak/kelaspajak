@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Status Bukti Potong di Menu Dokumen Saya](https://baca.diskusipajak.com/status-bukti-potong-di-menu-dokumen-saya/)
+- [Korea di Coretax](https://baca.diskusipajak.com/korea-di-coretax/)
 - [Penjelasan Skema Delta SPT](https://baca.diskusipajak.com/penjelasan-skema-delta-spt/)
 - [PPN Atas Pemberian Hadiah Barang ke Pelanggan](https://baca.diskusipajak.com/ppn-atas-pemberian-hadiah-barang-ke-pelanggan/)
 - [Pengajuan SKTD di Coretax dan DJP Online](https://baca.diskusipajak.com/pengajuan-sktd-di-coretax-dan-djp-online/)
-- [WNI di Luar Negeri yang Menjual Properti di Indonesia](https://baca.diskusipajak.com/wni-di-luar-negeri-yang-menjual-properti-di-indonesia/)
-- [Perhitungan PPh 21 Karyawan Tidak Tetap dengan Gaji Bulanan](https://baca.diskusipajak.com/perhitungan-pph-21-karyawan-tidak-tetap-dengan-gaji-bulanan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
