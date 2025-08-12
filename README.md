@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pembayaran Pajak Dividen di Coretax](https://baca.diskusipajak.com/pembayaran-pajak-dividen-di-coretax/)
 - [Pengisian Kode Barang/Jasa 00000 di Coretax](https://baca.diskusipajak.com/pengisian-kode-barang-jasa-00000-di-coretax/)
 - [Status Bukti Potong di Menu Dokumen Saya](https://baca.diskusipajak.com/status-bukti-potong-di-menu-dokumen-saya/)
 - [Korea di Coretax](https://baca.diskusipajak.com/korea-di-coretax/)
 - [Penjelasan Skema Delta SPT](https://baca.diskusipajak.com/penjelasan-skema-delta-spt/)
-- [PPN Atas Pemberian Hadiah Barang ke Pelanggan](https://baca.diskusipajak.com/ppn-atas-pemberian-hadiah-barang-ke-pelanggan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
