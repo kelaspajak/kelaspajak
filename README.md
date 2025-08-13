@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Faktur Pajak untuk Pembeli dari Luar Negeri](https://baca.diskusipajak.com/faktur-pajak-untuk-pembeli-dari-luar-negeri/)
+- [Faktur Pajak untuk Transaksi dengan BUMN](https://baca.diskusipajak.com/faktur-pajak-untuk-transaksi-dengan-bumn/)
 - [Pembayaran Pajak Dividen di Coretax](https://baca.diskusipajak.com/pembayaran-pajak-dividen-di-coretax/)
 - [Pengisian Kode Barang/Jasa 00000 di Coretax](https://baca.diskusipajak.com/pengisian-kode-barang-jasa-00000-di-coretax/)
 - [Status Bukti Potong di Menu Dokumen Saya](https://baca.diskusipajak.com/status-bukti-potong-di-menu-dokumen-saya/)
-- [Korea di Coretax](https://baca.diskusipajak.com/korea-di-coretax/)
-- [Penjelasan Skema Delta SPT](https://baca.diskusipajak.com/penjelasan-skema-delta-spt/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
