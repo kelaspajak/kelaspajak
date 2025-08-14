@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh Pasal 25 salah tahun](https://baca.diskusipajak.com/pph-pasal-25-salah-tahun/)
 - [Bukti Potong PPh 21 Upah Harian yang dibayar Mingguan](https://baca.diskusipajak.com/bukti-potong-pph-21-upah-harian-yang-dibayar-mingguan/)
 - [Hubungan Istimewa Suami-Istri](https://baca.diskusipajak.com/hubungan-istimewa-suami-istri/)
 - [Faktur Pajak untuk Pembeli dari Luar Negeri](https://baca.diskusipajak.com/faktur-pajak-untuk-pembeli-dari-luar-negeri/)
 - [Faktur Pajak untuk Transaksi dengan BUMN](https://baca.diskusipajak.com/faktur-pajak-untuk-transaksi-dengan-bumn/)
-- [Pembayaran Pajak Dividen di Coretax](https://baca.diskusipajak.com/pembayaran-pajak-dividen-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
