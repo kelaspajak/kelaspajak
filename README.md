@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [PPh Pasal 25 salah tahun](https://baca.diskusipajak.com/pph-pasal-25-salah-tahun/)
-- [Bukti Potong PPh 21 Upah Harian yang dibayar Mingguan](https://baca.diskusipajak.com/bukti-potong-pph-21-upah-harian-yang-dibayar-mingguan/)
-- [Hubungan Istimewa Suami-Istri](https://baca.diskusipajak.com/hubungan-istimewa-suami-istri/)
-- [Faktur Pajak untuk Pembeli dari Luar Negeri](https://baca.diskusipajak.com/faktur-pajak-untuk-pembeli-dari-luar-negeri/)
-- [Faktur Pajak untuk Transaksi dengan BUMN](https://baca.diskusipajak.com/faktur-pajak-untuk-transaksi-dengan-bumn/)
+- [NITKU Cabang PPh Unifikasi](https://baca.diskusipajak.com/nitku-cabang-pph-unifikasi-2/)
+- [Pengajuan Permohonan Pengurangan/Penghapusan STP PPN](https://baca.diskusipajak.com/pengajuan-permohonan-pengurangan-penghapusan-stp-ppn-2/)
+- [Retur Pajak Masukan Lintas Masa Pajak](https://baca.diskusipajak.com/retur-pajak-masukan-lintas-masa-pajak/)
+- [Pajak Penghasilan UMKM atas Bagi Hasil](https://baca.diskusipajak.com/pajak-penghasilan-umkm-atas-bagi-hasil-2/)
+- [Pajak Penghasilan atas Bagi Hasil dari Pinjaman](https://baca.diskusipajak.com/pajak-penghasilan-atas-bagi-hasil-dari-pinjaman-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
