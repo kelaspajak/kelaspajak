@@ -4,7 +4,7 @@ website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Setahun Penuh - Kurang dari Setahun di PPh21](https://baca.diskusipajak.com/setahun-penuh-kurang-dari-setahun-di-pph21/)
-- [Perlakuan Pajak atas Hadiah Langsung untuk Konsumen](https://baca.diskusipajak.com/perlakuan-pajak-atas-hadiah-langsung-untuk-konsumen/)
+- [Perlakuan PPh atas Hadiah Langsung untuk Konsumen](https://baca.diskusipajak.com/perlakuan-pajak-atas-hadiah-langsung-untuk-konsumen/)
 - [Permohonan Pengurangan Sanksi Ditolak](https://baca.diskusipajak.com/permohonan-pengurangan-sanksi-ditolak/)
 - [NITKU Cabang PPh Unifikasi](https://baca.diskusipajak.com/nitku-cabang-pph-unifikasi-2/)
 - [Pengajuan Permohonan Pengurangan/Penghapusan STP PPN](https://baca.diskusipajak.com/pengajuan-permohonan-pengurangan-penghapusan-stp-ppn-2/)
