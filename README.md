@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pengunggahan Faktur Pajak Lintas Bulan](https://baca.diskusipajak.com/pengunggahan-faktur-pajak-lintas-bulan/)
+- [Perlakuan Pajak Penghasilan atas Pendapatan Luar Negeri](https://baca.diskusipajak.com/perlakuan-pajak-penghasilan-atas-pendapatan-luar-negeri/)
 - [Setahun Penuh - Kurang dari Setahun di PPh21](https://baca.diskusipajak.com/setahun-penuh-kurang-dari-setahun-di-pph21/)
 - [Perlakuan PPh atas Hadiah Langsung untuk Konsumen](https://baca.diskusipajak.com/perlakuan-pajak-atas-hadiah-langsung-untuk-konsumen/)
 - [Permohonan Pengurangan Sanksi Ditolak](https://baca.diskusipajak.com/permohonan-pengurangan-sanksi-ditolak/)
-- [NITKU Cabang PPh Unifikasi](https://baca.diskusipajak.com/nitku-cabang-pph-unifikasi-2/)
-- [Pengajuan Permohonan Pengurangan/Penghapusan STP PPN](https://baca.diskusipajak.com/pengajuan-permohonan-pengurangan-penghapusan-stp-ppn-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
