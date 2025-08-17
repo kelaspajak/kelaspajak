@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PM tidak dapat dikreditkan, bisa dibiayakan?](https://baca.diskusipajak.com/pm-tidak-dapat-dikreditkan-bisa-dibiayakan/)
 - [Timeline Pembuatan &amp; Unggah Faktur Pajak](https://baca.diskusipajak.com/timeline-pembuatan-unggah-faktur-pajak/)
 - [Pengunggahan Faktur Pajak Lintas Bulan](https://baca.diskusipajak.com/pengunggahan-faktur-pajak-lintas-bulan/)
 - [Perlakuan Pajak Penghasilan atas Pendapatan Luar Negeri](https://baca.diskusipajak.com/perlakuan-pajak-penghasilan-atas-pendapatan-luar-negeri/)
 - [Setahun Penuh - Kurang dari Setahun di PPh21](https://baca.diskusipajak.com/setahun-penuh-kurang-dari-setahun-di-pph21/)
-- [Perlakuan PPh atas Hadiah Langsung untuk Konsumen](https://baca.diskusipajak.com/perlakuan-pajak-atas-hadiah-langsung-untuk-konsumen/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
