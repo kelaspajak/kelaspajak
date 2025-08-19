@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Aset Pribadi Dipakai Pabrik](https://baca.diskusipajak.com/aset-pribadi-dipakai-pabrik/)
+- [Pembetulan SPT Masa PPN sebelum tahun 2025](https://baca.diskusipajak.com/pembetulan-spt-masa-ppn-sebelum-tahun-2025/)
+- [Masa Berlaku SKB 📑🗓️](https://baca.diskusipajak.com/masa-berlaku-skb/)
+- [Hibah Wasiat Tanah/Bangunan ke Keponakan](https://baca.diskusipajak.com/hibah-wasiat-tanah-bangunan-ke-keponakan/)
 - [Kode Barang untuk Dedak Pakan Ikan](https://baca.diskusipajak.com/kode-barang-untuk-dedak-pakan-ikan/)
-- [Laporan realisasi PPN DTP Rumah 2025](https://baca.diskusipajak.com/laporan-realisasi-ppn-dtp-rumah-2025/)
-- [Pembatalan Bukti Potong PPh 21](https://baca.diskusipajak.com/pembatalan-bukti-potong-pph-21/)
-- [Telat Setor PPN langsung di Suspend](https://baca.diskusipajak.com/telat-setor-ppn-langsung-di-suspend/)
-- [Perubahan NPWP dari Rep. Office ke PT](https://baca.diskusipajak.com/perubahan-npwp-dari-rep-office-ke-pt/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
