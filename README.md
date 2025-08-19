@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pembatalan Bukti Potong PPh 21](https://baca.diskusipajak.com/pembatalan-bukti-potong-pph-21/)
+- [Telat Setor PPN langsung di Suspend](https://baca.diskusipajak.com/telat-setor-ppn-langsung-di-suspend/)
 - [Perubahan NPWP dari Rep. Office ke PT](https://baca.diskusipajak.com/perubahan-npwp-dari-rep-office-ke-pt/)
 - [Pengukuhan PKP Orang Pribadi vs Badan](https://baca.diskusipajak.com/pengukuhan-pkp-orang-pribadi-vs-badan/)
 - [Masa Pajak Faktur Pajak Pengganti](https://baca.diskusipajak.com/masa-pajak-faktur-pajak-pengganti/)
-- [PMK turunan Impor Mesin Bebas PPN](https://baca.diskusipajak.com/pmk-turunan-impor-mesin-bebas-ppn/)
-- [PM tidak dapat dikreditkan, bisa dibiayakan?](https://baca.diskusipajak.com/pm-tidak-dapat-dikreditkan-bisa-dibiayakan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
