@@ -3,7 +3,7 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Kode Faktur Pajak untuk Dedek Pakan Ikan](https://baca.diskusipajak.com/kode-faktur-pajak-untuk-dedek-pakan-ikan/)
+- [Kode Barang untuk Dedak Pakan Ikan](https://baca.diskusipajak.com/kode-barang-untuk-dedak-pakan-ikan/)
 - [Laporan realisasi PPN DTP Rumah 2025](https://baca.diskusipajak.com/laporan-realisasi-ppn-dtp-rumah-2025/)
 - [Pembatalan Bukti Potong PPh 21](https://baca.diskusipajak.com/pembatalan-bukti-potong-pph-21/)
 - [Telat Setor PPN langsung di Suspend](https://baca.diskusipajak.com/telat-setor-ppn-langsung-di-suspend/)
