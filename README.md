@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kode JKP didasarkan pada KLU?](https://baca.diskusipajak.com/kode-jkp-didasarkan-pada-klu/)
+- [Penghapusan vs Pengurangan Angsuran PPh 25](https://baca.diskusipajak.com/penghapusan-vs-pengurangan-angsuran-pph-25/)
+- [Penjualan Emas Batangan &amp; PPh 22](https://baca.diskusipajak.com/penjualan-emas-batangan-pph-22/)
 - [Aset Pribadi Dipakai Pabrik](https://baca.diskusipajak.com/aset-pribadi-dipakai-pabrik/)
 - [Pembetulan SPT Masa PPN sebelum tahun 2025](https://baca.diskusipajak.com/pembetulan-spt-masa-ppn-sebelum-tahun-2025/)
-- [Masa Berlaku SKB 📑🗓️](https://baca.diskusipajak.com/masa-berlaku-skb/)
-- [Hibah Wasiat Tanah/Bangunan ke Keponakan](https://baca.diskusipajak.com/hibah-wasiat-tanah-bangunan-ke-keponakan/)
-- [Kode Barang untuk Dedak Pakan Ikan](https://baca.diskusipajak.com/kode-barang-untuk-dedak-pakan-ikan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
