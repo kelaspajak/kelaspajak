@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [SPT Suami-Istri di Coretax](https://baca.diskusipajak.com/spt-suami-istri-di-coretax/)
+- [Konsultan Pajak Impersonate Coretax](https://baca.diskusipajak.com/konsultan-pajak-impersonate-coretax/)
 - [Restitusi PPh 21 Perusahaan Tutup](https://baca.diskusipajak.com/restitusi-pph-21-perusahaan-tutup/)
 - [Pajak atas Jasa Pemasangan Papan Nama Perusahaan](https://baca.diskusipajak.com/pajak-atas-jasa-pemasangan-papan-nama-perusahaan/)
 - [Kode JKP didasarkan pada KLU?](https://baca.diskusipajak.com/kode-jkp-didasarkan-pada-klu/)
-- [Penghapusan vs Pengurangan Angsuran PPh 25](https://baca.diskusipajak.com/penghapusan-vs-pengurangan-angsuran-pph-25/)
-- [Penjualan Emas Batangan &amp; PPh 22](https://baca.diskusipajak.com/penjualan-emas-batangan-pph-22/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
