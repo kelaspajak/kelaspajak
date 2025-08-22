@@ -4,7 +4,7 @@ website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Pembetulan Laporan Investasi Dividen](https://baca.diskusipajak.com/pembetulan-laporan-investasi-dividen/)
-- [Jasa Dekorasi &amp; PPh Final 0,5%](https://baca.diskusipajak.com/pertanyaan-untuk-pekerjaan-bebas-yang-terkait-jasa-tetapi-tidak-bisa-dikenakan-tarif-final-0-5-pp-55-apakah-hanya-yang-tercantum-di-pasal-56-ayat-4-saja-yang-tidak-boleh-contoh-jasa-dek/)
+- [Jasa Dekorasi &amp; PPh Final 0,5%](https://baca.diskusipajak.com/jasa-dekorasi-pph-final/)
 - [Bukti Potong PPh 21 per Invoice atau Bulanan?](https://baca.diskusipajak.com/bukti-potong-pph-21-per-invoice-atau-bulanan/)
 - [NPWP Suami Istri Beda Perusahaan](https://baca.diskusipajak.com/npwp-suami-istri-beda-perusahaan/)
 - [SPT Suami-Istri di Coretax](https://baca.diskusipajak.com/spt-suami-istri-di-coretax/)
