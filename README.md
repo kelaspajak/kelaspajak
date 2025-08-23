@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PKP untuk Jasa Konstruksi](https://baca.diskusipajak.com/pkp-untuk-jasa-konstruksi/)
 - [Pembetulan Laporan Investasi Dividen](https://baca.diskusipajak.com/pembetulan-laporan-investasi-dividen/)
 - [Jasa Dekorasi &amp; PPh Final 0,5%](https://baca.diskusipajak.com/jasa-dekorasi-pph-final/)
 - [Bukti Potong PPh 21 per Invoice atau Bulanan?](https://baca.diskusipajak.com/bukti-potong-pph-21-per-invoice-atau-bulanan/)
 - [NPWP Suami Istri Beda Perusahaan](https://baca.diskusipajak.com/npwp-suami-istri-beda-perusahaan/)
-- [SPT Suami-Istri di Coretax](https://baca.diskusipajak.com/spt-suami-istri-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
