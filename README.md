@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Pakai Genta Coretax](https://baca.diskusipajak.com/cara-pakai-genta-coretax/)
 - [Restitusi: Pendahuluan vs Pemeriksaan](https://baca.diskusipajak.com/pertanyaan-apakah-terdapat-perbedaan-proses-pemeriksaan-antara-pengembalian-pendahuluan-atas-spt-misalnya-bupot-unifikasi-salah-dengan-pengajuan-restitusi-lb-ppn-mohon-bantuannya-untuk-/)
 - [Kurs Aset Tetap USD](https://baca.diskusipajak.com/kurs-aset-tetap-usd/)
 - [Gaji Bupati dipotong PPh 21 masuk ke kategori apa?](https://baca.diskusipajak.com/pph-gaji-bupati/)
 - [Faktur PMSE TikTok Bisa Dikreditkan?](https://baca.diskusipajak.com/faktur-pmse-tiktok-bisa-dikreditkan/)
-- [PKP untuk Jasa Konstruksi](https://baca.diskusipajak.com/pkp-untuk-jasa-konstruksi/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
