@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Ragam pilihan menu Registrasi di Coretax](https://baca.diskusipajak.com/ragam-pilihan-menu-registrasi-di-coretax/)
 - [Kerugian karena penggelapan uang oleh sales](https://baca.diskusipajak.com/kerugian-karena-penggelapan-uang-oleh-sales/)
 - [STP &amp; Surat Teguran](https://baca.diskusipajak.com/stp-surat-teguran/)
 - [Donasi dari Pengurus Yayasan](https://baca.diskusipajak.com/donasi-dari-pengurus-yayasan/)
 - [Cara Pakai Genta Coretax](https://baca.diskusipajak.com/cara-pakai-genta-coretax/)
-- [Restitusi: Pendahuluan vs Pemeriksaan](https://baca.diskusipajak.com/pertanyaan-apakah-terdapat-perbedaan-proses-pemeriksaan-antara-pengembalian-pendahuluan-atas-spt-misalnya-bupot-unifikasi-salah-dengan-pengajuan-restitusi-lb-ppn-mohon-bantuannya-untuk-/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
