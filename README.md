@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penyetoran Kekurangan PPh 22 oleh Instansi](https://baca.diskusipajak.com/penyetoran-kekurangan-pph-22-oleh-instansi/)
+- [CheatSheet SKD](https://baca.diskusipajak.com/cheatsheet-skd/)
+- [Transaksi dengan Badan Promosi Dagang Luar Negeri](https://baca.diskusipajak.com/transaksi-dengan-badan-promosi-dagang-luar-negeri/)
+- [PPh 23 Sewa Kendaraan Orang Pribadi](https://baca.diskusipajak.com/pph-23-sewa-kendaraan-orang-pribadi/)
 - [Ragam pilihan menu Registrasi di Coretax](https://baca.diskusipajak.com/ragam-pilihan-menu-registrasi-di-coretax/)
-- [Kerugian karena penggelapan uang oleh sales](https://baca.diskusipajak.com/kerugian-karena-penggelapan-uang-oleh-sales/)
-- [STP &amp; Surat Teguran](https://baca.diskusipajak.com/stp-surat-teguran/)
-- [Donasi dari Pengurus Yayasan](https://baca.diskusipajak.com/donasi-dari-pengurus-yayasan/)
-- [Cara Pakai Genta Coretax](https://baca.diskusipajak.com/cara-pakai-genta-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
