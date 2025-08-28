@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh Artis Luar yang Konser di Indonesia](https://baca.diskusipajak.com/pph-artis-luar-yang-konser-di-indonesia/)
 - [Penyetoran Kekurangan PPh 22 oleh Instansi](https://baca.diskusipajak.com/penyetoran-kekurangan-pph-22-oleh-instansi/)
 - [CheatSheet SKD](https://baca.diskusipajak.com/cheatsheet-skd/)
 - [Transaksi dengan Badan Promosi Dagang Luar Negeri](https://baca.diskusipajak.com/transaksi-dengan-badan-promosi-dagang-luar-negeri/)
 - [PPh 23 Sewa Kendaraan Orang Pribadi](https://baca.diskusipajak.com/pph-23-sewa-kendaraan-orang-pribadi/)
-- [Ragam pilihan menu Registrasi di Coretax](https://baca.diskusipajak.com/ragam-pilihan-menu-registrasi-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
