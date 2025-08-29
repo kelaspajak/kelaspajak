@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh Transaksi PMSE](https://baca.diskusipajak.com/pph-transaksi-pmse/)
+- [NPWP Ayah vs Ibu Urus Taspen](https://baca.diskusipajak.com/npwp-ayah-vs-ibu-urus-taspen/)
 - [PPh Sewa Gedung](https://baca.diskusipajak.com/pph-sewa-gedung/)
 - [PPh Artis Luar yang Konser di Indonesia](https://baca.diskusipajak.com/pph-artis-luar-yang-konser-di-indonesia/)
 - [Penyetoran Kekurangan PPh 22 oleh Instansi](https://baca.diskusipajak.com/penyetoran-kekurangan-pph-22-oleh-instansi/)
-- [CheatSheet SKD](https://baca.diskusipajak.com/cheatsheet-skd/)
-- [Transaksi dengan Badan Promosi Dagang Luar Negeri](https://baca.diskusipajak.com/transaksi-dengan-badan-promosi-dagang-luar-negeri/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
