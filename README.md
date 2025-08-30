@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kode Faktur Pajak Jasa Transportasi limbah medis](https://baca.diskusipajak.com/kode-faktur-pajak-jasa-transportasi-limbah-medis/)
 - [PPh Transaksi PMSE](https://baca.diskusipajak.com/pph-transaksi-pmse/)
 - [NPWP Ayah vs Ibu Urus Taspen](https://baca.diskusipajak.com/npwp-ayah-vs-ibu-urus-taspen/)
 - [PPh Sewa Gedung](https://baca.diskusipajak.com/pph-sewa-gedung/)
 - [PPh Artis Luar yang Konser di Indonesia](https://baca.diskusipajak.com/pph-artis-luar-yang-konser-di-indonesia/)
-- [Penyetoran Kekurangan PPh 22 oleh Instansi](https://baca.diskusipajak.com/penyetoran-kekurangan-pph-22-oleh-instansi/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
