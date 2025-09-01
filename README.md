@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh UMKM Diperpanjang?](https://baca.diskusipajak.com/pph-umkm-diperpanjang/)
 - [Siapa yang Berhak Menandatangani Faktur Pajak?](https://baca.diskusipajak.com/siapa-yang-berhak-menandatangani-faktur-pajak-2/)
 - [PPN Masukan atas Pembelian Mobil Direksi](https://baca.diskusipajak.com/ppn-masukan-atas-pembelian-mobil-direksi/)
 - [Kode Faktur Pajak Jasa Transportasi limbah medis](https://baca.diskusipajak.com/kode-faktur-pajak-jasa-transportasi-limbah-medis/)
 - [PPh Transaksi PMSE](https://baca.diskusipajak.com/pph-transaksi-pmse/)
-- [NPWP Ayah vs Ibu Urus Taspen](https://baca.diskusipajak.com/npwp-ayah-vs-ibu-urus-taspen/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
