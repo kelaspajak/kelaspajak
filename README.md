@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Lapor SPT Tahunan dengan 2 Pekerjaan?](https://baca.diskusipajak.com/lapor-spt-tahunan-dengan-2-pekerjaan/)
 - [PPN Agen Asuransi](https://baca.diskusipajak.com/ppn-agen-asuransi/)
-- [PPN Penjualan BBM jenis Solar](https://baca.diskusipajak.com/pp/)
+- [PPN Penjualan BBM jenis Solar](https://baca.diskusipajak.com/ppn-penjualan-bbm-jenis-solar/)
 - [PPh UMKM Diperpanjang?](https://baca.diskusipajak.com/pph-umkm-diperpanjang/)
 - [Siapa yang Berhak Menandatangani Faktur Pajak?](https://baca.diskusipajak.com/siapa-yang-berhak-menandatangani-faktur-pajak-2/)
-- [PPN Masukan atas Pembelian Mobil Direksi](https://baca.diskusipajak.com/ppn-masukan-atas-pembelian-mobil-direksi/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
