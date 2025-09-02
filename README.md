@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPN Agen Asuransi](https://baca.diskusipajak.com/ppn-agen-asuransi/)
 - [PPN Penjualan BBM jenis Solar](https://baca.diskusipajak.com/pp/)
 - [PPh UMKM Diperpanjang?](https://baca.diskusipajak.com/pph-umkm-diperpanjang/)
 - [Siapa yang Berhak Menandatangani Faktur Pajak?](https://baca.diskusipajak.com/siapa-yang-berhak-menandatangani-faktur-pajak-2/)
 - [PPN Masukan atas Pembelian Mobil Direksi](https://baca.diskusipajak.com/ppn-masukan-atas-pembelian-mobil-direksi/)
-- [Kode Faktur Pajak Jasa Transportasi limbah medis](https://baca.diskusipajak.com/kode-faktur-pajak-jasa-transportasi-limbah-medis/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
