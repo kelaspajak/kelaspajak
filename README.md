@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pengkreditan FP atas pemberian cuma-cuma](https://baca.diskusipajak.com/pengkreditan-fp-atas-pemberian-cuma-cuma/)
+- [Solusi Billing PPh 23 salah](https://baca.diskusipajak.com/solusi-billing-pph-23-salah/)
 - [Apakah Non PKP wajib potong PPh](https://baca.diskusipajak.com/apakah-non-pkp-wajib-potong-pph/)
 - [Pajak Dividen Tanpa RUPS?](https://baca.diskusipajak.com/pajak-dividen-tanpa-rups/)
 - [Lapor SPT Tahunan dengan 2 Pekerjaan?](https://baca.diskusipajak.com/lapor-spt-tahunan-dengan-2-pekerjaan/)
-- [PPN Agen Asuransi](https://baca.diskusipajak.com/ppn-agen-asuransi/)
-- [PPN Penjualan BBM jenis Solar](https://baca.diskusipajak.com/ppn-penjualan-bbm-jenis-solar/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
