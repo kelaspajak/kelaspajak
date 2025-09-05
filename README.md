@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Dari Stelsel Kas ke Stelsel akrual](https://baca.diskusipajak.com/dari-stelsel-kas-ke-stelsel-akrual/)
 - [e-Faktur Desktop untuk PKP di 2025](https://baca.diskusipajak.com/e-faktur-desktop-untuk-pkp-di-2025/)
 - [Apakah Sah Faktur Pajak Tanpa Centang DP?](https://baca.diskusipajak.com/apakah-sah-faktur-pajak-tanpa-centang-dp/)
 - [PPh 23 untuk Biaya Ekspedisi](https://baca.diskusipajak.com/pph-23-untuk-biaya-ekspedisi/)
 - [Klarifikasi atas Pencabutan PKP secara jabatan](https://baca.diskusipajak.com/klarifikasi-atas-pencabutan-pkp-secara-jabatan/)
-- [Lapor SPT Ganti Rugi Lahan](https://baca.diskusipajak.com/lapor-spt-ganti-rugi-lahan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
