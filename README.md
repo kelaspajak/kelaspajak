@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Bukpot PPh 21 atas karyawan yang meninggal](https://baca.diskusipajak.com/bukpot-pph-21-atas-karyawan-yang-meninggal/)
-- [Layanan administrasi dengan kode AS.14](https://baca.diskusipajak.com/layanan-administrasi-dengan-kode-as-14/)
-- [Pengkreditan FP atas pemberian cuma-cuma](https://baca.diskusipajak.com/pengkreditan-fp-atas-pemberian-cuma-cuma/)
-- [Solusi Billing PPh 23 salah](https://baca.diskusipajak.com/solusi-billing-pph-23-salah/)
-- [Apakah Non PKP wajib potong PPh](https://baca.diskusipajak.com/apakah-non-pkp-wajib-potong-pph/)
+- [e-Faktur Desktop untuk PKP di 2025](https://baca.diskusipajak.com/e-faktur-desktop-untuk-pkp-di-2025/)
+- [Apakah Sah Faktur Pajak Tanpa Centang DP?](https://baca.diskusipajak.com/apakah-sah-faktur-pajak-tanpa-centang-dp/)
+- [PPh 23 untuk Biaya Ekspedisi](https://baca.diskusipajak.com/pph-23-untuk-biaya-ekspedisi/)
+- [Klarifikasi atas Pencabutan PKP secara jabatan](https://baca.diskusipajak.com/klarifikasi-atas-pencabutan-pkp-secara-jabatan/)
+- [Lapor SPT Ganti Rugi Lahan](https://baca.diskusipajak.com/lapor-spt-ganti-rugi-lahan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
