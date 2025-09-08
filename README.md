@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Praktis Menyusun SPT Badan 2025 dari Jurnal Transaksi](https://baca.diskusipajak.com/cara-praktis-menyusun-spt-badan-2025-dari-jurnal-transaksi/)
 - [Orang Pribadi Jadi Pemotong PPh 21](https://baca.diskusipajak.com/orang-pribadi-jadi-pemotong-pph-21/)
 - [Dari Stelsel Kas ke Stelsel akrual](https://baca.diskusipajak.com/dari-stelsel-kas-ke-stelsel-akrual/)
 - [e-Faktur Desktop untuk PKP di 2025](https://baca.diskusipajak.com/e-faktur-desktop-untuk-pkp-di-2025/)
 - [Apakah Sah Faktur Pajak Tanpa Centang DP?](https://baca.diskusipajak.com/apakah-sah-faktur-pajak-tanpa-centang-dp/)
-- [PPh 23 untuk Biaya Ekspedisi](https://baca.diskusipajak.com/pph-23-untuk-biaya-ekspedisi/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
