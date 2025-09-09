@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPN Jasa Angkutan Umum](https://baca.diskusipajak.com/ppn-jasa-angkutan-umum/)
 - [Kapan Mulai Pungut PPN?](https://baca.diskusipajak.com/kapan-mulai-pungut-ppn/)
 - [Cara Praktis Menyusun SPT Badan 2025 dari Jurnal Transaksi](https://baca.diskusipajak.com/cara-praktis-menyusun-spt-badan-2025-dari-jurnal-transaksi/)
 - [Orang Pribadi Jadi Pemotong PPh 21](https://baca.diskusipajak.com/orang-pribadi-jadi-pemotong-pph-21/)
 - [Dari Stelsel Kas ke Stelsel akrual](https://baca.diskusipajak.com/dari-stelsel-kas-ke-stelsel-akrual/)
-- [e-Faktur Desktop untuk PKP di 2025](https://baca.diskusipajak.com/e-faktur-desktop-untuk-pkp-di-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
