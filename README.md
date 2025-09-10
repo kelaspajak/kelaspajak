@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [TER bukan jenis pajak baru](https://baca.diskusipajak.com/ter-bukan-jenis-pajak-baru/)
+- [Siswa Magang di Gaji Bulanan](https://baca.diskusipajak.com/siswa-magang-di-gaji-bulanan/)
 - [PPh 23 Jasa + Material Cooling Tower](https://baca.diskusipajak.com/pph-23-jasa-material-cooling-tower/)
 - [Pajak Usaha Kos-kosan](https://baca.diskusipajak.com/pajak-usaha-kos-kosan/)
 - [PPh atas Voucher Promo](https://baca.diskusipajak.com/pph-atas-voucher-promo/)
-- [PPN Jasa Angkutan Umum](https://baca.diskusipajak.com/ppn-jasa-angkutan-umum/)
-- [Kapan Mulai Pungut PPN?](https://baca.diskusipajak.com/kapan-mulai-pungut-ppn/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
