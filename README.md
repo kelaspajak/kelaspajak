@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Quiz PER 11 tahun 2025 part 3](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-3/)
 - [Quiz PER 11 tahun 2025 part 1](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-1/)
 - [PPh yang tidak dapat di-PBK bisa jadi biaya](https://baca.diskusipajak.com/pph-yang-tidak-dapat-di-pbk-bisa-jadi-biaya/)
 - [TER bukan jenis pajak baru](https://baca.diskusipajak.com/ter-bukan-jenis-pajak-baru/)
 - [Siswa Magang di Gaji Bulanan](https://baca.diskusipajak.com/siswa-magang-di-gaji-bulanan/)
-- [PPh 23 Jasa + Material Cooling Tower](https://baca.diskusipajak.com/pph-23-jasa-material-cooling-tower/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
