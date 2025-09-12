@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Quiz PER 11 tahun 2025 part 4](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-4/)
 - [Quiz PER 11 tahun 2025 part 2](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-2/)
 - [Quiz PER 11 tahun 2025 part 3](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-3/)
 - [Quiz PER 11 tahun 2025 part 1](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-1/)
 - [PPh yang tidak dapat di-PBK bisa jadi biaya](https://baca.diskusipajak.com/pph-yang-tidak-dapat-di-pbk-bisa-jadi-biaya/)
-- [TER bukan jenis pajak baru](https://baca.diskusipajak.com/ter-bukan-jenis-pajak-baru/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
