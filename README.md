@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Belum punya Akun Coretax, Tapi mau Ajukan Non Aktif](https://baca.diskusipajak.com/belum-punya-akun-coretax-tapi-mau-ajukan-non-aktif/)
 - [Kasus PPh 21 bukan pegawai](https://baca.diskusipajak.com/kasus-pph-21-bukan-pegawai/)
 - [Stok Toko suami dihibahkan ke Toko Istri](https://baca.diskusipajak.com/stok-toko-suami-dihibahkan-ke-toko-istri/)
 - [Hadiah Berupa Saham ke OP dan Cara Lapornya](https://baca.diskusipajak.com/hadiah-berupa-saham-ke-op-dan-cara-lapornya/)
 - [Memulai Menjadi Wajib Pajak](https://baca.diskusipajak.com/memulai-menjadi-wajib-pajak/)
-- [Update Akta Perusahaan di Coretax](https://baca.diskusipajak.com/update-akta-perusahaan-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
