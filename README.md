@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Update Akta Perusahaan di Coretax](https://baca.diskusipajak.com/update-akta-perusahaan-di-coretax/)
 - [Tarif PPh untuk SUJK yang Kedaluwarsa](https://baca.diskusipajak.com/tarif-pph-untuk-sujk-yang-kedaluwarsa/)
 - [Quiz PER 11 tahun 2025 part 5](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-5/)
 - [PPN atas Penyewaan Kapal oleh Perusahaan Penyewaan Alat Berat](https://baca.diskusipajak.com/ppn-atas-penyewaan-kapal-oleh-perusahaan-penyewaan-alat-berat/)
 - [PPh 23 atas Jasa Pengiriman](https://baca.diskusipajak.com/pph-23-atas-jasa-pengiriman/)
-- [Quiz PER 11 tahun 2025 part 4](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-4/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
