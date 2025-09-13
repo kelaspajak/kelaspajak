@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kasus PPh 21 bukan pegawai](https://baca.diskusipajak.com/kasus-pph-21-bukan-pegawai/)
+- [Stok Toko suami dihibahkan ke Toko Istri](https://baca.diskusipajak.com/stok-toko-suami-dihibahkan-ke-toko-istri/)
+- [Hadiah Berupa Saham ke OP dan Cara Lapornya](https://baca.diskusipajak.com/hadiah-berupa-saham-ke-op-dan-cara-lapornya/)
+- [Memulai Menjadi Wajib Pajak](https://baca.diskusipajak.com/memulai-menjadi-wajib-pajak/)
 - [Update Akta Perusahaan di Coretax](https://baca.diskusipajak.com/update-akta-perusahaan-di-coretax/)
-- [Tarif PPh untuk SUJK yang Kedaluwarsa](https://baca.diskusipajak.com/tarif-pph-untuk-sujk-yang-kedaluwarsa/)
-- [Quiz PER 11 tahun 2025 part 5](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-5/)
-- [PPN atas Penyewaan Kapal oleh Perusahaan Penyewaan Alat Berat](https://baca.diskusipajak.com/ppn-atas-penyewaan-kapal-oleh-perusahaan-penyewaan-alat-berat/)
-- [PPh 23 atas Jasa Pengiriman](https://baca.diskusipajak.com/pph-23-atas-jasa-pengiriman/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
