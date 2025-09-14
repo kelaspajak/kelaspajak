@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pembetulan SPT PPh 21 Lebih dari Sekali](https://baca.diskusipajak.com/pembetulan-spt-pph-21-lebih-dari-sekali/)
+- [Biaya Pemusnahan Barang Rusak](https://baca.diskusipajak.com/biaya-pemusnahan-barang-rusak/)
 - [Quiz PER 11 tahun 2025 part 6](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-6/)
 - [Belum punya Akun Coretax, Tapi mau Ajukan Non Aktif](https://baca.diskusipajak.com/belum-punya-akun-coretax-tapi-mau-ajukan-non-aktif/)
 - [Kasus PPh 21 bukan pegawai](https://baca.diskusipajak.com/kasus-pph-21-bukan-pegawai/)
-- [Stok Toko suami dihibahkan ke Toko Istri](https://baca.diskusipajak.com/stok-toko-suami-dihibahkan-ke-toko-istri/)
-- [Hadiah Berupa Saham ke OP dan Cara Lapornya](https://baca.diskusipajak.com/hadiah-berupa-saham-ke-op-dan-cara-lapornya/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
