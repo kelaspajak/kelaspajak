@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Dividen Dibagikan Bulanan, Boleh?](https://baca.diskusipajak.com/dividen-dibagikan-bulanan-boleh/)
 - [PPN atas Air Bersih](https://baca.diskusipajak.com/ppn-atas-air-bersih/)
 - [Fasilitas tempat tinggal dari pemberi kerja](https://baca.diskusipajak.com/fasilitas-tempat-tinggal-dari-pemberi-kerja/)
 - [Pembetulan SPT PPh 21 Lebih dari Sekali](https://baca.diskusipajak.com/pembetulan-spt-pph-21-lebih-dari-sekali/)
 - [Biaya Pemusnahan Barang Rusak](https://baca.diskusipajak.com/biaya-pemusnahan-barang-rusak/)
-- [Quiz PER 11 tahun 2025 part 6](https://baca.diskusipajak.com/quiz-per-11-tahun-2025-part-6/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
