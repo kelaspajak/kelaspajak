@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Apakah PKP bisa menjual kepada WP non PKP?](https://baca.diskusipajak.com/apakah-pkp-bisa-menjual-kepada-wp-non-pkp/)
 - [PPh atas Jasa Training](https://baca.diskusipajak.com/pph-atas-jasa-training/)
 - [Dividen Dibagikan Bulanan, Boleh?](https://baca.diskusipajak.com/dividen-dibagikan-bulanan-boleh/)
 - [PPN atas Air Bersih](https://baca.diskusipajak.com/ppn-atas-air-bersih/)
 - [Fasilitas tempat tinggal dari pemberi kerja](https://baca.diskusipajak.com/fasilitas-tempat-tinggal-dari-pemberi-kerja/)
-- [Pembetulan SPT PPh 21 Lebih dari Sekali](https://baca.diskusipajak.com/pembetulan-spt-pph-21-lebih-dari-sekali/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
