@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Proses SKD WPLN](https://baca.diskusipajak.com/proses-skd-wpln/)
+- [Sewa Neon Box: PPh Final atau PPh 23?](https://baca.diskusipajak.com/sewa-neon-box-pph-final-atau-pph-23/)
+- [Koreksi Fiskal &amp; PPh 23](https://baca.diskusipajak.com/koreksi-fiskal-pph-23/)
 - [Apakah PKP bisa menjual kepada WP non PKP?](https://baca.diskusipajak.com/apakah-pkp-bisa-menjual-kepada-wp-non-pkp/)
 - [PPh atas Jasa Training](https://baca.diskusipajak.com/pph-atas-jasa-training/)
-- [Dividen Dibagikan Bulanan, Boleh?](https://baca.diskusipajak.com/dividen-dibagikan-bulanan-boleh/)
-- [PPN atas Air Bersih](https://baca.diskusipajak.com/ppn-atas-air-bersih/)
-- [Fasilitas tempat tinggal dari pemberi kerja](https://baca.diskusipajak.com/fasilitas-tempat-tinggal-dari-pemberi-kerja/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
