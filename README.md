@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Siapa yang memotong pajak sewa](https://baca.diskusipajak.com/siapa-yang-memotong-pajak-sewa/)
 - [Empat kategori Wajib Pajak](https://baca.diskusipajak.com/empat-kategori-wajib-pajak/)
 - [Ekspor Jasa Kena Pajak 2025](https://baca.diskusipajak.com/ekspor-jasa-kena-pajak-2025/)
 - [Definisi Daerah Pabean](https://baca.diskusipajak.com/definisi-daerah-pabean/)
 - [Apakah ada perbedaan antara bendahara pemerintah dan bendahara pengeluaran, atau sama saja?](https://baca.diskusipajak.com/apakah-ada-perbedaan-antara-bendahara-pemerintah-dan-bendahara-pengeluaran-atau-sama-saja/)
-- [Definisi Akun Wajib Pajak](https://baca.diskusipajak.com/quiz-perpajakan-part-7-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
