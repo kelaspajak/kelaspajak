@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh 22 untuk UMKM PP 55/2022: Pembetulan &amp; Pengembalian Pajak](https://baca.diskusipajak.com/pph-22-untuk-umkm-pp-55-2022-pembetulan-pengembalian-pajak/)
 - [PAS Final: Masih Berlaku?](https://baca.diskusipajak.com/pas-final-masih-berlaku/)
 - [PPh 23 Jasa Instalasi &amp; Internet](https://baca.diskusipajak.com/pph-23-jasa-instalasi-internet/)
 - [Siapa yang memotong pajak sewa](https://baca.diskusipajak.com/siapa-yang-memotong-pajak-sewa/)
 - [Empat kategori Wajib Pajak](https://baca.diskusipajak.com/empat-kategori-wajib-pajak/)
-- [Ekspor Jasa Kena Pajak 2025](https://baca.diskusipajak.com/ekspor-jasa-kena-pajak-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
