@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PAS Final: Masih Berlaku?](https://baca.diskusipajak.com/pas-final-masih-berlaku/)
 - [PPh 23 Jasa Instalasi &amp; Internet](https://baca.diskusipajak.com/pph-23-jasa-instalasi-internet/)
 - [Siapa yang memotong pajak sewa](https://baca.diskusipajak.com/siapa-yang-memotong-pajak-sewa/)
 - [Empat kategori Wajib Pajak](https://baca.diskusipajak.com/empat-kategori-wajib-pajak/)
 - [Ekspor Jasa Kena Pajak 2025](https://baca.diskusipajak.com/ekspor-jasa-kena-pajak-2025/)
-- [Definisi Daerah Pabean](https://baca.diskusipajak.com/definisi-daerah-pabean/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
