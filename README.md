@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kredit PPh 22 Impor Belum Diperhitungkan: Solusi Pasca-SKPKB PPh Badan](https://baca.diskusipajak.com/kredit-pph-22-impor-belum-diperhitungkan-solusi-pasca-skpkb-pph-badan/)
+- [Jangka Waktu Pelaporan Faktur Pajak Yang Tidak Dikreditkan](https://baca.diskusipajak.com/jangka-waktu-pelaporan-faktur-pajak-yang-tidak-dikreditkan/)
+- [Faktur Pajak BKP ke Pemerintah: Kode 02, DPP Nilai Lain](https://baca.diskusipajak.com/faktur-pajak-bkp-ke-pemerintah-kode-02-dpp-nilai-lain/)
+- [Penyusutan Lift: Umur Ekonomis Harta Berwujud PMK 72](https://baca.diskusipajak.com/penyusutan-lift-umur-ekonomis-harta-berwujud-pmk-72/)
 - [PPh 22 untuk UMKM PP 55/2022: Pembetulan &amp; Pengembalian Pajak](https://baca.diskusipajak.com/pph-22-untuk-umkm-pp-55-2022-pembetulan-pengembalian-pajak/)
-- [PAS Final: Masih Berlaku?](https://baca.diskusipajak.com/pas-final-masih-berlaku/)
-- [PPh 23 Jasa Instalasi &amp; Internet](https://baca.diskusipajak.com/pph-23-jasa-instalasi-internet/)
-- [Siapa yang memotong pajak sewa](https://baca.diskusipajak.com/siapa-yang-memotong-pajak-sewa/)
-- [Empat kategori Wajib Pajak](https://baca.diskusipajak.com/empat-kategori-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
