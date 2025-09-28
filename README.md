@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kewajiban Bukti Potong 1721 A1 untuk Pegawai Tidak Tetap](https://baca.diskusipajak.com/kewajiban-bukti-potong-1721-a1-untuk-pegawai-tidak-tetap/)
+- [Pembetulan Bukti Potong PPh 21, NPWP Sementara ke NIK/Valid](https://baca.diskusipajak.com/pembetulan-bukti-potong-pph-21-npwp-sementara-ke-nik-valid/)
 - [Pekerja Seni &amp; PPh 21/26: Kewajiban Potong Pajak Manajer](https://baca.diskusipajak.com/pekerja-seni-pph-21-26-kewajiban-potong-pajak-manajer/)
 - [Prosedur formal untuk mengajukan aktivasi NIK/pendaftaran WP Orang Pribadi](https://baca.diskusipajak.com/prosedur-formal-untuk-mengajukan-aktivasi-nik-pendaftaran-wp-orang-pribadi/)
 - [Identitas Bukti Potong PPh 21 Uang Pesangon Karyawan Wafat](https://baca.diskusipajak.com/identitas-bukti-potong-pph-21-uang-pesangon-karyawan-wafat/)
-- [Cara pelaporan Faktur Pajak Pengganti di SPT Masa PPN](https://baca.diskusipajak.com/cara-pelaporan-faktur-pajak-pengganti-di-spt-masa-ppn/)
-- [Kredit PPh 22 Impor Belum Diperhitungkan: Solusi Pasca-SKPKB PPh Badan](https://baca.diskusipajak.com/kredit-pph-22-impor-belum-diperhitungkan-solusi-pasca-skpkb-pph-badan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
