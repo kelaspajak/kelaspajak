@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Prosedur formal untuk pendaftaran Wajib Pajak &lpar;WP&rpar; Badan](https://baca.diskusipajak.com/prosedur-formal-untuk-pendaftaran-wajib-pajak-wp-badan/)
 - [NPWP Wajib Pajak &lpar;WP&rpar; Orang Pribadi bukan Penduduk](https://baca.diskusipajak.com/npwp-wajib-pajak-wp-orang-pribadi-bukan-penduduk/)
 - [Kewajiban Bukti Potong 1721 A1 untuk Pegawai Tidak Tetap](https://baca.diskusipajak.com/kewajiban-bukti-potong-1721-a1-untuk-pegawai-tidak-tetap/)
 - [Pembetulan Bukti Potong PPh 21, NPWP Sementara ke NIK/Valid](https://baca.diskusipajak.com/pembetulan-bukti-potong-pph-21-npwp-sementara-ke-nik-valid/)
 - [Pekerja Seni &amp; PPh 21/26: Kewajiban Potong Pajak Manajer](https://baca.diskusipajak.com/pekerja-seni-pph-21-26-kewajiban-potong-pajak-manajer/)
-- [Prosedur formal untuk mengajukan aktivasi NIK/pendaftaran WP Orang Pribadi](https://baca.diskusipajak.com/prosedur-formal-untuk-mengajukan-aktivasi-nik-pendaftaran-wp-orang-pribadi/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
