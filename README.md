@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pengajuan Surat Keterangan Bebas &lpar;SKB&rpar; PPh Pasal 23](https://baca.diskusipajak.com/pengajuan-surat-keterangan-bebas-skb-pph-pasal-23/)
 - [Tarif PPN Sewa Kendaraan Jasa Ekspedisi &amp; Kode Faktur 04](https://baca.diskusipajak.com/tarif-ppn-sewa-kendaraan-jasa-ekspedisi-kode-faktur-04/)
 - [Panduan: Solusi OTP NPWP Tidak Diterima di Telepon Seluler](https://baca.diskusipajak.com/panduan-solusi-otp-npwp-tidak-diterima-di-telepon-seluler/)
 - [Batas Waktu Pembetulan SPT Masa PPN: Rugi atau Lebih Bayar](https://baca.diskusipajak.com/batas-waktu-pembetulan-spt-masa-ppn-rugi-atau-lebih-bayar/)
 - [Prosedur formal untuk pendaftaran Wajib Pajak &lpar;WP&rpar; Badan](https://baca.diskusipajak.com/prosedur-formal-untuk-pendaftaran-wajib-pajak-wp-badan/)
-- [NPWP Wajib Pajak &lpar;WP&rpar; Orang Pribadi bukan Penduduk](https://baca.diskusipajak.com/npwp-wajib-pajak-wp-orang-pribadi-bukan-penduduk/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
