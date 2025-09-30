@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Panduan e-Bupot Setor Sendiri PPh Dividen Wajib Pajak Orang Pribadi](https://baca.diskusipajak.com/panduan-e-bupot-setor-sendiri-pph-dividen-wajib-pajak-orang-pribadi/)
+- [File: Peraturan dan sosialisasi tentang penerbitan SP2DK](https://baca.diskusipajak.com/file-peraturan-dan-sosialisasi-tentang-penerbitan-sp2dk/)
 - [Pengajuan Surat Keterangan Bebas &lpar;SKB&rpar; PPh Pasal 23](https://baca.diskusipajak.com/pengajuan-surat-keterangan-bebas-skb-pph-pasal-23/)
 - [Tarif PPN Sewa Kendaraan Jasa Ekspedisi &amp; Kode Faktur 04](https://baca.diskusipajak.com/tarif-ppn-sewa-kendaraan-jasa-ekspedisi-kode-faktur-04/)
 - [Panduan: Solusi OTP NPWP Tidak Diterima di Telepon Seluler](https://baca.diskusipajak.com/panduan-solusi-otp-npwp-tidak-diterima-di-telepon-seluler/)
-- [Batas Waktu Pembetulan SPT Masa PPN: Rugi atau Lebih Bayar](https://baca.diskusipajak.com/batas-waktu-pembetulan-spt-masa-ppn-rugi-atau-lebih-bayar/)
-- [Prosedur formal untuk pendaftaran Wajib Pajak &lpar;WP&rpar; Badan](https://baca.diskusipajak.com/prosedur-formal-untuk-pendaftaran-wajib-pajak-wp-badan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
