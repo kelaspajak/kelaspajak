@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Dampak Perpajakan Perubahan API-O ke API-P bagi Importir Produsen](https://baca.diskusipajak.com/dampak-perpajakan-perubahan-api-o-ke-api-p-bagi-importir-produsen/)
 - [Penjelasan Keharusan Legalisasi SKB PPh Pasal 23 oleh KPP](https://baca.diskusipajak.com/penjelasan-keharusan-legalisasi-skb-pph-pasal-23-oleh-kpp/)
 - [Syarat, Tarif, &amp; Kode Pajak Pemotongan PPh 23 Jasa Travel](https://baca.diskusipajak.com/syarat-tarif-kode-pajak-pemotongan-pph-23-jasa-travel/)
 - [Panduan e-Bupot Setor Sendiri PPh Dividen Wajib Pajak Orang Pribadi](https://baca.diskusipajak.com/panduan-e-bupot-setor-sendiri-pph-dividen-wajib-pajak-orang-pribadi/)
 - [File: Peraturan dan sosialisasi tentang penerbitan SP2DK](https://baca.diskusipajak.com/file-peraturan-dan-sosialisasi-tentang-penerbitan-sp2dk/)
-- [Pengajuan Surat Keterangan Bebas &lpar;SKB&rpar; PPh Pasal 23](https://baca.diskusipajak.com/pengajuan-surat-keterangan-bebas-skb-pph-pasal-23/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
