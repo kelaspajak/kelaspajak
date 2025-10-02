@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Tahapan dan Prosedur Pengajuan SPPKP Elektronik Coretax](https://baca.diskusipajak.com/tahapan-dan-prosedur-pengajuan-sppkp-elektronik-coretax/)
 - [Panduan Lengkap Penerbitan &amp; Pembetulan SKD WPLN di Coretax](https://baca.diskusipajak.com/panduan-lengkap-penerbitan-pembetulan-skd-wpln-di-coretax/)
 - [Mekanisme Pengawasan Fasilitas PPN &amp; PP 49/2022 Pemerintah](https://baca.diskusipajak.com/mekanisme-pengawasan-fasilitas-ppn-pp-49-2022-pemerintah/)
 - [Dampak Perpajakan Perubahan API-O ke API-P bagi Importir Produsen](https://baca.diskusipajak.com/dampak-perpajakan-perubahan-api-o-ke-api-p-bagi-importir-produsen/)
 - [Penjelasan Keharusan Legalisasi SKB PPh Pasal 23 oleh KPP](https://baca.diskusipajak.com/penjelasan-keharusan-legalisasi-skb-pph-pasal-23-oleh-kpp/)
-- [Syarat, Tarif, &amp; Kode Pajak Pemotongan PPh 23 Jasa Travel](https://baca.diskusipajak.com/syarat-tarif-kode-pajak-pemotongan-pph-23-jasa-travel/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
