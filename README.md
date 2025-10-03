@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Opini: Analisis Kebijakan Perpajakan Dividen](https://baca.diskusipajak.com/opini-analisis-kebijakan-perpajakan-dividen/)
+- [Konsekuensi Pajak Bagi Penjual Manipulasi Nilai Jual Beli Properti Tanah dan Bangungan](https://baca.diskusipajak.com/konsekuensi-pajak-bagi-penjual-manipulasi-nilai-jual-beli-properti-tanah-dan-bangungan/)
 - [Perlakuan PPN BKP Kawasan Bebas: Pasal 53 PP 41/2021](https://baca.diskusipajak.com/perlakuan-ppn-bkp-kawasan-bebas-pasal-53-pp-41-2021/)
 - [Tahapan dan Prosedur Pengajuan SPPKP Elektronik Coretax](https://baca.diskusipajak.com/tahapan-dan-prosedur-pengajuan-sppkp-elektronik-coretax/)
 - [Panduan Lengkap Penerbitan &amp; Pembetulan SKD WPLN di Coretax](https://baca.diskusipajak.com/panduan-lengkap-penerbitan-pembetulan-skd-wpln-di-coretax/)
-- [Mekanisme Pengawasan Fasilitas PPN &amp; PP 49/2022 Pemerintah](https://baca.diskusipajak.com/mekanisme-pengawasan-fasilitas-ppn-pp-49-2022-pemerintah/)
-- [Dampak Perpajakan Perubahan API-O ke API-P bagi Importir Produsen](https://baca.diskusipajak.com/dampak-perpajakan-perubahan-api-o-ke-api-p-bagi-importir-produsen/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
