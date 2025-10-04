@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pengertian Penghasilan Pajak berupa Gaji, Komisi, Markup dan Tip](https://baca.diskusipajak.com/pengertian-penghasilan-pajak-berupa-gaji-komisi-markup-dan-tip/)
 - [PPN KMS atas Pembangunan Pabrik](https://baca.diskusipajak.com/ppn-kms-atas-pembangunan-pabrik/)
 - [Opini: Analisis Kebijakan Perpajakan Dividen](https://baca.diskusipajak.com/opini-analisis-kebijakan-perpajakan-dividen/)
 - [Konsekuensi Pajak Bagi Penjual Manipulasi Nilai Jual Beli Properti Tanah dan Bangungan](https://baca.diskusipajak.com/konsekuensi-pajak-bagi-penjual-manipulasi-nilai-jual-beli-properti-tanah-dan-bangungan/)
 - [Perlakuan PPN BKP Kawasan Bebas: Pasal 53 PP 41/2021](https://baca.diskusipajak.com/perlakuan-ppn-bkp-kawasan-bebas-pasal-53-pp-41-2021/)
-- [Tahapan dan Prosedur Pengajuan SPPKP Elektronik Coretax](https://baca.diskusipajak.com/tahapan-dan-prosedur-pengajuan-sppkp-elektronik-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
