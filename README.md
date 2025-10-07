@@ -6,8 +6,8 @@ website: https://baca.diskusipajak.com
 - [Apakah PPN KMS Wajib Buat Faktur Pajak dan Penggunaan Kode 05](https://baca.diskusipajak.com/apakah-ppn-kms-wajib-buat-faktur-pajak-dan-penggunaan-kode-05/)
 - [Aspek Pajak Tabung 3 Kg aturan 2020](https://baca.diskusipajak.com/aspek-pajak-tabung-3-kg-aturan-2020/)
 - [Import data Bank, Budget Migration, Python](https://baca.diskusipajak.com/import-data-bank-budget-migration-python/)
-- [Portal Khusus Update NIK &amp; NPWP Karyawan/Mitra](https://baca.diskusipajak.com/portal-khusus-update-nik-npwp-karyawan-mitra/)
-- [Pajak Masukan Kendaraan Bekas Bukan Kredit Pajak Bukan Penambah HPP](https://baca.diskusipajak.com/pajak-masukan-kendaraan-bekas-bukan-kredit-pajak-bukan-penambah-hpp/)
+- [Prosedur Pembatalan Retur Pajak Masukan Approved Coretax](https://baca.diskusipajak.com/prosedur-pembatalan-retur-pajak-masukan-approved-coretax/)
+- [Panduan Pembatalan Bukti Potong Pajak Ganda eBupot DJP](https://baca.diskusipajak.com/panduan-pembatalan-bukti-potong-pajak-ganda-ebupot-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
