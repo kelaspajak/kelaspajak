@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Import data Bank, Budget Migration, Python](https://baca.diskusipajak.com/import-data-bank-budget-migration-python/)
+- [Portal Khusus Update NIK &amp; NPWP Karyawan/Mitra](https://baca.diskusipajak.com/portal-khusus-update-nik-npwp-karyawan-mitra/)
+- [Pajak Masukan Kendaraan Bekas Bukan Kredit Pajak Bukan Penambah HPP](https://baca.diskusipajak.com/pajak-masukan-kendaraan-bekas-bukan-kredit-pajak-bukan-penambah-hpp/)
 - [Setoran &amp; Bukti Kewajiban PPN Rekanan Terkait BUMN Pemungut](https://baca.diskusipajak.com/setoran-bukti-kewajiban-ppn-rekanan-terkait-bumn-pemungut/)
 - [Ketentuan Penggunaan &#39;Ganti SPT Sebelumnya&#39; SPT Pembetulan PPN](https://baca.diskusipajak.com/ketentuan-penggunaan-ganti-spt-sebelumnya-spt-pembetulan-ppn/)
-- [Pengertian Penghasilan Pajak berupa Gaji, Komisi, Markup dan Tip](https://baca.diskusipajak.com/pengertian-penghasilan-pajak-berupa-gaji-komisi-markup-dan-tip/)
-- [PPN KMS atas Pembangunan Pabrik](https://baca.diskusipajak.com/ppn-kms-atas-pembangunan-pabrik/)
-- [Opini: Analisis Kebijakan Perpajakan Dividen](https://baca.diskusipajak.com/opini-analisis-kebijakan-perpajakan-dividen/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
