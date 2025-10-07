@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Apakah PPN KMS Wajib Buat Faktur Pajak dan Penggunaan Kode 05](https://baca.diskusipajak.com/apakah-ppn-kms-wajib-buat-faktur-pajak-dan-penggunaan-kode-05/)
 - [Aspek Pajak Tabung 3 Kg aturan 2020](https://baca.diskusipajak.com/aspek-pajak-tabung-3-kg-aturan-2020/)
 - [Import data Bank, Budget Migration, Python](https://baca.diskusipajak.com/import-data-bank-budget-migration-python/)
 - [Portal Khusus Update NIK &amp; NPWP Karyawan/Mitra](https://baca.diskusipajak.com/portal-khusus-update-nik-npwp-karyawan-mitra/)
 - [Pajak Masukan Kendaraan Bekas Bukan Kredit Pajak Bukan Penambah HPP](https://baca.diskusipajak.com/pajak-masukan-kendaraan-bekas-bukan-kredit-pajak-bukan-penambah-hpp/)
-- [Setoran &amp; Bukti Kewajiban PPN Rekanan Terkait BUMN Pemungut](https://baca.diskusipajak.com/setoran-bukti-kewajiban-ppn-rekanan-terkait-bumn-pemungut/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
