@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Solusi Nonaktifkan Pihak Terkait Coretax  Ganti Tanggal Berakhir](https://baca.diskusipajak.com/solusi-nonaktifkan-pihak-terkait-coretax-ganti-tanggal-berakhir/)
 - [PPh Pasal 21 Uang Pesangon: Saat Terutang &amp; Bukti Potong Ahli Waris](https://baca.diskusipajak.com/pph-pasal-21-uang-pesangon-saat-terutang-bukti-potong-ahli-waris/)
 - [Apakah PPN KMS Wajib Buat Faktur Pajak dan Penggunaan Kode 05](https://baca.diskusipajak.com/apakah-ppn-kms-wajib-buat-faktur-pajak-dan-penggunaan-kode-05/)
 - [Aspek Pajak Tabung 3 Kg aturan 2020](https://baca.diskusipajak.com/aspek-pajak-tabung-3-kg-aturan-2020/)
 - [Import data Bank, Budget Migration, Python](https://baca.diskusipajak.com/import-data-bank-budget-migration-python/)
-- [Prosedur Pembatalan Retur Pajak Masukan Approved Coretax](https://baca.diskusipajak.com/prosedur-pembatalan-retur-pajak-masukan-approved-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
