@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Panitia Pembangunan Masjid Dapat Ajukan NPWP Kategori Badan](https://baca.diskusipajak.com/panitia-pembangunan-masjid-dapat-ajukan-npwp-kategori-badan/)
 - [Regulasi Pajak Tentang Suku Bunga Pinjaman](https://baca.diskusipajak.com/regulasi-pajak-tentang-suku-bunga-pinjaman/)
 - [Implikasi Pajak IPL Kawasan Industri: PPh 23 atau Sewa?](https://baca.diskusipajak.com/implikasi-pajak-ipl-kawasan-industri-pph-23-atau-sewa/)
 - [Solusi Nonaktifkan Pihak Terkait Coretax  Ganti Tanggal Berakhir](https://baca.diskusipajak.com/solusi-nonaktifkan-pihak-terkait-coretax-ganti-tanggal-berakhir/)
 - [PPh Pasal 21 Uang Pesangon: Saat Terutang &amp; Bukti Potong Ahli Waris](https://baca.diskusipajak.com/pph-pasal-21-uang-pesangon-saat-terutang-bukti-potong-ahli-waris/)
-- [Apakah PPN KMS Wajib Buat Faktur Pajak dan Penggunaan Kode 05](https://baca.diskusipajak.com/apakah-ppn-kms-wajib-buat-faktur-pajak-dan-penggunaan-kode-05/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
