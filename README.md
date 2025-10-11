@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Panduan e-Bupot PPh Pasal 23 Sewa Kendaraan Kantor di Coretax](https://baca.diskusipajak.com/panduan-e-bupot-pph-pasal-23-sewa-kendaraan-kantor-di-coretax/)
 - [Pengenaan PPh Penjualan Saham Mekanisme Bursa &amp; Non-Bursa](https://baca.diskusipajak.com/pengenaan-pph-penjualan-saham-mekanisme-bursa-non-bursa/)
 - [Dapatkah Biaya Makan Minum Pegawai Dibebankan Fiskal Perusahaan?](https://baca.diskusipajak.com/dapatkah-biaya-makan-minum-pegawai-dibebankan-fiskal-perusahaan/)
 - [Prosedur Pengecekan Bukti Potong PPh Unifikasi 2023 DJP Online](https://baca.diskusipajak.com/prosedur-pengecekan-bukti-potong-pph-unifikasi-2023-djp-online/)
 - [Prosedur Pemilahan PM Jasa Freight &amp; Non-Freight](https://baca.diskusipajak.com/prosedur-pemilahan-pm-jasa-freight-non-freight/)
-- [Perlakuan Fiskal Cadangan Piutang Tak Tertagih Perusahaan Dagang](https://baca.diskusipajak.com/perlakuan-fiskal-cadangan-piutang-tak-tertagih-perusahaan-dagang/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
