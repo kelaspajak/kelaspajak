@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Prosedur Pengecekan Bukti Potong PPh Unifikasi 2023 DJP Online](https://baca.diskusipajak.com/prosedur-pengecekan-bukti-potong-pph-unifikasi-2023-djp-online/)
 - [Prosedur Pemilahan PM Jasa Freight &amp; Non-Freight](https://baca.diskusipajak.com/prosedur-pemilahan-pm-jasa-freight-non-freight/)
 - [Perlakuan Fiskal Cadangan Piutang Tak Tertagih Perusahaan Dagang](https://baca.diskusipajak.com/perlakuan-fiskal-cadangan-piutang-tak-tertagih-perusahaan-dagang/)
 - [Panitia Pembangunan Masjid Dapat Ajukan NPWP Kategori Badan](https://baca.diskusipajak.com/panitia-pembangunan-masjid-dapat-ajukan-npwp-kategori-badan/)
 - [Regulasi Pajak Tentang Suku Bunga Pinjaman](https://baca.diskusipajak.com/regulasi-pajak-tentang-suku-bunga-pinjaman/)
-- [Implikasi Pajak IPL Kawasan Industri: PPh 23 atau Sewa?](https://baca.diskusipajak.com/implikasi-pajak-ipl-kawasan-industri-pph-23-atau-sewa/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
