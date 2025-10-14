@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [UU PPh: Orientasi Laba pada Kombinasi Bisnis &amp; Nilai Buku](https://baca.diskusipajak.com/uu-pph-orientasi-laba-pada-kombinasi-bisnis-nilai-buku/)
+- [Prosedur Pembayaran STP dan Pembuatan Kode Billing Coretax](https://baca.diskusipajak.com/prosedur-pembayaran-stp-dan-pembuatan-kode-billing-coretax/)
+- [Toko Online Belum PKP Bisakah Menerbitkan Faktur Pajak?](https://baca.diskusipajak.com/toko-online-belum-pkp-bisakah-menerbitkan-faktur-pajak/)
 - [PPh 21 Pesangon Terutang &amp; Nama Ahli Waris pada Bukti Potong](https://baca.diskusipajak.com/pph-21-pesangon-terutang-nama-ahli-waris-pada-bukti-potong/)
 - [PPh Final Sewa Bangunan - Potong Biaya Listrik](https://baca.diskusipajak.com/pph-final-sewa-bangunan-potong-biaya-listrik/)
-- [PPN Sponsorship Asing: Dampak bagi PKP Penyelenggara Acara](https://baca.diskusipajak.com/ppn-sponsorship-asing-dampak-bagi-pkp-penyelenggara-acara/)
-- [Konsekuensi PPBJ Tidak Terbit: Kode Faktur Pajak PPN](https://baca.diskusipajak.com/konsekuensi-ppbj-tidak-terbit-kode-faktur-pajak-ppn/)
-- [Aturan PPN Jasa ke Batam: Dokumen PPBJ &amp; Faktur Pajak 07](https://baca.diskusipajak.com/aturan-ppn-jasa-ke-batam-dokumen-ppbj-faktur-pajak-07/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
