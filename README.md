@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh 21 Pesangon Terutang &amp; Nama Ahli Waris pada Bukti Potong](https://baca.diskusipajak.com/pph-21-pesangon-terutang-nama-ahli-waris-pada-bukti-potong/)
+- [PPh Final Sewa Bangunan - Potong Biaya Listrik](https://baca.diskusipajak.com/pph-final-sewa-bangunan-potong-biaya-listrik/)
 - [PPN Sponsorship Asing: Dampak bagi PKP Penyelenggara Acara](https://baca.diskusipajak.com/ppn-sponsorship-asing-dampak-bagi-pkp-penyelenggara-acara/)
 - [Konsekuensi PPBJ Tidak Terbit: Kode Faktur Pajak PPN](https://baca.diskusipajak.com/konsekuensi-ppbj-tidak-terbit-kode-faktur-pajak-ppn/)
 - [Aturan PPN Jasa ke Batam: Dokumen PPBJ &amp; Faktur Pajak 07](https://baca.diskusipajak.com/aturan-ppn-jasa-ke-batam-dokumen-ppbj-faktur-pajak-07/)
-- [Panduan e-Bupot PPh Pasal 23 Sewa Kendaraan Kantor di Coretax](https://baca.diskusipajak.com/panduan-e-bupot-pph-pasal-23-sewa-kendaraan-kantor-di-coretax/)
-- [Pengenaan PPh Penjualan Saham Mekanisme Bursa &amp; Non-Bursa](https://baca.diskusipajak.com/pengenaan-pph-penjualan-saham-mekanisme-bursa-non-bursa/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
