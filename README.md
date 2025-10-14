@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Ketentuan Zakat Sebagai Pengurang Penghasilan Bruto Pajak](https://baca.diskusipajak.com/ketentuan-zakat-sebagai-pengurang-penghasilan-bruto-pajak/)
 - [UU PPh: Orientasi Laba pada Kombinasi Bisnis &amp; Nilai Buku](https://baca.diskusipajak.com/uu-pph-orientasi-laba-pada-kombinasi-bisnis-nilai-buku/)
 - [Prosedur Pembayaran STP dan Pembuatan Kode Billing Coretax](https://baca.diskusipajak.com/prosedur-pembayaran-stp-dan-pembuatan-kode-billing-coretax/)
 - [Toko Online Belum PKP Bisakah Menerbitkan Faktur Pajak?](https://baca.diskusipajak.com/toko-online-belum-pkp-bisakah-menerbitkan-faktur-pajak/)
 - [PPh 21 Pesangon Terutang &amp; Nama Ahli Waris pada Bukti Potong](https://baca.diskusipajak.com/pph-21-pesangon-terutang-nama-ahli-waris-pada-bukti-potong/)
-- [PPh Final Sewa Bangunan - Potong Biaya Listrik](https://baca.diskusipajak.com/pph-final-sewa-bangunan-potong-biaya-listrik/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
