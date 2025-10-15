@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pengajuan Permohonan Pengembalian Pajak yang Seharusnya Tidak Terutang PYYSTT](https://baca.diskusipajak.com/pengajuan-permohonan-pengembalian-pajak-yang-seharusnya-tidak-terutang-pyystt/)
 - [Proses Pemindahbukuan &lpar;Pbk&rpar; dari Saldo Deposit Wajib Pajak ke Surat Pemberitahuan &lpar;SPT&rpar;](https://baca.diskusipajak.com/proses-pemindahbukuan-pbk-dari-saldo-deposit-wajib-pajak-ke-surat-pemberitahuan-spt/)
 - [File Download Presentasi PMK 81 tahun 2024 khusus tatacara Pembayaran dan Penyetoran Pajak](https://baca.diskusipajak.com/file-download-presentasi-pmk-81-tahun-2024-khusus-tatacara-pembayaran-dan-penyetoran-pajak/)
 - [Cara Resmi Cek Status PKP Wajib Pajak Lain &lpar;Coretax Belum Tersedia&rpar;](https://baca.diskusipajak.com/cara-resmi-cek-status-pkp-wajib-pajak-lain-coretax-belum-tersedia/)
 - [File Download Materi Edukasi SPT Tahunan Badan Coretax untuk UMKM](https://baca.diskusipajak.com/file-download-umkm-materi-edukasi-spt-tahunan-badan-coretax/)
-- [Panduan Pengkreditan Pajak Masukan Dapat &amp; Tidak Dikreditkan PPN](https://baca.diskusipajak.com/panduan-pengkreditan-pajak-masukan-dapat-tidak-dikreditkan-ppn/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
