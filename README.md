@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Ketentuan Zakat Sebagai Pengurang Penghasilan Bruto Pajak](https://baca.diskusipajak.com/ketentuan-zakat-sebagai-pengurang-penghasilan-bruto-pajak/)
-- [UU PPh: Orientasi Laba pada Kombinasi Bisnis &amp; Nilai Buku](https://baca.diskusipajak.com/uu-pph-orientasi-laba-pada-kombinasi-bisnis-nilai-buku/)
-- [Prosedur Pembayaran STP dan Pembuatan Kode Billing Coretax](https://baca.diskusipajak.com/prosedur-pembayaran-stp-dan-pembuatan-kode-billing-coretax/)
-- [Toko Online Belum PKP Bisakah Menerbitkan Faktur Pajak?](https://baca.diskusipajak.com/toko-online-belum-pkp-bisakah-menerbitkan-faktur-pajak/)
-- [PPh 21 Pesangon Terutang &amp; Nama Ahli Waris pada Bukti Potong](https://baca.diskusipajak.com/pph-21-pesangon-terutang-nama-ahli-waris-pada-bukti-potong/)
+- [File Download Materi Edukasi SPT Tahunan Badan Coretax untuk UMKM](https://baca.diskusipajak.com/file-download-umkm-materi-edukasi-spt-tahunan-badan-coretax/)
+- [Panduan Pengkreditan Pajak Masukan Dapat &amp; Tidak Dikreditkan PPN](https://baca.diskusipajak.com/panduan-pengkreditan-pajak-masukan-dapat-tidak-dikreditkan-ppn/)
+- [Koreksi Nota Retur Pajak: Pembatalan atau Penggantian?](https://baca.diskusipajak.com/koreksi-nota-retur-pajak-pembatalan-atau-penggantian/)
+- [Perlakuan PPN PPh oleh PKP ke Yayasan Penerima Dana Hibah](https://baca.diskusipajak.com/perlakuan-ppn-pph-oleh-pkp-ke-yayasan-penerima-dana-hibah/)
+- [Pemotongan PPh 23 pada Skema Reimbursement Freight Forwarding](https://baca.diskusipajak.com/pemotongan-pph-23-pada-skema-reimbursement-freight-forwarding/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
