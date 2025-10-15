@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Resmi Cek Status PKP Wajib Pajak Lain &lpar;Coretax Belum Tersedia&rpar;](https://baca.diskusipajak.com/cara-resmi-cek-status-pkp-wajib-pajak-lain-coretax-belum-tersedia/)
 - [File Download Materi Edukasi SPT Tahunan Badan Coretax untuk UMKM](https://baca.diskusipajak.com/file-download-umkm-materi-edukasi-spt-tahunan-badan-coretax/)
 - [Panduan Pengkreditan Pajak Masukan Dapat &amp; Tidak Dikreditkan PPN](https://baca.diskusipajak.com/panduan-pengkreditan-pajak-masukan-dapat-tidak-dikreditkan-ppn/)
 - [Koreksi Nota Retur Pajak: Pembatalan atau Penggantian?](https://baca.diskusipajak.com/koreksi-nota-retur-pajak-pembatalan-atau-penggantian/)
 - [Perlakuan PPN PPh oleh PKP ke Yayasan Penerima Dana Hibah](https://baca.diskusipajak.com/perlakuan-ppn-pph-oleh-pkp-ke-yayasan-penerima-dana-hibah/)
-- [Pemotongan PPh 23 pada Skema Reimbursement Freight Forwarding](https://baca.diskusipajak.com/pemotongan-pph-23-pada-skema-reimbursement-freight-forwarding/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
