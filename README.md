@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Panduan Tata Cara Pelaporan SPT Tahunan PPh WP OP karyawan Coretax](https://baca.diskusipajak.com/panduan-tata-cara-pelaporan-spt-tahunan-pph-wp-op-karyawan-coretax/)
+- [File SPT Tahunan WP OP Penghasilan Bruto Tertentu &lpar;omzet kurang 4,8M&rpar;](https://baca.diskusipajak.com/file-spt-tahunan-wp-op-penghasilan-bruto-tertentu-omzet-kurang-4-8m/)
 - [Pengajuan Permohonan Pengembalian Pajak yang Seharusnya Tidak Terutang PYYSTT](https://baca.diskusipajak.com/pengajuan-permohonan-pengembalian-pajak-yang-seharusnya-tidak-terutang-pyystt/)
 - [Proses Pemindahbukuan &lpar;Pbk&rpar; dari Saldo Deposit Wajib Pajak ke Surat Pemberitahuan &lpar;SPT&rpar;](https://baca.diskusipajak.com/proses-pemindahbukuan-pbk-dari-saldo-deposit-wajib-pajak-ke-surat-pemberitahuan-spt/)
 - [File Download Presentasi PMK 81 tahun 2024 khusus tatacara Pembayaran dan Penyetoran Pajak](https://baca.diskusipajak.com/file-download-presentasi-pmk-81-tahun-2024-khusus-tatacara-pembayaran-dan-penyetoran-pajak/)
-- [Cara Resmi Cek Status PKP Wajib Pajak Lain &lpar;Coretax Belum Tersedia&rpar;](https://baca.diskusipajak.com/cara-resmi-cek-status-pkp-wajib-pajak-lain-coretax-belum-tersedia/)
-- [File Download Materi Edukasi SPT Tahunan Badan Coretax untuk UMKM](https://baca.diskusipajak.com/file-download-umkm-materi-edukasi-spt-tahunan-badan-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
