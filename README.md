@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Panduan Perubahan Alamat Perusahaan di Coretax](https://baca.diskusipajak.com/panduan-perubahan-alamat-perusahaan-di-coretax/)
 - [Panduan Pengisian SPT Tahunan PPh Badan Sektor Manufaktur](https://baca.diskusipajak.com/panduan-pengisian-spt-tahunan-pph-badan-sektor-manufaktur/)
 - [Panduan Pengisian SPT Tahunan PPh Badan](https://baca.diskusipajak.com/panduan-pengisian-spt-tahunan-pph-badan/)
 - [Panduan Pelaporan SPT Tahunan PPh WP OP Sistem Coretax](https://baca.diskusipajak.com/panduan-pelaporan-spt-tahunan-pph-wp-op-sistem-coretax/)
 - [PPh Final Pengalihan Tanah Tak Dipajaki Ganda di SPT Tahunan Badan](https://baca.diskusipajak.com/pph-final-pengalihan-tanah-tak-dipajaki-ganda-di-spt-tahunan-badan/)
-- [Tarif dan Kewajiban Pemungut atas PPh 22 Pembelian Hasil Perkebunan dari Non WP](https://baca.diskusipajak.com/tarif-dan-kewajiban-pemungut-atas-pph-22-pembelian-hasil-perkebunan-dari-non-wp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
