@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Panduan Pelaporan SPT Tahunan PPh WP OP Sistem Coretax](https://baca.diskusipajak.com/panduan-pelaporan-spt-tahunan-pph-wp-op-sistem-coretax/)
+- [PPh Final Pengalihan Tanah Tak Dipajaki Ganda di SPT Tahunan Badan](https://baca.diskusipajak.com/pph-final-pengalihan-tanah-tak-dipajaki-ganda-di-spt-tahunan-badan/)
+- [Tarif dan Kewajiban Pemungut atas PPh 22 Pembelian Hasil Perkebunan dari Non WP](https://baca.diskusipajak.com/tarif-dan-kewajiban-pemungut-atas-pph-22-pembelian-hasil-perkebunan-dari-non-wp/)
 - [Apakah Jasa Konstruksi Gunakan PPh Final 0,5% PP 55/2022?](https://baca.diskusipajak.com/apakah-jasa-konstruksi-gunakan-pph-final-0-5-pp-55-2022/)
 - [Panduan Tata Cara Pelaporan SPT Tahunan PPh WP OP karyawan Coretax](https://baca.diskusipajak.com/panduan-tata-cara-pelaporan-spt-tahunan-pph-wp-op-karyawan-coretax/)
-- [File SPT Tahunan WP OP Penghasilan Bruto Tertentu &lpar;omzet kurang 4,8M&rpar;](https://baca.diskusipajak.com/file-spt-tahunan-wp-op-penghasilan-bruto-tertentu-omzet-kurang-4-8m/)
-- [Pengajuan Permohonan Pengembalian Pajak yang Seharusnya Tidak Terutang PYYSTT](https://baca.diskusipajak.com/pengajuan-permohonan-pengembalian-pajak-yang-seharusnya-tidak-terutang-pyystt/)
-- [Proses Pemindahbukuan &lpar;Pbk&rpar; dari Saldo Deposit Wajib Pajak ke Surat Pemberitahuan &lpar;SPT&rpar;](https://baca.diskusipajak.com/proses-pemindahbukuan-pbk-dari-saldo-deposit-wajib-pajak-ke-surat-pemberitahuan-spt/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
