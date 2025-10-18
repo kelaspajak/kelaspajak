@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh 21 Donasi Perusahaan untuk Karyawan Terdampak Bencana](https://baca.diskusipajak.com/pph-21-donasi-perusahaan-untuk-karyawan-terdampak-bencana/)
+- [Pengajuan SKB PPh Hibah Tanah/Bangunan Online di Coretax](https://baca.diskusipajak.com/pengajuan-skb-pph-hibah-tanah-bangunan-online-di-djp/)
 - [Panduan Perubahan Alamat Perusahaan di Coretax](https://baca.diskusipajak.com/panduan-perubahan-alamat-perusahaan-di-coretax/)
 - [Panduan Pengisian SPT Tahunan PPh Badan Sektor Manufaktur](https://baca.diskusipajak.com/panduan-pengisian-spt-tahunan-pph-badan-sektor-manufaktur/)
 - [Panduan Pengisian SPT Tahunan PPh Badan](https://baca.diskusipajak.com/panduan-pengisian-spt-tahunan-pph-badan/)
-- [Panduan Pelaporan SPT Tahunan PPh WP OP Sistem Coretax](https://baca.diskusipajak.com/panduan-pelaporan-spt-tahunan-pph-wp-op-sistem-coretax/)
-- [PPh Final Pengalihan Tanah Tak Dipajaki Ganda di SPT Tahunan Badan](https://baca.diskusipajak.com/pph-final-pengalihan-tanah-tak-dipajaki-ganda-di-spt-tahunan-badan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
