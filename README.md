@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penentuan PPh Kontraktor ke Mandor atas Jasa Konstruksi](https://baca.diskusipajak.com/penentuan-pph-kontraktor-ke-mandor-atas-jasa-konstruksi/)
 - [Kompensasi PPh 21/26 Pembetulan SPT Tidak Urut](https://baca.diskusipajak.com/kompensasi-pph-21-26-pembetulan-spt-tidak-urut/)
 - [Pihak yang Berhak Menandatangani SPT Coretax](https://baca.diskusipajak.com/pihak-yang-berhak-menandatangani-spt-coretax/)
 - [Pengembalian Pajak Tidak Terutang PPh Final UMKM &lpar;PMK 81&rpar;](https://baca.diskusipajak.com/pengembalian-pajak-tidak-terutang-pph-final-umkm-pmk-81/)
 - [PPh 21 Donasi Perusahaan untuk Karyawan Terdampak Bencana](https://baca.diskusipajak.com/pph-21-donasi-perusahaan-untuk-karyawan-terdampak-bencana/)
-- [Pengajuan SKB PPh Hibah Tanah/Bangunan Online di Coretax](https://baca.diskusipajak.com/pengajuan-skb-pph-hibah-tanah-bangunan-online-di-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
