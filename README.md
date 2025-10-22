@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Ekspor jasa mobile service berupa SMS](https://baca.diskusipajak.com/ekspor-jasa-mobile-service-berupa-sms/)
 - [Tata cara Pelaporan SPT Tahunan PPh Badan Sektor Perdagangan  Sistem Coretax](https://baca.diskusipajak.com/tata-cara-pelaporan-spt-tahunan-pph-badan-sektor-perdagangan-sistem-coretax/)
 - [PKP untuk Pedagang Cenderamata](https://baca.diskusipajak.com/pkp-untuk-pedagang-cenderamata/)
 - [Tata cara Pelaporan SPT Tahunan PPh Badan Sektor Jasa  Sistem Coretax](https://baca.diskusipajak.com/tata-cara-pelaporan-spt-tahunan-pph-badan-sektor-jasa-sistem-coretax/)
 - [Penentuan PPh Kontraktor ke Mandor atas Jasa Konstruksi](https://baca.diskusipajak.com/penentuan-pph-kontraktor-ke-mandor-atas-jasa-konstruksi/)
-- [Kompensasi PPh 21/26 Pembetulan SPT Tidak Urut](https://baca.diskusipajak.com/kompensasi-pph-21-26-pembetulan-spt-tidak-urut/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
