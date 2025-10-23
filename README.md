@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Perbedaan Estimasi Waktu Pengerjaan di PJKEK dan Kontrak Kerjasama](https://baca.diskusipajak.com/perbedaan-estimasi-waktu-pengerjaan-di-pjkek-dan-kontrak-kerjasama/)
 - [Ekspor jasa mobile service berupa SMS](https://baca.diskusipajak.com/ekspor-jasa-mobile-service-berupa-sms/)
 - [Tata cara Pelaporan SPT Tahunan PPh Badan Sektor Perdagangan  Sistem Coretax](https://baca.diskusipajak.com/tata-cara-pelaporan-spt-tahunan-pph-badan-sektor-perdagangan-sistem-coretax/)
 - [PKP untuk Pedagang Cenderamata](https://baca.diskusipajak.com/pkp-untuk-pedagang-cenderamata/)
 - [Tata cara Pelaporan SPT Tahunan PPh Badan Sektor Jasa  Sistem Coretax](https://baca.diskusipajak.com/tata-cara-pelaporan-spt-tahunan-pph-badan-sektor-jasa-sistem-coretax/)
-- [Penentuan PPh Kontraktor ke Mandor atas Jasa Konstruksi](https://baca.diskusipajak.com/penentuan-pph-kontraktor-ke-mandor-atas-jasa-konstruksi/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
