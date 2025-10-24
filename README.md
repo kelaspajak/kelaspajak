@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penghasilan di Luar Usaha, Pakai Norma atau PPh Final UMKM?](https://baca.diskusipajak.com/penghasilan-di-luar-usaha-pakai-norma-atau-pph-final-umkm/)
+- [SPT Tahunan kini dapat dilakukan lebih awal, jauh sebelum 2026](https://baca.diskusipajak.com/spt-tahunan-kini-dapat-dilakukan-lebih-awal-jauh-sebelum-2026/)
+- [Ketidaksesuaian Penandatangan Faktur Pajak PKP Badan &amp; Solusi](https://baca.diskusipajak.com/ketidaksesuaian-penandatangan-faktur-pajak-pkp-badan-solusi/)
+- [Konfirmasi Kelebihan Bayar Pajak di Coretax](https://baca.diskusipajak.com/konfirmasi-kelebihan-bayar-pajak-di-coretax/)
 - [Perbedaan Estimasi Waktu Pengerjaan di PJKEK dan Kontrak Kerjasama](https://baca.diskusipajak.com/perbedaan-estimasi-waktu-pengerjaan-di-pjkek-dan-kontrak-kerjasama/)
-- [Ekspor jasa mobile service berupa SMS](https://baca.diskusipajak.com/ekspor-jasa-mobile-service-berupa-sms/)
-- [Tata cara Pelaporan SPT Tahunan PPh Badan Sektor Perdagangan  Sistem Coretax](https://baca.diskusipajak.com/tata-cara-pelaporan-spt-tahunan-pph-badan-sektor-perdagangan-sistem-coretax/)
-- [PKP untuk Pedagang Cenderamata](https://baca.diskusipajak.com/pkp-untuk-pedagang-cenderamata/)
-- [Tata cara Pelaporan SPT Tahunan PPh Badan Sektor Jasa  Sistem Coretax](https://baca.diskusipajak.com/tata-cara-pelaporan-spt-tahunan-pph-badan-sektor-jasa-sistem-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
