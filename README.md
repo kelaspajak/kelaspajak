@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pemotongan PPh Jasa Sertifikasi ISO oleh PT PPh 21 atau 23?](https://baca.diskusipajak.com/pemotongan-pph-jasa-sertifikasi-iso-oleh-pt-pph-21-atau-23/)
+- [Pajak &amp; PNBP Proyek Karbon Mangrove di APL](https://baca.diskusipajak.com/pajak-pnbp-proyek-karbon-mangrove-di-apl/)
 - [Penghasilan di Luar Usaha, Pakai Norma atau PPh Final UMKM?](https://baca.diskusipajak.com/penghasilan-di-luar-usaha-pakai-norma-atau-pph-final-umkm/)
 - [SPT Tahunan kini dapat dilakukan lebih awal, jauh sebelum 2026](https://baca.diskusipajak.com/spt-tahunan-kini-dapat-dilakukan-lebih-awal-jauh-sebelum-2026/)
 - [Ketidaksesuaian Penandatangan Faktur Pajak PKP Badan &amp; Solusi](https://baca.diskusipajak.com/ketidaksesuaian-penandatangan-faktur-pajak-pkp-badan-solusi/)
-- [Konfirmasi Kelebihan Bayar Pajak di Coretax](https://baca.diskusipajak.com/konfirmasi-kelebihan-bayar-pajak-di-coretax/)
-- [Perbedaan Estimasi Waktu Pengerjaan di PJKEK dan Kontrak Kerjasama](https://baca.diskusipajak.com/perbedaan-estimasi-waktu-pengerjaan-di-pjkek-dan-kontrak-kerjasama/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
