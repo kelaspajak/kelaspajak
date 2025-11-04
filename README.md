@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Mengatasi Kesalahan Kode Pajak PPh Pasal 25 DTP &lpar;411145-100&rpar;](https://www.diskusipajak.com/bagaimana-mengatasi-kesalahan-kode-pajak-pph-pasal-25-dtp-411145-100/)
 - [Panduan Impersonate Wajib Pajak Badan di Coretax untuk Hak dan Kewajiban Perpajakan](https://www.diskusipajak.com/panduan-impersonate-wajib-pajak-badan-di-coretax-untuk-hak-dan-kewajiban-perpajakan/)
 - [Cara Mengatasi Nomor Rekening Tidak Terdeteksi Saat Pengajuan PPYSTT di Coretax](https://www.diskusipajak.com/cara-mengatasi-nomor-rekening-tidak-terdeteksi-saat-pengajuan-ppystt-di-coretax/)
 - [Cara Pemberitahuan NPPN Istri Freelance Gabung NPWP Suami](https://www.diskusipajak.com/cara-pemberitahuan-nppn-istri-freelance-gabung-npwp-suami/)
 - [PMK 68 TAHUN 2025](https://www.diskusipajak.com/pmk-68-tahun-2025/)
-- [Tutorial PDF Pengajuan Pemberitahuan Penggunaan NPPN via Coretax](https://www.diskusipajak.com/tutorial-pdf-pengajuan-pemberitahuan-penggunaan-nppn-via-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
