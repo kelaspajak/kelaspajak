@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mengatasi Nomor Rekening Tidak Terdeteksi Saat Pengajuan PPYSTT di Coretax](https://www.diskusipajak.com/cara-mengatasi-nomor-rekening-tidak-terdeteksi-saat-pengajuan-ppystt-di-coretax/)
+- [Cara Pemberitahuan NPPN Istri Freelance Gabung NPWP Suami](https://www.diskusipajak.com/cara-pemberitahuan-nppn-istri-freelance-gabung-npwp-suami/)
+- [PMK 68 TAHUN 2025](https://www.diskusipajak.com/pmk-68-tahun-2025/)
+- [Tutorial PDF Pengajuan Pemberitahuan Penggunaan NPPN via Coretax](https://www.diskusipajak.com/tutorial-pdf-pengajuan-pemberitahuan-penggunaan-nppn-via-coretax/)
 - [Persyaratan perubahan KLU WP orang pribadi pegawai ke pedagang eceran](https://www.diskusipajak.com/persyaratan-perubahan-klu-wp-orang-pribadi-pegawai-ke-pedagang-eceran/)
-- [Opini: Perbandingan Aspek Pajak OP, CV, PT, PT Perorangan](https://www.diskusipajak.com/opini-perbandingan-aspek-pajak-op-cv-pt-pt-perorangan/)
-- [SPT PPh Unifikasi Tidak Dapat Berstatus Lebih Bayar](https://www.diskusipajak.com/spt-pph-unifikasi-tidak-dapat-berstatus-lebih-bayar/)
-- [Kurs KMK untuk PPN PMSE &amp; Pengkreditan Pajak Masukannya](https://www.diskusipajak.com/kurs-kmk-untuk-ppn-pmse-pengkreditan-pajak-masukannya/)
-- [Pemotongan PPh Jasa Sertifikasi ISO oleh PT PPh 21 atau 23?](https://www.diskusipajak.com/pemotongan-pph-jasa-sertifikasi-iso-oleh-pt-pph-21-atau-23/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
