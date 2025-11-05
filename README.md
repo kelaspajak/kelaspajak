@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [KEP-208/BC/2025](https://www.diskusipajak.com/kep-208-bc-2025/)
+- [FAQ &amp; SALINDIA PPh 21 Ditanggung Pemerintah Sektor Pariwisata](https://www.diskusipajak.com/faq-salindia-pph-21-ditanggung-pemerintah-sektor-pariwisata/)
 - [Cleansing Massal Faktur Pajak Tidak Sesuai Nama Penandatangan](https://www.diskusipajak.com/cleansing-massal-faktur-pajak-tidak-sesuai-nama-penandatangan/)
 - [Kapan Bisa Membuat Konsep SPT Tahunan PPh Orang Pribadi 2025 di Coretax?](https://www.diskusipajak.com/kapan-bisa-membuat-konsep-spt-tahunan-pph-orang-pribadi-2025-di-coretax/)
 - [Langkah Pembatalan Faktur Pajak di e-Faktur dan Penyesuaian SPT Masa PPN](https://www.diskusipajak.com/langkah-pembatalan-faktur-pajak-di-e-faktur-dan-penyesuaian-spt-masa-ppn/)
-- [Bagaimana Mengatasi Kesalahan Kode Pajak PPh Pasal 25 DTP &lpar;411145-100&rpar;](https://www.diskusipajak.com/bagaimana-mengatasi-kesalahan-kode-pajak-pph-pasal-25-dtp-411145-100/)
-- [Panduan Impersonate Wajib Pajak Badan di Coretax untuk Hak dan Kewajiban Perpajakan](https://www.diskusipajak.com/panduan-impersonate-wajib-pajak-badan-di-coretax-untuk-hak-dan-kewajiban-perpajakan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
