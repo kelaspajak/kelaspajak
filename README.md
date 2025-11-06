@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Cara Pelaporan PMK-72 Tahun 2025 DTP Sektor Pariwisata](https://www.diskusipajak.com/bagaimana-cara-pelaporan-pmk-72-tahun-2025-dtp-sektor-pariwisata/)
+- [Bagaimana PPh 21 bagi Pegawai Keluar Masuk](https://www.diskusipajak.com/bagaimana-pph-21-bagi-pegawai-keluar-masuk/)
 - [KEP-208/BC/2025](https://www.diskusipajak.com/kep-208-bc-2025/)
 - [FAQ &amp; SALINDIA PPh 21 Ditanggung Pemerintah Sektor Pariwisata](https://www.diskusipajak.com/faq-salindia-pph-21-ditanggung-pemerintah-sektor-pariwisata/)
 - [Cleansing Massal Faktur Pajak Tidak Sesuai Nama Penandatangan](https://www.diskusipajak.com/cleansing-massal-faktur-pajak-tidak-sesuai-nama-penandatangan/)
-- [Kapan Bisa Membuat Konsep SPT Tahunan PPh Orang Pribadi 2025 di Coretax?](https://www.diskusipajak.com/kapan-bisa-membuat-konsep-spt-tahunan-pph-orang-pribadi-2025-di-coretax/)
-- [Langkah Pembatalan Faktur Pajak di e-Faktur dan Penyesuaian SPT Masa PPN](https://www.diskusipajak.com/langkah-pembatalan-faktur-pajak-di-e-faktur-dan-penyesuaian-spt-masa-ppn/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
