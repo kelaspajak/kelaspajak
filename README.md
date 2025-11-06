@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Apakah PPh 21 DTP Menambah Take Home Pay Karyawan pada Sistem Gaji Net atau Gross Up](https://www.diskusipajak.com/apakah-pph-21-dtp-menambah-take-home-pay-karyawan-pada-sistem-gaji-net-atau-gross-up/)
 - [Bagaimana Cara Pelaporan PMK-72 Tahun 2025 DTP Sektor Pariwisata](https://www.diskusipajak.com/bagaimana-cara-pelaporan-pmk-72-tahun-2025-dtp-sektor-pariwisata/)
 - [Bagaimana PPh 21 bagi Pegawai Keluar Masuk](https://www.diskusipajak.com/bagaimana-pph-21-bagi-pegawai-keluar-masuk/)
 - [KEP-208/BC/2025](https://www.diskusipajak.com/kep-208-bc-2025/)
 - [FAQ &amp; SALINDIA PPh 21 Ditanggung Pemerintah Sektor Pariwisata](https://www.diskusipajak.com/faq-salindia-pph-21-ditanggung-pemerintah-sektor-pariwisata/)
-- [Cleansing Massal Faktur Pajak Tidak Sesuai Nama Penandatangan](https://www.diskusipajak.com/cleansing-massal-faktur-pajak-tidak-sesuai-nama-penandatangan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
