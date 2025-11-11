@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penyederhanaan tampilan saat pembuatan ebupot melalui mekanisme key-in](https://www.diskusipajak.com/penyederhanaan-tampilan-saat-pembuatan-ebupot-melalui-mekanisme-key-in/)
 - [KMK 330 Tahun 2025](https://www.diskusipajak.com/kmk-330-tahun-2025/)
 - [Perbedaan teknis antara PPn dan PPN dalam hukum pajak Indonesia](https://www.diskusipajak.com/perbedaan-teknis-antara-ppn-dan-ppn-dalam-hukum-pajak-indonesia/)
 - [Panduan Praktis Pencabutan Pengusaha Kena Pajak &lpar;PKP&rpar; Secara Jabatan Tanpa Pemeriksaan Pajak](https://www.diskusipajak.com/panduan-praktis-pencabutan-pengusaha-kena-pajak-pkp-secara-jabatan-tanpa-pemeriksaan-pajak/)
 - [Bagaimana Mendaftar NPWP melalui KPP, KP2KP, atau Tempat Lain yang Ditunjuk DJP?](https://www.diskusipajak.com/bagaimana-mendaftar-npwp-melalui-kpp-kp2kp-atau-tempat-lain-yang-ditunjuk-djp/)
-- [Apakah PPh 21 DTP Menambah Take Home Pay Karyawan pada Sistem Gaji Net atau Gross Up](https://www.diskusipajak.com/apakah-pph-21-dtp-menambah-take-home-pay-karyawan-pada-sistem-gaji-net-atau-gross-up/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
