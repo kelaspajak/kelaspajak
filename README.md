@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Siapkan data untuk update data di Coretax](https://www.diskusipajak.com/siapkan-data-untuk-update-data-di-coretax/)
+- [Error Penerbitan BPNR 12 Nov 2025](https://www.diskusipajak.com/error-penerbitan-bpnr-12-nov-2025/)
+- [Kendala Prefil Tidak Lengkap di Unifikasi 12 Nov 2025](https://www.diskusipajak.com/kendala-prefil-tidak-lengkap-di-unifikasi-12-nov-2025/)
 - [Bagaimana Cara Mengatasi Kelebihan Pembayaran PPh 21 dan Apakah Bisa Direstitusi?](https://www.diskusipajak.com/bagaimana-cara-mengatasi-kelebihan-pembayaran-pph-21-dan-apakah-bisa-direstitusi/)
 - [KEP-208/BC/2025](https://www.diskusipajak.com/kep-208-bc-2025-2/)
-- [Cara Pembuatan Faktur Keluaran untuk Jasa Maklon dengan Barang Pinjaman](https://www.diskusipajak.com/cara-pembuatan-faktur-keluaran-untuk-jasa-maklon-dengan-barang-pinjaman/)
-- [Penyederhanaan tampilan saat pembuatan ebupot melalui mekanisme key-in](https://www.diskusipajak.com/penyederhanaan-tampilan-saat-pembuatan-ebupot-melalui-mekanisme-key-in/)
-- [KMK 330 Tahun 2025](https://www.diskusipajak.com/kmk-330-tahun-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
