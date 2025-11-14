@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penegasan Perlakuan PPh Pasal 23 Usaha Retail](https://www.diskusipajak.com/penegasan-perlakuan-pph-pasal-23-usaha-retail/)
 - [Excel SPT Tahunan PPh Badan 2025](https://www.diskusipajak.com/excel-spt-tahunan-pph-badan/)
 - [PPh atas Dividen pasca berlakunya UU Cipta Kerja dan ketentuan pelaporan realisasi investasi melalui aplikasi Coretax](https://www.diskusipajak.com/pph-atas-dividen-pasca-berlakunya-uu-cipta-kerja-dan-ketentuan-pelaporan-realisasi-investasi-melalui-aplikasi-coretax/)
 - [Kendala prefil SPT Unifikasi Minggu Pertama November 2025 Sudah Selesai](https://www.diskusipajak.com/kendala-prefil-spt-unifikasi-minggu-pertama-november-2025-sudah-selesai/)
 - [Kring Pajak di Instagram](https://www.diskusipajak.com/kring-pajak-di-instagram/)
-- [Penyetoran Pajak pada November 2025](https://www.diskusipajak.com/penyetoran-pajak-pada-november-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
