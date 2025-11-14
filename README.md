@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Excel SPT Tahunan PPh Badan 2025](https://www.diskusipajak.com/excel-spt-tahunan-pph-badan/)
+- [PPh atas Dividen pasca berlakunya UU Cipta Kerja dan ketentuan pelaporan realisasi investasi melalui aplikasi Coretax](https://www.diskusipajak.com/pph-atas-dividen-pasca-berlakunya-uu-cipta-kerja-dan-ketentuan-pelaporan-realisasi-investasi-melalui-aplikasi-coretax/)
 - [Kendala prefil SPT Unifikasi Minggu Pertama November 2025 Sudah Selesai](https://www.diskusipajak.com/kendala-prefil-spt-unifikasi-minggu-pertama-november-2025-sudah-selesai/)
 - [Kring Pajak di Instagram](https://www.diskusipajak.com/kring-pajak-di-instagram/)
 - [Penyetoran Pajak pada November 2025](https://www.diskusipajak.com/penyetoran-pajak-pada-november-2025/)
-- [Siapkan data untuk update data di Coretax](https://www.diskusipajak.com/siapkan-data-untuk-update-data-di-coretax/)
-- [Error Penerbitan BPNR 12 Nov 2025](https://www.diskusipajak.com/error-penerbitan-bpnr-12-nov-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
