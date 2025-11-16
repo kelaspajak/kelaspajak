@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Penegasan Perlakuan Perpajakan atas Pengelolaan Rumah Susun](https://www.diskusipajak.com/penegasan-perlakuan-perpajakan-atas-pengelolaan-rumah-susun/)
 - [Tabel Ringkasan Dividen Bebas PPh](https://www.diskusipajak.com/tabel-ringkasan-dividen-bebas-pph/)
 - [Template formulir SPT Tahunan PPh untuk Wajib Pajak Orang Pribadi](https://www.diskusipajak.com/template-formulir-spt-tahunan-pph-untuk-wajib-pajak-orang-pribadi/)
 - [Penegasan Perlakuan PPh Pasal 23 Usaha Retail](https://www.diskusipajak.com/penegasan-perlakuan-pph-pasal-23-usaha-retail/)
 - [Excel SPT Tahunan PPh Badan 2025](https://www.diskusipajak.com/excel-spt-tahunan-pph-badan/)
-- [PPh atas Dividen pasca berlakunya UU Cipta Kerja dan ketentuan pelaporan realisasi investasi melalui aplikasi Coretax](https://www.diskusipajak.com/pph-atas-dividen-pasca-berlakunya-uu-cipta-kerja-dan-ketentuan-pelaporan-realisasi-investasi-melalui-aplikasi-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
