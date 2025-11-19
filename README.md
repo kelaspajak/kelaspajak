@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Bunga](https://www.diskusipajak.com/bunga/)
-- [Royalti](https://www.diskusipajak.com/royalti/)
-- [Penegasan Perlakuan Perpajakan atas Pengelolaan Rumah Susun](https://www.diskusipajak.com/penegasan-perlakuan-perpajakan-atas-pengelolaan-rumah-susun/)
-- [Tabel Ringkasan Dividen Bebas PPh](https://www.diskusipajak.com/tabel-ringkasan-dividen-bebas-pph/)
-- [Template formulir SPT Tahunan PPh untuk Wajib Pajak Orang Pribadi](https://www.diskusipajak.com/template-formulir-spt-tahunan-pph-untuk-wajib-pajak-orang-pribadi/)
+- [Rangkuman Rumus Praktis Excel untuk Mempercepat Proses Koreksi Fiskal Pajak Penghasilan Badan](https://www.diskusipajak.com/rangkuman-rumus-praktis-excel-untuk-mempercepat-proses-koreksi-fiskal-pajak-penghasilan-badan/)
+- [Cara Membuat Kode Billing SPPT PBB-P5L Pertambangan Mineral Batu Bara di DJP Online Ketika KAP 411315 Tidak Ada](https://www.diskusipajak.com/cara-membuat-kode-billing-sppt-pbb-p5l-pertambangan-mineral-batu-bara-di-djp-online-ketika-kap-411315-tidak-ada/)
+- [Panduan Mengubah Data Alamat Wajib Pajak Orang Pribadi Secara Tertulis Setelah Gagal di Coretax](https://www.diskusipajak.com/panduan-mengubah-data-alamat-wajib-pajak-orang-pribadi-secara-tertulis-setelah-gagal-di-coretax/)
+- [Langkah Mudah Mengubah Alamat NPWP Wajib Pajak Pribadi Online via Coretax dan Dokumen yang Dibutuhkan](https://www.diskusipajak.com/langkah-mudah-mengubah-alamat-npwp-wajib-pajak-pribadi-online-via-coretax-dan-dokumen-yang-dibutuhkan/)
+- [Kebijakan Penghapusan Sanksi Administratif Atas Kendala Coretax Selama tahun 2025](https://www.diskusipajak.com/kebijakan-penghapusan-sanksi-administratif-atas-kendala-coretax-selama-tahun-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
