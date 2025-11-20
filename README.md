@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Pembebanan Biaya Penyusutan Harta Berwujud Berdasarkan PMK Nomor 72 Tahun 2023.](https://www.diskusipajak.com/metode-pembebanan-biaya-penyusutan-harta-berwujud-berdasarkan-pmk-nomor-72-tahun-2023/)
+- [Rekonsiiasi PPh 21](https://www.diskusipajak.com/rekonsiiasi-pph-21/)
 - [Panduan Layanan Baru Validasi &amp; Registrasi Massal NIK melalui Portal NPWP versi 2.1](https://www.diskusipajak.com/panduan-layanan-baru-validasi-registrasi-massal-nik-melalui-portal-npwp-versi-2-1/)
 - [Rangkuman Rumus Praktis Excel untuk Mempercepat Proses Koreksi Fiskal Pajak Penghasilan Badan](https://www.diskusipajak.com/rangkuman-rumus-praktis-excel-untuk-mempercepat-proses-koreksi-fiskal-pajak-penghasilan-badan/)
 - [Cara Membuat Kode Billing SPPT PBB-P5L Pertambangan Mineral Batu Bara di DJP Online Ketika KAP 411315 Tidak Ada](https://www.diskusipajak.com/cara-membuat-kode-billing-sppt-pbb-p5l-pertambangan-mineral-batu-bara-di-djp-online-ketika-kap-411315-tidak-ada/)
-- [Panduan Mengubah Data Alamat Wajib Pajak Orang Pribadi Secara Tertulis Setelah Gagal di Coretax](https://www.diskusipajak.com/panduan-mengubah-data-alamat-wajib-pajak-orang-pribadi-secara-tertulis-setelah-gagal-di-coretax/)
-- [Langkah Mudah Mengubah Alamat NPWP Wajib Pajak Pribadi Online via Coretax dan Dokumen yang Dibutuhkan](https://www.diskusipajak.com/langkah-mudah-mengubah-alamat-npwp-wajib-pajak-pribadi-online-via-coretax-dan-dokumen-yang-dibutuhkan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
