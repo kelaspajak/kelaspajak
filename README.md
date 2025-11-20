@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Simulator Terpandu Coretax DJP untuk SPT Tahunan PPh Orang Pribadi KLU Karyawan](https://www.diskusipajak.com/simulator-terpandu-coretax-djp-untuk-spt-tahunan-pph-orang-pribadi-klu-karyawan/)
+- [Validasi &amp; Registrasi Massal NIK Kini Resmi Tersedia](https://www.diskusipajak.com/validasi-registrasi-massal-nik-kini-resmi-tersedia/)
 - [Metode Pembebanan Biaya Penyusutan Harta Berwujud Berdasarkan PMK Nomor 72 Tahun 2023.](https://www.diskusipajak.com/metode-pembebanan-biaya-penyusutan-harta-berwujud-berdasarkan-pmk-nomor-72-tahun-2023/)
 - [Rekonsiiasi PPh 21](https://www.diskusipajak.com/rekonsiiasi-pph-21/)
 - [Panduan Layanan Baru Validasi &amp; Registrasi Massal NIK melalui Portal NPWP versi 2.1](https://www.diskusipajak.com/panduan-layanan-baru-validasi-registrasi-massal-nik-melalui-portal-npwp-versi-2-1/)
-- [Rangkuman Rumus Praktis Excel untuk Mempercepat Proses Koreksi Fiskal Pajak Penghasilan Badan](https://www.diskusipajak.com/rangkuman-rumus-praktis-excel-untuk-mempercepat-proses-koreksi-fiskal-pajak-penghasilan-badan/)
-- [Cara Membuat Kode Billing SPPT PBB-P5L Pertambangan Mineral Batu Bara di DJP Online Ketika KAP 411315 Tidak Ada](https://www.diskusipajak.com/cara-membuat-kode-billing-sppt-pbb-p5l-pertambangan-mineral-batu-bara-di-djp-online-ketika-kap-411315-tidak-ada/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
