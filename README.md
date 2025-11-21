@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Apakah Wajib Pakai Norma &lpar;NPPN&rpar; di SPT 2025 untuk WP OP dengan Omzet di Bawah Rp 4,8 Miliar](https://www.diskusipajak.com/apakah-wajib-pakai-norma-nppn-di-spt-2025-untuk-wp-op-dengan-omzet-di-bawah-rp-4-8-miliar/)
 - [PER-17/BC/2025](https://www.diskusipajak.com/per-17-bc-2025/)
 - [Fitur Baru Coretax 20 November 2025 Back To Approved](https://www.diskusipajak.com/fitur-baru-coretax-20-november-2025-back-to-approved/)
 - [Simulator Terpandu Coretax DJP untuk SPT Tahunan PPh Orang Pribadi KLU Karyawan](https://www.diskusipajak.com/simulator-terpandu-coretax-djp-untuk-spt-tahunan-pph-orang-pribadi-klu-karyawan/)
 - [Validasi &amp; Registrasi Massal NIK Kini Resmi Tersedia](https://www.diskusipajak.com/validasi-registrasi-massal-nik-kini-resmi-tersedia/)
-- [Metode Pembebanan Biaya Penyusutan Harta Berwujud Berdasarkan PMK Nomor 72 Tahun 2023.](https://www.diskusipajak.com/metode-pembebanan-biaya-penyusutan-harta-berwujud-berdasarkan-pmk-nomor-72-tahun-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
