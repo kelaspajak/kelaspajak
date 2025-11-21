@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Solusi Faktur Batal di e-Faktur Desktop tapi Masih Aktif di Coretax](https://www.diskusipajak.com/solusi-faktur-batal-di-e-faktur-desktop-tapi-masih-aktif-di-coretax/)
+- [Cara Kirim Ulang PIB dan PEB via CEISA](https://www.diskusipajak.com/cara-kirim-ulang-pib-dan-peb-via-ceisa/)
 - [Salah Pilih Validasi NIK Malah diteliti manual oleh Fiskus](https://www.diskusipajak.com/jenis-registrasi-validasi-nik-malah-diteliti/)
 - [Apakah Wajib Pakai Norma &lpar;NPPN&rpar; di SPT 2025 untuk WP OP dengan Omzet di Bawah Rp 4,8 Miliar](https://www.diskusipajak.com/apakah-wajib-pakai-norma-nppn-di-spt-2025-untuk-wp-op-dengan-omzet-di-bawah-rp-4-8-miliar/)
 - [PER-17/BC/2025](https://www.diskusipajak.com/per-17-bc-2025/)
-- [Fitur Baru Coretax 20 November 2025 Back To Approved](https://www.diskusipajak.com/fitur-baru-coretax-20-november-2025-back-to-approved/)
-- [Simulator Terpandu Coretax DJP untuk SPT Tahunan PPh Orang Pribadi KLU Karyawan](https://www.diskusipajak.com/simulator-terpandu-coretax-djp-untuk-spt-tahunan-pph-orang-pribadi-klu-karyawan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
