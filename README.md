@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [WP Pembukuan USD Wajib Bayar PPh 25 Pakai Dolar, Ini Risikonya Jika Pakai Rupiah](https://www.diskusipajak.com/wp-pembukuan-usd-wajib-bayar-pph-25-pakai-dolar-ini-risikonya-jika-pakai-rupiah/)
 - [Layanan Pendaftaran NPWP Kota Balikpapan 2025](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-balikpapan-2025/)
 - [Peringatan ! Registrasi Massal Portal NPWP hanya untuk Non WP](https://www.diskusipajak.com/peringatan-registrasi-massal-portal-npwp-hanya-untuk-non-wp/)
 - [Solusi Faktur Batal di e-Faktur Desktop tapi Masih Aktif di Coretax](https://www.diskusipajak.com/solusi-faktur-batal-di-e-faktur-desktop-tapi-masih-aktif-di-coretax/)
 - [Cara Kirim Ulang PIB dan PEB via CEISA](https://www.diskusipajak.com/cara-kirim-ulang-pib-dan-peb-via-ceisa/)
-- [Salah Pilih Validasi NIK Malah diteliti manual oleh Fiskus](https://www.diskusipajak.com/jenis-registrasi-validasi-nik-malah-diteliti/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
