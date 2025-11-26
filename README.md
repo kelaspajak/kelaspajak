@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Aturan Kompensasi PPN Lebih Bayar: Mengapa Tidak Bisa Mundur dan Batas Waktu Pelaporannya.](https://www.diskusipajak.com/aturan-kompensasi-ppn-lebih-bayar-mengapa-tidak-bisa-mundur-dan-batas-waktu-pelaporannya/)
 - [Layanan Pengaktifan Kembali Wajib Pajak Nonaktif](https://www.diskusipajak.com/layanan/)
 - [Layanan Penetapan Wajib Pajak Nonaktif &lpar;Nonaktif WP&rpar; Kota Balikpapan 2025](https://www.diskusipajak.com/layanan-penetapan-wajib-pajak-nonaktif-nonaktif-wp-kota-balikpapan-2025/)
 - [WP Pembukuan USD Wajib Bayar PPh 25 Pakai Dolar, Ini Risikonya Jika Pakai Rupiah](https://www.diskusipajak.com/wp-pembukuan-usd-wajib-bayar-pph-25-pakai-dolar-ini-risikonya-jika-pakai-rupiah/)
 - [Layanan Pendaftaran NPWP Kota Balikpapan 2025](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-balikpapan-2025/)
-- [Peringatan ! Registrasi Massal Portal NPWP hanya untuk Non WP](https://www.diskusipajak.com/peringatan-registrasi-massal-portal-npwp-hanya-untuk-non-wp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
