@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [masih bingung cara itung PPH 21 yang terbaruu...  :D](https://www.diskusipajak.com/masih-bingung-cara-itung-pph-21-yang-terbaruu-d/)
-- [Aturan Kompensasi PPN Lebih Bayar: Mengapa Tidak Bisa Mundur dan Batas Waktu Pelaporannya.](https://www.diskusipajak.com/aturan-kompensasi-ppn-lebih-bayar-mengapa-tidak-bisa-mundur-dan-batas-waktu-pelaporannya/)
-- [Layanan Pengaktifan Kembali Wajib Pajak Nonaktif](https://www.diskusipajak.com/layanan/)
-- [Layanan Penetapan Wajib Pajak Nonaktif &lpar;Nonaktif WP&rpar; Kota Balikpapan 2025](https://www.diskusipajak.com/layanan-penetapan-wajib-pajak-nonaktif-nonaktif-wp-kota-balikpapan-2025/)
-- [WP Pembukuan USD Wajib Bayar PPh 25 Pakai Dolar, Ini Risikonya Jika Pakai Rupiah](https://www.diskusipajak.com/wp-pembukuan-usd-wajib-bayar-pph-25-pakai-dolar-ini-risikonya-jika-pakai-rupiah/)
+- [Kesalahan Flag sebagai pemungut Bea Meterai menyebabkan Surat Teguran 28 November 2025](https://www.diskusipajak.com/kesalahan-flag-sebagai-pemungut-bea-meterai-menyebabkan-surat-teguran-28-november-2025/)
+- [PMK 81 TAHUN 2025](https://www.diskusipajak.com/pmk-81-tahun-2025/)
+- [PMK 84 TAHUN 2024](https://www.diskusipajak.com/pmk-84-tahun-2024/)
+- [Panduan Fitur Unduh dokumen Bukti Pemindahbukuan &lpar;Bukti Pbk&rpar;](https://www.diskusipajak.com/panduan-fitur-unduh-dokumen-bukti-pemindahbukuan-bukti-pbk/)
+- [Error Coretax 503 Tgl 28 November 2025](https://www.diskusipajak.com/error-coretax-503-tgl-28-november-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
