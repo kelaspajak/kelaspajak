@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Kesalahan Flag sebagai pemungut Bea Meterai menyebabkan Surat Teguran 28 November 2025](https://www.diskusipajak.com/kesalahan-flag-sebagai-pemungut-bea-meterai-menyebabkan-surat-teguran-28-november-2025/)
-- [PMK 81 TAHUN 2025](https://www.diskusipajak.com/pmk-81-tahun-2025/)
-- [PMK 84 TAHUN 2024](https://www.diskusipajak.com/pmk-84-tahun-2024/)
-- [Panduan Fitur Unduh dokumen Bukti Pemindahbukuan &lpar;Bukti Pbk&rpar;](https://www.diskusipajak.com/panduan-fitur-unduh-dokumen-bukti-pemindahbukuan-bukti-pbk/)
-- [Error Coretax 503 Tgl 28 November 2025](https://www.diskusipajak.com/error-coretax-503-tgl-28-november-2025/)
+- [Layanan Pendaftaran NPWP Kota Palu](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-palu/)
+- [Layanan Pendaftaran NPWP Kota Makassar](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-makassar/)
+- [Layanan Pendaftaran NPWP Jakarta Barat](https://www.diskusipajak.com/layanan-pendaftaran-npwp-jakarta-barat/)
+- [Layanan Pendaftaran NPWP Jakarta Timur 2025](https://www.diskusipajak.com/layanan-pendaftaran-npwp-jakarta-timur-2025/)
+- [Layanan Pendaftaran NPWP Kota Tangerang Selatan 2025](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-tangerang-selatan-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
