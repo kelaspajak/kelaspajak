@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Layanan Pendaftaran NPWP Kota Palembang](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-surabaya-cop/)
 - [Fitur Pembatalan Kode Billing di Coretax](https://www.diskusipajak.com/fitur-pembatalan-kode-billing-di-coretax/)
 - [Layanan Pendaftaran NPWP Kota Surabaya](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-surabaya/)
 - [Layanan Pendaftaran NPWP Kota Palu](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-palu/)
 - [Layanan Pendaftaran NPWP Kota Makassar](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-makassar/)
-- [Layanan Pendaftaran NPWP Jakarta Barat](https://www.diskusipajak.com/layanan-pendaftaran-npwp-jakarta-barat/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
