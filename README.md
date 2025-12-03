@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Konsultasi Layanan Pengukuhan Pengusaha Kena Pajak di Kota Balikpapan](https://www.diskusipajak.com/konsultasi-layanan-pengukuhan-pengusaha-kena-pajak-di-kota-balikpapan/)
+- [Petunjuk Step by Step Pengisian Lampiran 1 SPT Tahunan PPh OP](https://www.diskusipajak.com/fo-1-a-harta-pada-akhir-tahun-pajak-1-kas-dan-setara-kas-spt-tahunan-pph-wajib-pajak-orang-pribadi-tahun-2025/)
+- [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Balikpapan](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-balikpapan/)
 - [Layanan Pendaftaran NPWP Kota Palembang](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-surabaya-cop/)
 - [Fitur Pembatalan Kode Billing di Coretax](https://www.diskusipajak.com/fitur-pembatalan-kode-billing-di-coretax/)
-- [Layanan Pendaftaran NPWP Kota Surabaya](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-surabaya/)
-- [Layanan Pendaftaran NPWP Kota Palu](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-palu/)
-- [Layanan Pendaftaran NPWP Kota Makassar](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-makassar/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
