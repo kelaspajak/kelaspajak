@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bolehkah Barang Dikirim Jika Baru Terima Uang Muka 50%?](https://www.diskusipajak.com/bolehkah-barang-dikirim-jika-baru-terima-uang-muka-50/)
+- [Layanan Pembuatan Surat Keterangan Fiskal &lpar;SKF&rpar; Kota Balikpapan](https://www.diskusipajak.com/layanan-pembuatan-surat-keterangan-fiskal-skf-kota-balikpapan/)
 - [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Surabaya](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-surabaya/)
 - [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Palembang](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-balikpapan-2/)
 - [PPh Final Jasa Konstruksi &lpar;PP 9 Tahun 2022&rpar;](https://www.diskusipajak.com/pph-final-jasa-konstruksi-pp-9-tahun-2022/)
-- [Konsultasi Layanan Non Aktif NPWP dan Pencabutan Pengukuhan PKP Kota Balikpapan](https://www.diskusipajak.com/konsultasi-layanan-non-aktif-npwp-dan-pencabutan-pengukuhan-pkp-kota-balikpapan/)
-- [Konsultasi Layanan Pengukuhan Pengusaha Kena Pajak di Kota Balikpapan](https://www.diskusipajak.com/konsultasi-layanan-pengukuhan-pengusaha-kena-pajak-di-kota-balikpapan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
