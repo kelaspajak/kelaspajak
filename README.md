@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pajak Sewa Lapangan Bola: PPh Pasal 4 Ayat &lpar;2&rpar; atau PPh Pasal 23?](https://www.diskusipajak.com/pajak-sewa-lapangan-bola-pph-pasal-4-ayat-2-atau-pph-pasal-23/)
 - [Kode Faktur Pajak untuk Transaksi dengan Bank Daerah](https://www.diskusipajak.com/kode-faktur-pajak-untuk-transaksi-dengan-bank-daerah-ask/)
 - [Bolehkah Wanita Kawin Memilih Kewajiban Perpajakan Terpisah?](https://www.diskusipajak.com/bis-wanita-kawin-memilih-kewajiban-perpajakan-terpisah/)
 - [Bolehkah Barang Dikirim Jika Baru Terima Uang Muka 50%?](https://www.diskusipajak.com/bolehkah-barang-dikirim-jika-baru-terima-uang-muka-50/)
 - [Layanan Pembuatan Surat Keterangan Fiskal &lpar;SKF&rpar; Kota Balikpapan](https://www.diskusipajak.com/layanan-pembuatan-surat-keterangan-fiskal-skf-kota-balikpapan/)
-- [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Surabaya](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-surabaya/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
