@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Layanan Penetapan Wajib Pajak Nonaktif &lpar;Nonaktif WP&rpar; Kota Makassar 2025](https://www.diskusipajak.com/layanan-penetapan-wajib-pajak-nonaktif-nonaktif-wp-kota-balikpapan-2025-2/)
+- [Konsekuensi Jika Tidak Mencantumkan Pembayaran PPh Pasal 25 agar SPT tetap nihil](https://www.diskusipajak.com/konsekuensi-jika-tidak-mencantumkan-pembayaran-pph-pasal-25-agar-spt-tetap-nihil/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 2. Piutang SPT Tahunan PPh OP](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-2-piutang-spt-tahunan-pph-op/)
 - [Pajak Sewa Lapangan Bola: PPh Pasal 4 Ayat &lpar;2&rpar; atau PPh Pasal 23?](https://www.diskusipajak.com/pajak-sewa-lapangan-bola-pph-pasal-4-ayat-2-atau-pph-pasal-23/)
 - [Kode Faktur Pajak untuk Transaksi dengan Bank Daerah](https://www.diskusipajak.com/kode-faktur-pajak-untuk-transaksi-dengan-bank-daerah-ask/)
-- [Bolehkah Wanita Kawin Memilih Kewajiban Perpajakan Terpisah?](https://www.diskusipajak.com/bis-wanita-kawin-memilih-kewajiban-perpajakan-terpisah/)
-- [Bolehkah Barang Dikirim Jika Baru Terima Uang Muka 50%?](https://www.diskusipajak.com/bolehkah-barang-dikirim-jika-baru-terima-uang-muka-50/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
