@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 3. Investasi/Sekuritas SPT Tahunan PPh OP](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-3-investasi-sekuritas-spt-tahunan-pph-op-2/)
 - [Apakah Dividen Perusahaan Dapat Mengurangi Beban Pajak Badan? Ini Penjelasan Resmi Dari Kring Pajak](https://www.diskusipajak.com/apakah-dividen-perusahaan-dapat-mengurangi-beban-pajak-badan-ini-penjelasan-resmi-dari-kring-pajak/)
 - [Layanan Pendaftaran NPWP Kota Sidoarjo](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-sidoarjo/)
 - [Konsekuensi Jika Tidak Mencantumkan Pembayaran PPh Pasal 25 agar SPT tetap nihil](https://www.diskusipajak.com/konsekuensi-jika-tidak-mencantumkan-pembayaran-pph-pasal-25-agar-spt-tetap-nihil/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 2. Piutang SPT Tahunan PPh OP](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-2-piutang-spt-tahunan-pph-op/)
-- [Pajak Sewa Lapangan Bola: PPh Pasal 4 Ayat &lpar;2&rpar; atau PPh Pasal 23?](https://www.diskusipajak.com/pajak-sewa-lapangan-bola-pph-pasal-4-ayat-2-atau-pph-pasal-23/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
