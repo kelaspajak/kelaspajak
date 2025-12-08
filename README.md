@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 7. Ikhtisar Harta](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-7-ikhtisar-harta/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 6. Harta Lainnya](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-6-harta-lainnya/)
 - [Petunjuk Step by step Pengisian Lampiran 1 - Tabel 5. Harta Tidak Bergerak &lpar;Termasuk Tanah Bangunan&rpar;](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-5-harta-tidak-bergerak-termasuk-tanah-bangunan/)
 - [DTP PPh 21 untuk penghasilan tidak teratur](https://www.diskusipajak.com/dtp-pph-21-untuk-penghasilan-tidak-teratur/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 4. Harta Bergerak](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-4-harta-bergerak/)
-- [Wajib Pajak Dalam Negeri Boleh Bantu Isi DGT Form WPLN?](https://www.diskusipajak.com/wajib-pajak-dalam-negeri-boleh-bantu-isi-dgt-form-wpln/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
