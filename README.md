@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [DTP PPh 21 untuk penghasilan tidak teratur](https://www.diskusipajak.com/dtp-pph-21-untuk-penghasilan-tidak-teratur/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 4. Harta Bergerak](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-4-harta-bergerak/)
 - [Wajib Pajak Dalam Negeri Boleh Bantu Isi DGT Form WPLN?](https://www.diskusipajak.com/wajib-pajak-dalam-negeri-boleh-bantu-isi-dgt-form-wpln/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 3. Investasi/Sekuritas SPT Tahunan PPh OP](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-3-investasi-sekuritas-spt-tahunan-pph-op-2/)
 - [Apakah Dividen Perusahaan Dapat Mengurangi Beban Pajak Badan? Ini Penjelasan Resmi Dari Kring Pajak](https://www.diskusipajak.com/apakah-dividen-perusahaan-dapat-mengurangi-beban-pajak-badan-ini-penjelasan-resmi-dari-kring-pajak/)
-- [Layanan Pendaftaran NPWP Kota Sidoarjo](https://www.diskusipajak.com/layanan-pendaftaran-npwp-kota-sidoarjo/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
