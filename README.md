@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara mudah buat konsep spt tahunan PPh orang pribadi 2025](https://www.diskusipajak.com/cara-mudah-buat-konsep-spt-tahunan-pph-orang-pribadi-2025/)
+- [Cara Pembetulan SPT Masa PPh 21 LB di Coretax Saat Nominal KB Malah Membesar](https://www.diskusipajak.com/cara-pembetulan-spt-masa-pph-21-lb-di-coretax-saat-nominal-kb-malah-membesar/)
+- [Cara Mudah Buat Konsep SPT Tahunan PPh Orang Pribadi 2025](https://www.diskusipajak.com/cara-mudah-buat-konsep-spt-tahunan-pph-orang-pribadi-2025/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 7. Ikhtisar Harta](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-7-ikhtisar-harta/)
 - [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 6. Harta Lainnya](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-6-harta-lainnya/)
 - [Petunjuk Step by step Pengisian Lampiran 1 - Tabel 5. Harta Tidak Bergerak &lpar;Termasuk Tanah Bangunan&rpar;](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-5-harta-tidak-bergerak-termasuk-tanah-bangunan/)
-- [DTP PPh 21 untuk penghasilan tidak teratur](https://www.diskusipajak.com/dtp-pph-21-untuk-penghasilan-tidak-teratur/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
