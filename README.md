@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara mudah pilih Metode Pembukuan/Pencatatan dan Sumber Penghasilan](https://www.diskusipajak.com/cara-mudah-pilih-metode-pembukuan-pencatatan-dan-sumber-penghasilan/)
 - [Tax Onboarding Journey: Perjalanan Pertama Warga Palu Masuk Sistem Pajak Lewat Coretax](https://www.diskusipajak.com/tax-onboarding-journey-perjalanan-pertama-warga-palu-masuk-sistem-pajak-lewat-coretax/)
 - [Panduan Lengkap Daftar NPWP via Coretax untuk Warga Palu: Dari NIK sampai NPWP Aktif](https://www.diskusipajak.com/panduan-lengkap-daftar-npwp-via-coretax-untuk-warga-palu-dari-nik-sampai-npwp-aktif/)
 - [Cara Pembetulan SPT Masa PPh 21 LB di Coretax Saat Nominal KB Malah Membesar](https://www.diskusipajak.com/cara-pembetulan-spt-masa-pph-21-lb-di-coretax-saat-nominal-kb-malah-membesar/)
 - [Cara Mudah Buat Konsep SPT Tahunan PPh Orang Pribadi 2025](https://www.diskusipajak.com/cara-mudah-buat-konsep-spt-tahunan-pph-orang-pribadi-2025/)
-- [Petunjuk Step by Step Pengisian Lampiran 1 - Tabel 7. Ikhtisar Harta](https://www.diskusipajak.com/petunjuk-step-by-step-pengisian-lampiran-1-tabel-7-ikhtisar-harta/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
