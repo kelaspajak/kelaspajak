@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Benar Paham Identitas pada SPT Tahunan &lpar;PPh&rpar; Orang Pribadi Tahun 2025](https://www.diskusipajak.com/cara-benar-paham-identitas-pada-spt-tahunan-pph-orang-pribadi-tahun-2025/)
 - [Aspek Pajak Royalti Setelah 2023](https://www.diskusipajak.com/aspek-pajak-royalti-setelah-2023/)
 - [PPh Atas Selisih Kurs Untuk WP Badan UMKM: Kena Final atau Tarif Umum?](https://www.diskusipajak.com/pph-atas-selisih-kurs-untuk-wp-badan-umkm-kena-final-atau-tarif-umum/)
 - [Cara mudah pilih Metode Pembukuan/Pencatatan dan Sumber Penghasilan](https://www.diskusipajak.com/cara-mudah-pilih-metode-pembukuan-pencatatan-dan-sumber-penghasilan/)
 - [Tax Onboarding Journey: Perjalanan Pertama Warga Palu Masuk Sistem Pajak Lewat Coretax](https://www.diskusipajak.com/tax-onboarding-journey-perjalanan-pertama-warga-palu-masuk-sistem-pajak-lewat-coretax/)
-- [Panduan Lengkap Daftar NPWP via Coretax untuk Warga Palu: Dari NIK sampai NPWP Aktif](https://www.diskusipajak.com/panduan-lengkap-daftar-npwp-via-coretax-untuk-warga-palu-dari-nik-sampai-npwp-aktif/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
