@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Permintaan Penjelasan atas Data dan/atau Keterangan dan Kunjungan &lpar;Visit&rpar; kepada Wajib Pajak.](https://www.diskusipajak.com/permintaan-penjelasan-atas-data-dan-atau-keterangan-dan-kunjungan-visit-kepada-wajib-pajak/)
+- [Cara Benar Paham Penghitungan Pajak Terutang WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-penghitungan-pajak-terutang-wp-op-umkm/)
 - [Cara Benar Paham Ikhtisar Penghasilan Neto WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-ikhtisar-penghasilan-neto-wp-op-umkm/)
 - [Cara Benar Paham Identitas pada SPT Tahunan &lpar;PPh&rpar; Orang Pribadi Tahun 2025](https://www.diskusipajak.com/cara-benar-paham-identitas-pada-spt-tahunan-pph-orang-pribadi-tahun-2025/)
 - [Aspek Pajak Royalti Setelah 2023](https://www.diskusipajak.com/aspek-pajak-royalti-setelah-2023/)
-- [PPh Atas Selisih Kurs Untuk WP Badan UMKM: Kena Final atau Tarif Umum?](https://www.diskusipajak.com/pph-atas-selisih-kurs-untuk-wp-badan-umkm-kena-final-atau-tarif-umum/)
-- [Cara mudah pilih Metode Pembukuan/Pencatatan dan Sumber Penghasilan](https://www.diskusipajak.com/cara-mudah-pilih-metode-pembukuan-pencatatan-dan-sumber-penghasilan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
