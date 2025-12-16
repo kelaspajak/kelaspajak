@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Benar Paham Kredit Pajak WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-kredit-pajak-wp-op-umkm/)
 - [Sharing File Probis Pengelolaan SPT.pdf](https://www.diskusipajak.com/sharing-file-probis-pengelolaan-spt-pdf/)
 - [Surat Kuasa Khusus](https://www.diskusipajak.com/surat-kuasa-khusus/)
 - [Permintaan Penjelasan atas Data dan/atau Keterangan dan Kunjungan &lpar;Visit&rpar; kepada Wajib Pajak.](https://www.diskusipajak.com/permintaan-penjelasan-atas-data-dan-atau-keterangan-dan-kunjungan-visit-kepada-wajib-pajak/)
 - [Cara Benar Paham Penghitungan Pajak Terutang WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-penghitungan-pajak-terutang-wp-op-umkm/)
-- [Cara Benar Paham Ikhtisar Penghasilan Neto WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-ikhtisar-penghasilan-neto-wp-op-umkm/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
