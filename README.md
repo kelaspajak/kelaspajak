@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Samarinda](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-samarinda/)
 - [Penentuan SPDN dan SPLN](https://www.diskusipajak.com/penentuan-spdn-dan-spln/)
 - [Cara Benar Paham Kredit Pajak WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-kredit-pajak-wp-op-umkm/)
 - [Sharing File Probis Pengelolaan SPT.pdf](https://www.diskusipajak.com/sharing-file-probis-pengelolaan-spt-pdf/)
 - [Surat Kuasa Khusus](https://www.diskusipajak.com/surat-kuasa-khusus/)
-- [Permintaan Penjelasan atas Data dan/atau Keterangan dan Kunjungan &lpar;Visit&rpar; kepada Wajib Pajak.](https://www.diskusipajak.com/permintaan-penjelasan-atas-data-dan-atau-keterangan-dan-kunjungan-visit-kepada-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
