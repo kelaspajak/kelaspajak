@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kabupaten Tegal &amp; Sekitarnya](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kabupaten-tegal-sekitarnya/)
+- [Konsultasi Layanan Pengukuhan Pengusaha Kena Pajak di Kabupaten Tegal](https://www.diskusipajak.com/konsultasi-layanan-pengukuhan-pengusaha-kena-pajak-di-kabupaten-tegal/)
+- [Cara Benar Paham Pembetulan &lpar;diisi jika status SPT adalah pembetulan&rpar; WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-pembetulan-diisi-jika-status-spt-adalah-pembetulan-wp-op-umkm/)
 - [Perbedaan Status Bukti Potong di XML Bupot A1&lpar;Full Year, Partial Year, Annualized&rpar;](https://www.diskusipajak.com/perbedaan-status-bukti-potong-di-xml-bupot-a1-full-year-partial-year-annualized/)
 - [Cara Benar Paham PPh Kurang/Lebih Bayar WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-pph-kurang-lebih-bayar-wp-op-umkm/)
-- [Kebijakan Pajak terkait Bencana Aceh, Sumatera Utara, dan Sumatera Barat](https://www.diskusipajak.com/kebijakan-pajak-terkait-bencana-aceh-sumatera-utara-dan-sumatera-barat/)
-- [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Samarinda](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-samarinda/)
-- [Penentuan SPDN dan SPLN](https://www.diskusipajak.com/penentuan-spdn-dan-spln/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
