@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Benar Paham Permohonan Pengembalian PPh Lebih Bayar WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-permohonan-pengembalian-pph-lebih-bayar-wp-op-umkm/)
 - [Layanan Pengaktifan Kembali Wajib Pajak Nonaktif Kota Makassar](https://www.diskusipajak.com/layanan-pengaktifan-kembali-wajib-pajak-nonaktif-kota-makassar/)
 - [Peraturan Terkait Penentuan Subjek Pajak Dalam Negeri dan Subjek Pajak Luar Negeri](https://www.diskusipajak.com/peraturan-terkait-penentuan-subjek-pajak-dalam-negeri-dan-subjek-pajak-luar-negeri/)
 - [Cara Mengatasi Status Anggota Keluarga Tidak Valid di Coretax DJP](https://www.diskusipajak.com/cara-mengatasi-status-anggota-keluarga-tidak-valid-di-coretax-djp/)
 - [Jenis-jenis SPT Masa PPN yang diatur dalam konteks administrasi perpajakan yang baru](https://www.diskusipajak.com/jenis-jenis-spt-masa-ppn-yang-diatur-dalam-konteks-administrasi-perpajakan-yang-baru/)
-- [Konsultasi Layanan Pengukuhan Pengusaha Kena Pajak di Kota Samarinda](https://www.diskusipajak.com/konsultasi-layanan-pengukuhan-pengusaha-kena-pajak-di-kota-samarinda/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
