@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Layanan Pengaktifan Kembali Wajib Pajak Nonaktif Kota Makassar](https://www.diskusipajak.com/layanan-pengaktifan-kembali-wajib-pajak-nonaktif-kota-makassar/)
 - [Peraturan Terkait Penentuan Subjek Pajak Dalam Negeri dan Subjek Pajak Luar Negeri](https://www.diskusipajak.com/peraturan-terkait-penentuan-subjek-pajak-dalam-negeri-dan-subjek-pajak-luar-negeri/)
 - [Cara Mengatasi Status Anggota Keluarga Tidak Valid di Coretax DJP](https://www.diskusipajak.com/cara-mengatasi-status-anggota-keluarga-tidak-valid-di-coretax-djp/)
 - [Jenis-jenis SPT Masa PPN yang diatur dalam konteks administrasi perpajakan yang baru](https://www.diskusipajak.com/jenis-jenis-spt-masa-ppn-yang-diatur-dalam-konteks-administrasi-perpajakan-yang-baru/)
 - [Konsultasi Layanan Pengukuhan Pengusaha Kena Pajak di Kota Samarinda](https://www.diskusipajak.com/konsultasi-layanan-pengukuhan-pengusaha-kena-pajak-di-kota-samarinda/)
-- [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kabupaten Tegal &amp; Sekitarnya](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kabupaten-tegal-sekitarnya/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
