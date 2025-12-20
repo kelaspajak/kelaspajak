@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Benar Paham Lampiran Tambahan WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-lampiran-tambahan-wp-op-umkm/)
 - [Cara Benar Paham Pernyataan Transaksi Lainnya WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-pernyataan-transaksi-lainnya-wp-op-umkm/)
 - [Cara Benar Paham Angsuran PPh Pasal 25 Tahun Pajak Berikutnya WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-angsuran-pph-pasal-25-tahun-pajak-berikutnya-wp-op-umkm/)
 - [Cara Benar Paham Permohonan Pengembalian PPh Lebih Bayar WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-permohonan-pengembalian-pph-lebih-bayar-wp-op-umkm/)
 - [Layanan Pengaktifan Kembali Wajib Pajak Nonaktif Kota Makassar](https://www.diskusipajak.com/layanan-pengaktifan-kembali-wajib-pajak-nonaktif-kota-makassar/)
-- [Peraturan Terkait Penentuan Subjek Pajak Dalam Negeri dan Subjek Pajak Luar Negeri](https://www.diskusipajak.com/peraturan-terkait-penentuan-subjek-pajak-dalam-negeri-dan-subjek-pajak-luar-negeri/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
