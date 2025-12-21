@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mudah NON AKTIF NIK Istri](https://www.diskusipajak.com/cara-mudah/)
 - [Cara Mudah Isi NIK ISTRI di Core Tax System SUAMI](https://www.diskusipajak.com/cara-mudah-isi-nik-istri-di-core-tax-system-suami/)
 - [Cara Benar Paham PERNYATAAN WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-pernyataan-wp-op-umkm/)
 - [Cara Benar Paham Lampiran Tambahan WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-lampiran-tambahan-wp-op-umkm/)
 - [Cara Benar Paham Pernyataan Transaksi Lainnya WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-pernyataan-transaksi-lainnya-wp-op-umkm/)
-- [Cara Benar Paham Angsuran PPh Pasal 25 Tahun Pajak Berikutnya WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-angsuran-pph-pasal-25-tahun-pajak-berikutnya-wp-op-umkm/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
