@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Sidoarjo](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-sidoarjo/)
 - [NPWP bagi Wanita Kawin Tahun 2025 Pembaruan Desember](https://www.diskusipajak.com/npwp-bagi-wanita-kawin-tahun-2025-pembaruan-desember-2/)
 - [Cara Mudah NON AKTIF NIK Istri](https://www.diskusipajak.com/cara-mudah/)
 - [Cara Mudah Isi NIK ISTRI di Core Tax System SUAMI](https://www.diskusipajak.com/cara-mudah-isi-nik-istri-di-core-tax-system-suami/)
 - [Cara Benar Paham PERNYATAAN WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-pernyataan-wp-op-umkm/)
-- [Cara Benar Paham Lampiran Tambahan WP OP UMKM](https://www.diskusipajak.com/cara-benar-paham-lampiran-tambahan-wp-op-umkm/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
