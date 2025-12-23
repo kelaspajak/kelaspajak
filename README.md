@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Perpajakan Dividen di Indonesia Sejak 2021](https://www.diskusipajak.com/perpajakan-dividen-di-indonesia-sejak-2021/)
 - [Aspek Pajak Jasa Konstruksi di Kota Makassar](https://www.diskusipajak.com/aspek-pajak-jasa-konstruksi-di-kota-makassar/)
 - [Sewa dan Jasa sebagai Objek Pajak Penghasilan Pasal 23](https://www.diskusipajak.com/sewa-dan-jasa-sebagai-objek-pajak-penghasilan-pasal-23/)
 - [Royalti sebagai Objek Pajak Penghasilan di Indonesia: Panduan Lengkap dan FAQ](https://www.diskusipajak.com/royalti-sebagai-objek-pajak-penghasilan-di-indonesia-panduan-lengkap-dan-faq/)
 - [Hadiah, Penghargaan, Bonus, dan Hadiah Sejak 1 Mei 2015: Panduan Lengkap PPh dan FAQ](https://www.diskusipajak.com/hadiah-penghargaan-bonus-dan-hadiah-sejak-1-mei-2015-panduan-lengkap-pph-dan-faq/)
-- [Bunga sebagai Objek Pajak Penghasilan di Indonesia](https://www.diskusipajak.com/bunga-sebagai-objek-pajak-penghasilan-di-indonesia/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
