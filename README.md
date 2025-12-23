@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Royalti sebagai Objek Pajak Penghasilan di Indonesia: Panduan Lengkap dan FAQ](https://www.diskusipajak.com/royalti-sebagai-objek-pajak-penghasilan-di-indonesia-panduan-lengkap-dan-faq/)
+- [Hadiah, Penghargaan, Bonus, dan Hadiah Sejak 1 Mei 2015: Panduan Lengkap PPh dan FAQ](https://www.diskusipajak.com/hadiah-penghargaan-bonus-dan-hadiah-sejak-1-mei-2015-panduan-lengkap-pph-dan-faq/)
 - [Bunga sebagai Objek Pajak Penghasilan di Indonesia](https://www.diskusipajak.com/bunga-sebagai-objek-pajak-penghasilan-di-indonesia/)
 - [Konsultasi Layanan Aktivasi NIK sebagai NPWP, Kode Otorisasi DJP dan Sertifikat Elektronik untuk Kota Sidoarjo](https://www.diskusipajak.com/konsultasi-layanan-aktivasi-nik-sebagai-npwp-kode-otorisasi-djp-dan-sertifikat-elektronik-untuk-kota-sidoarjo/)
 - [NPWP bagi Wanita Kawin Tahun 2025 Pembaruan Desember](https://www.diskusipajak.com/npwp-bagi-wanita-kawin-tahun-2025-pembaruan-desember-2/)
-- [Cara Mudah Non Aktif NIK Istri](https://www.diskusipajak.com/cara-mudah-non-aktifkan-nik-istri/)
-- [Cara Mudah Isi NIK ISTRI di Core Tax System SUAMI](https://www.diskusipajak.com/cara-mudah-isi-nik-istri-di-core-tax-system-suami/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
