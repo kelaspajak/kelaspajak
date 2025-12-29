@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [REMINDER AKHIR TAHUN 2025](https://www.diskusipajak.com/reminder-akhir-tahun-2025/)
 - [Apakah Saldo Deposit Pajak Harus Dipakai di 2025 atau Bisa Digunakan di 2026?](https://www.diskusipajak.com/apakah-saldo-deposit-pajak-harus-dipakai-di-2025-atau-bisa-digunakan-di-2026/)
 - [Cara Mengatasi NIK Sudah Teregistrasi Saat Buat NPWP di Coretax dan Email Tidak Sesuai Sistem](https://www.diskusipajak.com/cara-mengatasi-nik-sudah-teregistrasi-saat-buat-npwp-di-coretax-dan-email-tidak-sesuai-sistem/)
 - [Syarat, Tarif, &amp; Kode Pajak Pemotongan PPh 23 Jasa Travel](https://www.diskusipajak.com/syarat-tarif-kode-pajak-pemotongan-pph-23-jasa-travel/)
 - [Perpajakan Dividen di Indonesia Sejak 2021](https://www.diskusipajak.com/perpajakan-dividen-di-indonesia-sejak-2021/)
-- [Sewa dan Jasa sebagai Objek Pajak Penghasilan Pasal 23](https://www.diskusipajak.com/sewa-dan-jasa-sebagai-objek-pajak-penghasilan-pasal-23/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
