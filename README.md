@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Praktisi pajak domisili di Bogor dengan fokus pada pelaporan pajak dan transaksi kepabeanan. Berusaha untuk berkontribusi menyediakan panduan perpajakan yang akurat dan mudah dipahami.](https://www.diskusipajak.com/praktisi-pajak-domisili-di-bogor-dengan-fokus-pada-pelaporan-pajak-dan-transaksi-kepabeanan-berusaha-untuk-berkontribusi-menyediakan-panduan-perpajakan-yang-akurat-dan-mudah-dipahami-2/)
 - [Praktisi pajak domisili di Bogor dengan fokus pada pelaporan pajak dan transaksi kepabeanan. Berusaha untuk berkontribusi menyediakan panduan perpajakan yang akurat dan mudah dipahami.](https://www.diskusipajak.com/praktisi-pajak-domisili-di-bogor-dengan-fokus-pada-pelaporan-pajak-dan-transaksi-kepabeanan-berusaha-untuk-berkontribusi-menyediakan-panduan-perpajakan-yang-akurat-dan-mudah-dipahami/)
 - [REMINDER AKHIR TAHUN 2025](https://www.diskusipajak.com/reminder-akhir-tahun-2025/)
 - [Apakah Saldo Deposit Pajak Harus Dipakai di 2025 atau Bisa Digunakan di 2026?](https://www.diskusipajak.com/apakah-saldo-deposit-pajak-harus-dipakai-di-2025-atau-bisa-digunakan-di-2026/)
 - [Cara Mengatasi NIK Sudah Teregistrasi Saat Buat NPWP di Coretax dan Email Tidak Sesuai Sistem](https://www.diskusipajak.com/cara-mengatasi-nik-sudah-teregistrasi-saat-buat-npwp-di-coretax-dan-email-tidak-sesuai-sistem/)
-- [Syarat, Tarif, &amp; Kode Pajak Pemotongan PPh 23 Jasa Travel](https://www.diskusipajak.com/syarat-tarif-kode-pajak-pemotongan-pph-23-jasa-travel/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
