@@ -4,10 +4,10 @@ website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Jika Gabung NPWP Istri ke Suami: ISTRI AJUKAN NON-AKTIF SEBELUM 31 MARET 2026](https://www.diskusipajak.com/jika-gabung-npwp-istri-ke-suami-istri-ajukan-non-aktif-sebelum-31-maret-2026/)
-- [Balikpapan](https://www.diskusipajak.com/balikpapan/)
 - [5 Langkah Bagaimana Menanggapi SP2DK For Beginner](https://www.diskusipajak.com/5-langkah-bagaimana-menanggapi-sp2dk-for-beginner/)
 - [REMINDER AKHIR TAHUN 2025](https://www.diskusipajak.com/reminder-akhir-tahun-2025/)
 - [Apakah Saldo Deposit Pajak Harus Dipakai di 2025 atau Bisa Digunakan di 2026?](https://www.diskusipajak.com/apakah-saldo-deposit-pajak-harus-dipakai-di-2025-atau-bisa-digunakan-di-2026/)
+- [Cara Mengatasi NIK Sudah Teregistrasi Saat Buat NPWP di Coretax dan Email Tidak Sesuai Sistem](https://www.diskusipajak.com/cara-mengatasi-nik-sudah-teregistrasi-saat-buat-npwp-di-coretax-dan-email-tidak-sesuai-sistem/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
