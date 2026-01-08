@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Akses Coretax bagi user DJP Online](https://www.diskusipajak.com/akses-coretax-bagi-user-djp-online/)
-- [Pertama kali akses Coretax DJP](https://www.diskusipajak.com/pertama-kali-akses-coretax-djp/)
-- [Jika Gabung NPWP Istri ke Suami: Istri Ajukan Non Aktif Sebelum 31 Maret 2026](https://www.diskusipajak.com/jika-gabung-npwp-istri-ke-suami-istri-ajukan-non-aktif-sebelum-31-maret-2026/)
-- [5 Langkah Bagaimana Menanggapi SP2DK For Beginner](https://www.diskusipajak.com/5-langkah-bagaimana-menanggapi-sp2dk-for-beginner/)
-- [Reminder Pajak untuk Akhir Tahun 2025](https://www.diskusipajak.com/reminder-akhir-tahun-2025/)
+- [Risiko Apa yang terjadi jika belum aktivasi coretax?](https://www.diskusipajak.com/risiko-apa-yang-terjadi-jika-belum-aktivasi-coretax/)
+- [Status NPWP tidak aktivasi akun Coretax DJP](https://www.diskusipajak.com/status-npwp-tidak-aktivasi-akun-coretax-djp/)
+- [Karakter khusus yang tidak boleh digunakan di Coretax](https://www.diskusipajak.com/karakter-khusus-yang-tidak-boleh-digunakan-di-coretax/)
+- [Cara Mengamankan akses Coretax dengan verifikasi dua langkah](https://www.diskusipajak.com/cara-mengamankan-akses-coretax-dengan-verifikasi-dua-langkah/)
+- [Bagaimana istri gabung NPWP suami di Coretax](https://www.diskusipajak.com/bagaimana-istri-gabung-npwp-suami-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
