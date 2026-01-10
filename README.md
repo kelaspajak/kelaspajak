@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mudah Tambah Rekening WP OP](https://www.diskusipajak.com/cara-mudah-tambah-rekening-wp-op/)
 - [Cara Mudah Rubah Omzet per Tahun](https://www.diskusipajak.com/cara-mudah-rubah-omzet-per-tahun-2/)
 - [Cara Mudah Rubah Omzet per Tahun](https://www.diskusipajak.com/cara-mudah-rubah-omzet-per-tahun/)
 - [Cara Mudah Aktifkan Kembali NPWP WP OP](https://www.diskusipajak.com/cara-mudah-aktifkan-kembali-npwp-wp-op/)
 - [Risiko Apa yang terjadi jika belum aktivasi coretax?](https://www.diskusipajak.com/risiko-apa-yang-terjadi-jika-belum-aktivasi-coretax/)
-- [Status NPWP tidak aktivasi akun Coretax DJP](https://www.diskusipajak.com/status-npwp-tidak-aktivasi-akun-coretax-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
