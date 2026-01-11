@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mudah Cek Pembayaran Core Tax](https://www.diskusipajak.com/cara-mudah-cek-pembayaran-core-tax/)
 - [Cara Mudah Hapus NPWP OP](https://www.diskusipajak.com/cara-mudah-hapus-npwp-op/)
 - [Cara Mudah Aktifkan NPWP WP OP](https://www.diskusipajak.com/cara-mudah-aktifkan-npwp-wp-op/)
 - [Cara Mudah Tambah Rekening WP OP](https://www.diskusipajak.com/cara-mudah-tambah-rekening-wp-op/)
 - [Cara Mudah Rubah Omzet per Tahun](https://www.diskusipajak.com/cara-mudah-rubah-omzet-per-tahun-2/)
-- [Cara Mudah Rubah Omzet per Tahun](https://www.diskusipajak.com/cara-mudah-rubah-omzet-per-tahun/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
