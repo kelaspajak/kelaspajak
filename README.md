@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Mudah Cek Pembayaran Core Tax](https://www.diskusipajak.com/cara-mudah-cek-pembayaran-core-tax/)
-- [Cara Mudah Hapus NPWP OP](https://www.diskusipajak.com/cara-mudah-hapus-npwp-op/)
-- [Cara Mudah Aktifkan NPWP WP OP](https://www.diskusipajak.com/cara-mudah-aktifkan-npwp-wp-op/)
-- [Cara Mudah Tambah Rekening WP OP](https://www.diskusipajak.com/cara-mudah-tambah-rekening-wp-op/)
-- [Cara Mudah Rubah Omzet per Tahun](https://www.diskusipajak.com/cara-mudah-rubah-omzet-per-tahun-2/)
+- [NPWP 16 Digit &amp; Coretax: Apa Artinya untuk Pekerja Kantoran dan Freelancer di Palu?](https://www.diskusipajak.com/npwp-16-digit-coretax-apa-artinya-untuk-pekerja-kantoran-dan-freelancer-di-palu/)
+- [Kendala impersonate di Coretax DJP](https://www.diskusipajak.com/kendala-impersonate-di-coretax-djp/)
+- [Tidak ada menu impersonate di Coretax DJP](https://www.diskusipajak.com/tidak-ada-menu-impersonate-di-coretax-djp/)
+- [Bagaimana cara melakukan impersonate akun wajib pajak?](https://www.diskusipajak.com/bagaimana-cara-melakukan-impersonate-akun-wajib-pajak/)
+- [Apa itu impersonate dalam Coretax DJP](https://www.diskusipajak.com/tkb-apa-itu-impersonate-dalam-coretax-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
