@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kewajiban Lapor SPT Tahunan](https://www.diskusipajak.com/kewajiban-lapor-spt-tahunan/)
 - [NPWP 16 Digit &amp; Coretax: Apa Artinya untuk Pekerja Kantoran dan Freelancer di Palu?](https://www.diskusipajak.com/npwp-16-digit-coretax-apa-artinya-untuk-pekerja-kantoran-dan-freelancer-di-palu/)
 - [Kendala impersonate di Coretax DJP](https://www.diskusipajak.com/kendala-impersonate-di-coretax-djp/)
 - [Tidak ada menu impersonate di Coretax DJP](https://www.diskusipajak.com/tidak-ada-menu-impersonate-di-coretax-djp/)
 - [Bagaimana cara melakukan impersonate akun wajib pajak?](https://www.diskusipajak.com/bagaimana-cara-melakukan-impersonate-akun-wajib-pajak/)
-- [Apa itu impersonate dalam Coretax DJP](https://www.diskusipajak.com/tkb-apa-itu-impersonate-dalam-coretax-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
