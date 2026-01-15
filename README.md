@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Pemindahbukuan vs PPYSTT di Coretax: Panduan Lengkap PMK 81 Tahun 2024 untuk Wajib Pajak](https://www.diskusipajak.com/pemindahbukuan-vs-ppystt-di-coretax-panduan-lengkap-pmk-81-tahun-2024-untuk-wajib-pajak/)
 - [Kewajiban Lapor SPT Tahunan](https://www.diskusipajak.com/kewajiban-lapor-spt-tahunan/)
 - [NPWP 16 Digit &amp; Coretax: Apa Artinya untuk Pekerja Kantoran dan Freelancer di Palu?](https://www.diskusipajak.com/npwp-16-digit-coretax-apa-artinya-untuk-pekerja-kantoran-dan-freelancer-di-palu/)
 - [Kendala impersonate di Coretax DJP](https://www.diskusipajak.com/kendala-impersonate-di-coretax-djp/)
 - [Tidak ada menu impersonate di Coretax DJP](https://www.diskusipajak.com/tidak-ada-menu-impersonate-di-coretax-djp/)
-- [Bagaimana cara melakukan impersonate akun wajib pajak?](https://www.diskusipajak.com/bagaimana-cara-melakukan-impersonate-akun-wajib-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
