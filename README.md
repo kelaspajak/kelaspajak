@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [PPh Pasal 26 atas Penjualan Saham WPLN Cayman Island ke Perusahaan Indonesia dan Singapura: Analisis Lengkap Kewajiban Pajak](https://www.diskusipajak.com/pph-pasal-26-atas-penjualan-saham-wpln-cayman-island-ke-perusahaan-indonesia-dan-singapura-analisis-lengkap-kewajiban-pajak/)
 - [Cara Mengubah Alamat Domisili NPWP Sesuai Pasal 24 PER-7/PJ/2025 Melalui Coretax](https://www.diskusipajak.com/cara-mengubah-alamat-domisili-npwp-sesuai-pasal-24-per-7-pj-2025-melalui-coretax/)
 - [Pemindahbukuan vs PPYSTT di Coretax: Panduan Lengkap PMK 81 Tahun 2024 untuk Wajib Pajak](https://www.diskusipajak.com/pemindahbukuan-vs-ppystt-di-coretax-panduan-lengkap-pmk-81-tahun-2024-untuk-wajib-pajak/)
 - [Kewajiban Lapor SPT Tahunan](https://www.diskusipajak.com/kewajiban-lapor-spt-tahunan/)
 - [NPWP 16 Digit &amp; Coretax: Apa Artinya untuk Pekerja Kantoran dan Freelancer di Palu?](https://www.diskusipajak.com/npwp-16-digit-coretax-apa-artinya-untuk-pekerja-kantoran-dan-freelancer-di-palu/)
-- [Kendala impersonate di Coretax DJP](https://www.diskusipajak.com/kendala-impersonate-di-coretax-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
