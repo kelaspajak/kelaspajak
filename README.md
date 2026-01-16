@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Penyusutan Aktiva Tetap Berwujud yang Dibeli Secara Kredit dari Sisi Perpajakan?](https://www.diskusipajak.com/bagaimana-penyusutan-aktiva-tetap-berwujud-yang-dibeli-secara-kredit-dari-sisi-perpajakan/)
 - [Bagaimana Cara Pelaporan dan Pembayaran PPh Pasal 25 untuk WP Badan yang Melebihi 4,8 Miliar di 2025?](https://www.diskusipajak.com/bagaimana-cara-pelaporan-dan-pembayaran-pph-pasal-25-untuk-wp-badan-yang-melebihi-4-8-miliar-di-2025/)
 - [Apakah Pengangsuran SKP Kurang Bayar Menghilangkan Status Utang Pajak di Coretax?](https://www.diskusipajak.com/apakah-pengangsuran-skp-kurang-bayar-menghilangkan-status-utang-pajak-di-coretax/)
 - [Cara Mengubah Status Faktur Pajak Masukan dari Tidak Dikreditkan Menjadi Dikreditkan](https://www.diskusipajak.com/cara-mengubah-status-faktur-pajak-masukan-dari-tidak-dikreditkan-menjadi-dikreditkan/)
 - [Karyawan Pindah Kerja dari PT A ke PT B: Penanganan Bukti Potong PPh 21 A1 Desember](https://www.diskusipajak.com/karyawan-pindah-kerja-dari-pt-a-ke-pt-b-penanganan-bukti-potong-pph-21-a1-desember/)
-- [PPh Pasal 26 atas Penjualan Saham WPLN Cayman Island ke Perusahaan Indonesia dan Singapura: Analisis Lengkap Kewajiban Pajak](https://www.diskusipajak.com/pph-pasal-26-atas-penjualan-saham-wpln-cayman-island-ke-perusahaan-indonesia-dan-singapura-analisis-lengkap-kewajiban-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
