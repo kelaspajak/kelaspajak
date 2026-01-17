@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Hitung Pajak Penghasilan Affiliate Marketplace Jika Ada Bukti Potong Lain dari Berbagai Sumber?](https://www.diskusipajak.com/cara-hitung-pajak-penghasilan-affiliate-marketplace-jika-ada-bukti-potong-lain-dari-berbagai-sumber/)
 - [Bagaimana Penyusutan Aktiva Tetap Berwujud yang Dibeli Secara Kredit dari Sisi Perpajakan?](https://www.diskusipajak.com/bagaimana-penyusutan-aktiva-tetap-berwujud-yang-dibeli-secara-kredit-dari-sisi-perpajakan/)
 - [Bagaimana Cara Pelaporan dan Pembayaran PPh Pasal 25 untuk WP Badan yang Melebihi 4,8 Miliar di 2025?](https://www.diskusipajak.com/bagaimana-cara-pelaporan-dan-pembayaran-pph-pasal-25-untuk-wp-badan-yang-melebihi-4-8-miliar-di-2025/)
 - [Apakah Pengangsuran SKP Kurang Bayar Menghilangkan Status Utang Pajak di Coretax?](https://www.diskusipajak.com/apakah-pengangsuran-skp-kurang-bayar-menghilangkan-status-utang-pajak-di-coretax/)
 - [Cara Mengubah Status Faktur Pajak Masukan dari Tidak Dikreditkan Menjadi Dikreditkan](https://www.diskusipajak.com/cara-mengubah-status-faktur-pajak-masukan-dari-tidak-dikreditkan-menjadi-dikreditkan/)
-- [Karyawan Pindah Kerja dari PT A ke PT B: Penanganan Bukti Potong PPh 21 A1 Desember](https://www.diskusipajak.com/karyawan-pindah-kerja-dari-pt-a-ke-pt-b-penanganan-bukti-potong-pph-21-a1-desember/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
