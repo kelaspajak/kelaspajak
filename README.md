@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Presentasi PMK Nomor 64/PMK.03/2022 Pajak Pertambahan Nilai atas Penyerahan Barang Hasil Pertanian Tertentu.](https://www.diskusipajak.com/presentasi-pmk-nomor-64-pmk-03-2022-pajak-pertambahan-nilai-atas-penyerahan-barang-hasil-pertanian-tertentu/)
 - [Cara Mengisi Penghasilan Istri Kerja di Kedutaan di Coretax untuk PNS Suami dengan NPWP Gabung](https://www.diskusipajak.com/cara-mengisi-penghasilan-istri-kerja-di-kedutaan-di-coretax-untuk-pns-suami-dengan-npwp-gabung/)
 - [Cara Legalisir NPWP Perusahaan: Syarat dan Prosedur Lengkap Terbaru](https://www.diskusipajak.com/cara-legalisir-npwp-perusahaan-syarat-dan-prosedur-lengkap-terbaru/)
 - [Cara Membuat BPA1 di Coretax untuk Karyawan dengan NPWP Sementara: Validasi NIK Wajib Dilakukan?](https://www.diskusipajak.com/cara-membuat-bpa1-di-coretax-untuk-karyawan-dengan-npwp-sementara-validasi-nik-wajib-dilakukan/)
 - [Apakah Laporan Ekspor di Coretax Wajib Pakai PEB? Alternatif Dokumen Selain PEB untuk Pajak Keluaran](https://www.diskusipajak.com/apakah-laporan-ekspor-di-coretax-wajib-pakai-peb-alternatif-dokumen-selain-peb-untuk-pajak-keluaran/)
-- [Cara Hitung Pajak Penghasilan Affiliate Marketplace Jika Ada Bukti Potong Lain dari Berbagai Sumber?](https://www.diskusipajak.com/cara-hitung-pajak-penghasilan-affiliate-marketplace-jika-ada-bukti-potong-lain-dari-berbagai-sumber/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
