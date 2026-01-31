@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Apa itu penanggung jawab/PIC di Coretax](https://www.diskusipajak.com/apa-itu-penanggung-jawab-pic-di-coretax/)
 - [Apakah Faktur Pajak Boleh Menggunakan Bahasa Inggris? Ini Aturan dan Praktik Terbaiknya](https://www.diskusipajak.com/apakah-faktur-pajak-boleh-menggunakan-bahasa-inggris-ini-aturan-dan-praktik-terbaiknya/)
 - [Cara Lapor SPT Tahunan untuk Isteri yang Jadi Affiliator Shopee](https://www.diskusipajak.com/cara-lapor-spt-tahunan-untuk-isteri-yang-jadi-affiliator-shopee/)
 - [Presentasi PMK Nomor 64/PMK.03/2022 Pajak Pertambahan Nilai atas Penyerahan Barang Hasil Pertanian Tertentu.](https://www.diskusipajak.com/presentasi-pmk-nomor-64-pmk-03-2022-pajak-pertambahan-nilai-atas-penyerahan-barang-hasil-pertanian-tertentu/)
 - [Cara Mengisi Penghasilan Istri Kerja di Kedutaan di Coretax untuk PNS Suami dengan NPWP Gabung](https://www.diskusipajak.com/cara-mengisi-penghasilan-istri-kerja-di-kedutaan-di-coretax-untuk-pns-suami-dengan-npwp-gabung/)
-- [Cara Legalisir NPWP Perusahaan: Syarat dan Prosedur Lengkap Terbaru](https://www.diskusipajak.com/cara-legalisir-npwp-perusahaan-syarat-dan-prosedur-lengkap-terbaru/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
