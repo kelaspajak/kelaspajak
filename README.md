@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mudah Import XML Penyusutan &lpar;L9&rpar;](https://www.diskusipajak.com/cara-mudah-import-xml-penyusutan-l9/)
 - [Hak akses PIC di Coretax](https://www.diskusipajak.com/hak-akses-pic-di-coretax/)
 - [Apa itu penanggung jawab/PIC di Coretax](https://www.diskusipajak.com/apa-itu-penanggung-jawab-pic-di-coretax/)
 - [Apakah Faktur Pajak Boleh Menggunakan Bahasa Inggris? Ini Aturan dan Praktik Terbaiknya](https://www.diskusipajak.com/apakah-faktur-pajak-boleh-menggunakan-bahasa-inggris-ini-aturan-dan-praktik-terbaiknya/)
 - [Cara Lapor SPT Tahunan untuk Isteri yang Jadi Affiliator Shopee](https://www.diskusipajak.com/cara-lapor-spt-tahunan-untuk-isteri-yang-jadi-affiliator-shopee/)
-- [Presentasi PMK Nomor 64/PMK.03/2022 Pajak Pertambahan Nilai atas Penyerahan Barang Hasil Pertanian Tertentu.](https://www.diskusipajak.com/presentasi-pmk-nomor-64-pmk-03-2022-pajak-pertambahan-nilai-atas-penyerahan-barang-hasil-pertanian-tertentu/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
