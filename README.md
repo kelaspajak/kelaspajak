@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Siapa Saja Pihak Terkait dalam Coretax DJP?](https://www.diskusipajak.com/siapa-saja-pihak-terkait-dalam-coretax-djp/)
+- [Bagaimana mendapat kode otorisasi](https://www.diskusipajak.com/bagaimana-mendapat-kode-otorisasi/)
+- [Cara Aktivasi Akun Coretax DJP untuk Pengguna DJP Online yang Belum Pernah Akses Coretax](https://www.diskusipajak.com/cara-aktivasi-akun-coretax-djp-untuk-pengguna-djp-online-yang-belum-pernah-akses-coretax/)
 - [Role Akses Coretax DJP yang Bisa Didelegasikan PIC](https://www.diskusipajak.com/role-akses-coretax-djp-yang-bisa-didelegasikan-pic/)
 - [Siapa Saja yang Bisa Ditunjuk sebagai PIC Coretax DJP Wajib Pajak Badan](https://www.diskusipajak.com/siapa-saja-yang-bisa-ditunjuk-sebagai-pic-coretax-djp-wajib-pajak-badan/)
-- [Cara Mudah Import XML Penyusutan &lpar;L9&rpar;](https://www.diskusipajak.com/cara-mudah-import-xml-penyusutan-l9/)
-- [Hak akses PIC di Coretax](https://www.diskusipajak.com/hak-akses-pic-di-coretax/)
-- [Apa itu penanggung jawab/PIC di Coretax](https://www.diskusipajak.com/apa-itu-penanggung-jawab-pic-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
