@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Role Akses Coretax DJP yang Bisa Didelegasikan PIC](https://www.diskusipajak.com/role-akses-coretax-djp-yang-bisa-didelegasikan-pic/)
+- [Siapa Saja yang Bisa Ditunjuk sebagai PIC Coretax DJP Wajib Pajak Badan](https://www.diskusipajak.com/siapa-saja-yang-bisa-ditunjuk-sebagai-pic-coretax-djp-wajib-pajak-badan/)
 - [Cara Mudah Import XML Penyusutan &lpar;L9&rpar;](https://www.diskusipajak.com/cara-mudah-import-xml-penyusutan-l9/)
 - [Hak akses PIC di Coretax](https://www.diskusipajak.com/hak-akses-pic-di-coretax/)
 - [Apa itu penanggung jawab/PIC di Coretax](https://www.diskusipajak.com/apa-itu-penanggung-jawab-pic-di-coretax/)
-- [Apakah Faktur Pajak Boleh Menggunakan Bahasa Inggris? Ini Aturan dan Praktik Terbaiknya](https://www.diskusipajak.com/apakah-faktur-pajak-boleh-menggunakan-bahasa-inggris-ini-aturan-dan-praktik-terbaiknya/)
-- [Cara Lapor SPT Tahunan untuk Isteri yang Jadi Affiliator Shopee](https://www.diskusipajak.com/cara-lapor-spt-tahunan-untuk-isteri-yang-jadi-affiliator-shopee/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
