@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Solusi Jika Karyawan dengan Role Khusus Coretax DJP Cuti Panjang?](https://www.diskusipajak.com/bagaimana-solusi-jika-karyawan-dengan-role-khusus-coretax-djp-cuti-panjang/)
 - [Bagaimana Cara Mengganti PIC di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-mengganti-pic-di-coretax-djp/)
 - [Bagaimana Menunjuk PIC untuk Wajib Pajak Badan di Coretax DJP](https://www.diskusipajak.com/bagaimana-menunjuk-pic-untuk-wajib-pajak-badan-di-coretax-djp/)
 - [Cara Pendelegasian Wewenang di Coretax DJP: Ketentuan Lengkap untuk PIC Pusat, Cabang, dan Konsultan Pajak](https://www.diskusipajak.com/cara-pendelegasian-wewenang-di-coretax-djp-ketentuan-lengkap-untuk-pic-pusat-cabang-dan-konsultan-pajak/)
 - [Cara Memberikan dan Mencabut Role di Coretax DJP untuk Wakil/Kuasa](https://www.diskusipajak.com/cara-memberikan-dan-mencabut-role-di-coretax-djp-untuk-wakil-kuasa/)
-- [Cara Cek Role Akses yang Diberikan di Coretax DJP untuk Wajib Pajak yang Diwakili](https://www.diskusipajak.com/cara-cek-role-akses-yang-diberikan-di-coretax-djp-untuk-wajib-pajak-yang-diwakili/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
