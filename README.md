@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Pendelegasian Wewenang di Coretax DJP: Ketentuan Lengkap untuk PIC Pusat, Cabang, dan Konsultan Pajak](https://www.diskusipajak.com/cara-pendelegasian-wewenang-di-coretax-djp-ketentuan-lengkap-untuk-pic-pusat-cabang-dan-konsultan-pajak/)
+- [Cara Memberikan dan Mencabut Role di Coretax DJP untuk Wakil/Kuasa](https://www.diskusipajak.com/cara-memberikan-dan-mencabut-role-di-coretax-djp-untuk-wakil-kuasa/)
 - [Cara Cek Role Akses yang Diberikan di Coretax DJP untuk Wajib Pajak yang Diwakili](https://www.diskusipajak.com/cara-cek-role-akses-yang-diberikan-di-coretax-djp-untuk-wajib-pajak-yang-diwakili/)
 - [Karakter Khusus yang Tidak Diperbolehkan dalam Alamat Email, Password, dan Passphrase di Sistem Pajak](https://www.diskusipajak.com/karakter-khusus-yang-tidak-diperbolehkan-dalam-alamat-email-password-dan-passphrase-di-sistem-pajak/)
 - [Cara Menambah atau Menghapus Pihak Terkait di Coretax DJP untuk Wajib Pajak Badan](https://www.diskusipajak.com/cara-menambah-atau-menghapus-pihak-terkait-di-coretax-djp-untuk-wajib-pajak-badan/)
-- [Cara Mudah Import XML Lampiran SPT OP - Daftar Harta](https://www.diskusipajak.com/cara-mudah-import-xml-lampiran-spt-op-daftar-harta/)
-- [Siapa Saja Pihak Terkait dalam Coretax DJP?](https://www.diskusipajak.com/siapa-saja-pihak-terkait-dalam-coretax-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
