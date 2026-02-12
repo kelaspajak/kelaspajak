@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Mengapa Wajib Pajak Harus Punya Kode Otorisasi untuk Lapor SPT di Coretax?](https://www.diskusipajak.com/mengapa-wajib-pajak-harus-punya-kode-otorisasi-untuk-lapor-spt-di-coretax/)
+- [Apa Itu Kode Otorisasi DJP dan Apakah Wajib Pajak Perlu Memilikinya?](https://www.diskusipajak.com/apa-itu-kode-otorisasi-djp-dan-apakah-wajib-pajak-perlu-memilikinya/)
+- [Apa Saja Fungsi dan Fitur Akun Wajib Pajak Badan di Coretax DJP?](https://www.diskusipajak.com/apa-saja-fungsi-dan-fitur-akun-wajib-pajak-badan-di-coretax-djp/)
 - [Panduan Lengkap: Kas USD Harus Dikonversi ke Rupiah Saat Pelaporan Pajak](https://www.diskusipajak.com/panduan-lengkap-kas-usd-harus-dikonversi-ke-rupiah-saat-pelaporan-pajak/)
 - [Bagaimana Solusi Jika Karyawan dengan Role Khusus Coretax DJP Cuti Panjang?](https://www.diskusipajak.com/bagaimana-solusi-jika-karyawan-dengan-role-khusus-coretax-djp-cuti-panjang/)
-- [Bagaimana Cara Mengganti PIC di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-mengganti-pic-di-coretax-djp/)
-- [Bagaimana Menunjuk PIC untuk Wajib Pajak Badan di Coretax DJP](https://www.diskusipajak.com/bagaimana-menunjuk-pic-untuk-wajib-pajak-badan-di-coretax-djp/)
-- [Cara Pendelegasian Wewenang di Coretax DJP: Ketentuan Lengkap untuk PIC Pusat, Cabang, dan Konsultan Pajak](https://www.diskusipajak.com/cara-pendelegasian-wewenang-di-coretax-djp-ketentuan-lengkap-untuk-pic-pusat-cabang-dan-konsultan-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
