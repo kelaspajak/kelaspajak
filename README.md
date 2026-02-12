@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mengecek Status Kode Otorisasi DJP di Coretax yang Belum Valid?](https://www.diskusipajak.com/cara-mengecek-status-kode-otorisasi-djp-di-coretax-yang-belum-valid/)
+- [Bagaimana Cara Mengajukan Perubahan Tahun Buku dari Januari-Desember ke Maret-April di Coretax?](https://www.diskusipajak.com/bagaimana-cara-mengajukan-perubahan-tahun-buku-dari-januari-desember-ke-maret-april-di-coretax/)
 - [Mengapa Wajib Pajak Harus Punya Kode Otorisasi untuk Lapor SPT di Coretax?](https://www.diskusipajak.com/mengapa-wajib-pajak-harus-punya-kode-otorisasi-untuk-lapor-spt-di-coretax/)
 - [Apa Itu Kode Otorisasi DJP dan Apakah Wajib Pajak Perlu Memilikinya?](https://www.diskusipajak.com/apa-itu-kode-otorisasi-djp-dan-apakah-wajib-pajak-perlu-memilikinya/)
 - [Apa Saja Fungsi dan Fitur Akun Wajib Pajak Badan di Coretax DJP?](https://www.diskusipajak.com/apa-saja-fungsi-dan-fitur-akun-wajib-pajak-badan-di-coretax-djp/)
-- [Panduan Lengkap: Kas USD Harus Dikonversi ke Rupiah Saat Pelaporan Pajak](https://www.diskusipajak.com/panduan-lengkap-kas-usd-harus-dikonversi-ke-rupiah-saat-pelaporan-pajak/)
-- [Bagaimana Solusi Jika Karyawan dengan Role Khusus Coretax DJP Cuti Panjang?](https://www.diskusipajak.com/bagaimana-solusi-jika-karyawan-dengan-role-khusus-coretax-djp-cuti-panjang/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
