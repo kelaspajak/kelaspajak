@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Cara Mengubah Status NPWP Nonaktif Menjadi Aktif dengan Mudah?](https://www.diskusipajak.com/bagaimana-cara-mengubah-status-npwp-nonaktif-menjadi-aktif-dengan-mudah/)
+- [Siapa Saja yang Berhak Mengubah Data Wajib Pajak Badan dan Instansi Pemerintah?](https://www.diskusipajak.com/siapa-saja-yang-berhak-mengubah-data-wajib-pajak-badan-dan-instansi-pemerintah/)
 - [Apakah Suami dan Istri Wajib Punya Kode Otorisasi Masing-Masing di Coretax?](https://www.diskusipajak.com/apakah-suami-dan-istri-wajib-punya-kode-otorisasi-masing-masing-di-coretax/)
 - [Berapa Lama Masa Berlaku Kode Otorisasi Coretax DJP?](https://www.diskusipajak.com/berapa-lama-masa-berlaku-kode-otorisasi-coretax-djp/)
 - [Siapa yang Harus Memiliki Kode Otorisasi DJP di Coretax?](https://www.diskusipajak.com/siapa-yang-harus-memiliki-kode-otorisasi-djp-di-coretax/)
-- [Mengapa Kode Otorisasi Tidak Muncul di Coretax DJP?](https://www.diskusipajak.com/mengapa-kode-otorisasi-tidak-muncul-di-coretax-djp/)
-- [Cara Mengecek Status Kode Otorisasi DJP di Coretax yang Belum Valid?](https://www.diskusipajak.com/cara-mengecek-status-kode-otorisasi-djp-di-coretax-yang-belum-valid/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
