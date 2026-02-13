@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Berapa Lama Masa Berlaku Kode Otorisasi Coretax DJP?](https://www.diskusipajak.com/berapa-lama-masa-berlaku-kode-otorisasi-coretax-djp/)
 - [Siapa yang Harus Memiliki Kode Otorisasi DJP di Coretax?](https://www.diskusipajak.com/siapa-yang-harus-memiliki-kode-otorisasi-djp-di-coretax/)
 - [Mengapa Kode Otorisasi Tidak Muncul di Coretax DJP?](https://www.diskusipajak.com/mengapa-kode-otorisasi-tidak-muncul-di-coretax-djp/)
 - [Cara Mengecek Status Kode Otorisasi DJP di Coretax yang Belum Valid?](https://www.diskusipajak.com/cara-mengecek-status-kode-otorisasi-djp-di-coretax-yang-belum-valid/)
 - [Bagaimana Cara Mengajukan Perubahan Tahun Buku dari Januari-Desember ke Maret-April di Coretax?](https://www.diskusipajak.com/bagaimana-cara-mengajukan-perubahan-tahun-buku-dari-januari-desember-ke-maret-april-di-coretax/)
-- [Mengapa Wajib Pajak Harus Punya Kode Otorisasi untuk Lapor SPT di Coretax?](https://www.diskusipajak.com/mengapa-wajib-pajak-harus-punya-kode-otorisasi-untuk-lapor-spt-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
