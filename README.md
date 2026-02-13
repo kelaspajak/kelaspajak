@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Kode Bukti Potong PPh Final UMKM di Coretax: 28-423-01 Tidak Muncul? Ini Solusinya!](https://www.diskusipajak.com/kode-bukti-potong-pph-final-umkm-di-coretax-28-423-01-tidak-muncul-ini-solusinya/)
 - [Bagaimana Cara Mengubah Status NPWP Nonaktif Menjadi Aktif dengan Mudah?](https://www.diskusipajak.com/bagaimana-cara-mengubah-status-npwp-nonaktif-menjadi-aktif-dengan-mudah/)
 - [Siapa Saja yang Berhak Mengubah Data Wajib Pajak Badan dan Instansi Pemerintah?](https://www.diskusipajak.com/siapa-saja-yang-berhak-mengubah-data-wajib-pajak-badan-dan-instansi-pemerintah/)
 - [Apakah Suami dan Istri Wajib Punya Kode Otorisasi Masing-Masing di Coretax?](https://www.diskusipajak.com/apakah-suami-dan-istri-wajib-punya-kode-otorisasi-masing-masing-di-coretax/)
 - [Berapa Lama Masa Berlaku Kode Otorisasi Coretax DJP?](https://www.diskusipajak.com/berapa-lama-masa-berlaku-kode-otorisasi-coretax-djp/)
-- [Siapa yang Harus Memiliki Kode Otorisasi DJP di Coretax?](https://www.diskusipajak.com/siapa-yang-harus-memiliki-kode-otorisasi-djp-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
