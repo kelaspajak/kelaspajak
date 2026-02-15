@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Pengajuan Status Nonaktif NPWP di Coretax DJP: Panduan Lengkap untuk Wajib Pajak](https://www.diskusipajak.com/cara-pengajuan-status-nonaktif-npwp-di-coretax-djp-panduan-lengkap-untuk-wajib-pajak/)
-- [Apakah Perubahan Data di DJP Online Mempengaruhi Sistem Coretax DJP?](https://www.diskusipajak.com/apakah-perubahan-data-di-djp-online-mempengaruhi-sistem-coretax-djp/)
-- [Apakah Anak Sudah Jadi Wajib Pajak Setelah Terdaftar di Coretax DJP?](https://www.diskusipajak.com/apakah-anak-sudah-jadi-wajib-pajak-setelah-terdaftar-di-coretax-djp/)
-- [Mengatasi Data Wajib Pajak Badan yang Masih Tidak Sesuai Setelah Perubahan](https://www.diskusipajak.com/mengatasi-data-wajib-pajak-badan-yang-masih-tidak-sesuai-setelah-perubahan/)
-- [Bagaimana Cara Mengubah Data Wajib Pajak di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-mengubah-data-wajib-pajak-di-coretax-djp/)
+- [Apa Manfaat Coretax DJP untuk Penerima Penghasilan Terkait Bukti Potong PPh?](https://www.diskusipajak.com/apa-manfaat-coretax-djp-untuk-penerima-penghasilan-terkait-bukti-potong-pph/)
+- [Apa Manfaat Coretax DJP untuk Pemberi Penghasilan Terkait Bukti Potong PPh?](https://www.diskusipajak.com/apa-manfaat-coretax-djp-untuk-pemberi-penghasilan-terkait-bukti-potong-pph/)
+- [Apa Itu Bukti Potong PPh? Pengertian Lengkap dan Pentingnya untuk Pelaporan Pajak](https://www.diskusipajak.com/apa-itu-bukti-potong-pph-pengertian-lengkap-dan-pentingnya-untuk-pelaporan-pajak/)
+- [Cara Mengubah Status Wajib Pajak dari Tanggungan Menjadi PH/MT untuk Istri yang Menjalankan Kewajiban Pajak Terpisah](https://www.diskusipajak.com/cara-mengubah-status-wajib-pajak-dari-tanggungan-menjadi-ph-mt-untuk-istri-yang-menjalankan-kewajiban-pajak-terpisah/)
+- [Apa Bedanya Status Belum Aktif &lpar;SPDN&rpar; dengan Aktif atau Tidak Aktif di Coretax DJP?](https://www.diskusipajak.com/apa-bedanya-status-belum-aktif-spdn-dengan-aktif-atau-tidak-aktif-di-coretax-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
