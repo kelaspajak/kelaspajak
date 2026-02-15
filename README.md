@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Pengajuan Status Nonaktif NPWP di Coretax DJP: Panduan Lengkap untuk Wajib Pajak](https://www.diskusipajak.com/cara-pengajuan-status-nonaktif-npwp-di-coretax-djp-panduan-lengkap-untuk-wajib-pajak/)
+- [Apakah Perubahan Data di DJP Online Mempengaruhi Sistem Coretax DJP?](https://www.diskusipajak.com/apakah-perubahan-data-di-djp-online-mempengaruhi-sistem-coretax-djp/)
+- [Apakah Anak Sudah Jadi Wajib Pajak Setelah Terdaftar di Coretax DJP?](https://www.diskusipajak.com/apakah-anak-sudah-jadi-wajib-pajak-setelah-terdaftar-di-coretax-djp/)
 - [Mengatasi Data Wajib Pajak Badan yang Masih Tidak Sesuai Setelah Perubahan](https://www.diskusipajak.com/mengatasi-data-wajib-pajak-badan-yang-masih-tidak-sesuai-setelah-perubahan/)
 - [Bagaimana Cara Mengubah Data Wajib Pajak di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-mengubah-data-wajib-pajak-di-coretax-djp/)
-- [Kode Bukti Potong PPh Final UMKM di Coretax: 28-423-01 Tidak Muncul? Ini Solusinya!](https://www.diskusipajak.com/kode-bukti-potong-pph-final-umkm-di-coretax-28-423-01-tidak-muncul-ini-solusinya/)
-- [Bagaimana Cara Mengubah Status NPWP Nonaktif Menjadi Aktif dengan Mudah?](https://www.diskusipajak.com/bagaimana-cara-mengubah-status-npwp-nonaktif-menjadi-aktif-dengan-mudah/)
-- [Siapa Saja yang Berhak Mengubah Data Wajib Pajak Badan dan Instansi Pemerintah?](https://www.diskusipajak.com/siapa-saja-yang-berhak-mengubah-data-wajib-pajak-badan-dan-instansi-pemerintah/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
