@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Apa Dampak Penggunaan NPWP Sementara Saat Buat Bukti Potong PPh?](https://www.diskusipajak.com/apa-dampak-penggunaan-npwp-sementara-saat-buat-bukti-potong-pph/)
+- [Cara Membuat Bukti Potong PPh di Coretax DJP dengan Mudah dan Cepat](https://www.diskusipajak.com/cara-membuat-bukti-potong-pph-di-coretax-djp-dengan-mudah-dan-cepat/)
 - [Bagaimana Cara Menerima Bukti Potong PPh di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-menerima-bukti-potong-pph-di-coretax-djp/)
 - [Jenis Bukti Potong di Coretax DJP: Apa Saja yang Tersedia di eBupot?](https://www.diskusipajak.com/jenis-bukti-potong-di-coretax-djp-apa-saja-yang-tersedia-di-ebupot/)
 - [Apa Manfaat Coretax DJP untuk Penerima Penghasilan Terkait Bukti Potong PPh?](https://www.diskusipajak.com/apa-manfaat-coretax-djp-untuk-penerima-penghasilan-terkait-bukti-potong-pph/)
-- [Apa Manfaat Coretax DJP untuk Pemberi Penghasilan Terkait Bukti Potong PPh?](https://www.diskusipajak.com/apa-manfaat-coretax-djp-untuk-pemberi-penghasilan-terkait-bukti-potong-pph/)
-- [Apa Itu Bukti Potong PPh? Pengertian Lengkap dan Pentingnya untuk Pelaporan Pajak](https://www.diskusipajak.com/apa-itu-bukti-potong-pph-pengertian-lengkap-dan-pentingnya-untuk-pelaporan-pajak/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
