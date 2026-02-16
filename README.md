@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Cara Menerima Bukti Potong PPh di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-menerima-bukti-potong-pph-di-coretax-djp/)
+- [Jenis Bukti Potong di Coretax DJP: Apa Saja yang Tersedia di eBupot?](https://www.diskusipajak.com/jenis-bukti-potong-di-coretax-djp-apa-saja-yang-tersedia-di-ebupot/)
 - [Apa Manfaat Coretax DJP untuk Penerima Penghasilan Terkait Bukti Potong PPh?](https://www.diskusipajak.com/apa-manfaat-coretax-djp-untuk-penerima-penghasilan-terkait-bukti-potong-pph/)
 - [Apa Manfaat Coretax DJP untuk Pemberi Penghasilan Terkait Bukti Potong PPh?](https://www.diskusipajak.com/apa-manfaat-coretax-djp-untuk-pemberi-penghasilan-terkait-bukti-potong-pph/)
 - [Apa Itu Bukti Potong PPh? Pengertian Lengkap dan Pentingnya untuk Pelaporan Pajak](https://www.diskusipajak.com/apa-itu-bukti-potong-pph-pengertian-lengkap-dan-pentingnya-untuk-pelaporan-pajak/)
-- [Cara Mengubah Status Wajib Pajak dari Tanggungan Menjadi PH/MT untuk Istri yang Menjalankan Kewajiban Pajak Terpisah](https://www.diskusipajak.com/cara-mengubah-status-wajib-pajak-dari-tanggungan-menjadi-ph-mt-untuk-istri-yang-menjalankan-kewajiban-pajak-terpisah/)
-- [Apa Bedanya Status Belum Aktif &lpar;SPDN&rpar; dengan Aktif atau Tidak Aktif di Coretax DJP?](https://www.diskusipajak.com/apa-bedanya-status-belum-aktif-spdn-dengan-aktif-atau-tidak-aktif-di-coretax-djp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
