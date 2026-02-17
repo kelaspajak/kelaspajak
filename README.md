@@ -3,11 +3,11 @@
 website: https://baca.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mudah Simpan PDF Konsep SPT Tahunan &lpar;PPh&rpar; Core Tax](https://www.diskusipajak.com/cara-mudah-simpan-pdf-konsep-spt-tahunan-pph-core-tax/)
 - [Apa Dampak Penggunaan NPWP Sementara Saat Buat Bukti Potong PPh?](https://www.diskusipajak.com/apa-dampak-penggunaan-npwp-sementara-saat-buat-bukti-potong-pph/)
 - [Cara Membuat Bukti Potong PPh di Coretax DJP dengan Mudah dan Cepat](https://www.diskusipajak.com/cara-membuat-bukti-potong-pph-di-coretax-djp-dengan-mudah-dan-cepat/)
 - [Bagaimana Cara Menerima Bukti Potong PPh di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-menerima-bukti-potong-pph-di-coretax-djp/)
 - [Jenis Bukti Potong di Coretax DJP: Apa Saja yang Tersedia di eBupot?](https://www.diskusipajak.com/jenis-bukti-potong-di-coretax-djp-apa-saja-yang-tersedia-di-ebupot/)
-- [Apa Manfaat Coretax DJP untuk Penerima Penghasilan Terkait Bukti Potong PPh?](https://www.diskusipajak.com/apa-manfaat-coretax-djp-untuk-penerima-penghasilan-terkait-bukti-potong-pph/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
