@@ -1,6 +1,6 @@
 # Blog posts
 
-website: https://baca.diskusipajak.com
+website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Cara Mudah Simpan PDF Konsep SPT Tahunan &lpar;PPh&rpar; Core Tax](https://www.diskusipajak.com/cara-mudah-simpan-pdf-konsep-spt-tahunan-pph-core-tax/)
