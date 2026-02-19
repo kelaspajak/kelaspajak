@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Mudah Simpan PDF Konsep SPT Tahunan &lpar;PPh&rpar; Core Tax](https://www.diskusipajak.com/cara-mudah-simpan-pdf-konsep-spt-tahunan-pph-core-tax/)
-- [Apa Dampak Penggunaan NPWP Sementara Saat Buat Bukti Potong PPh?](https://www.diskusipajak.com/apa-dampak-penggunaan-npwp-sementara-saat-buat-bukti-potong-pph/)
-- [Cara Membuat Bukti Potong PPh di Coretax DJP dengan Mudah dan Cepat](https://www.diskusipajak.com/cara-membuat-bukti-potong-pph-di-coretax-djp-dengan-mudah-dan-cepat/)
-- [Bagaimana Cara Menerima Bukti Potong PPh di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-menerima-bukti-potong-pph-di-coretax-djp/)
-- [Jenis Bukti Potong di Coretax DJP: Apa Saja yang Tersedia di eBupot?](https://www.diskusipajak.com/jenis-bukti-potong-di-coretax-djp-apa-saja-yang-tersedia-di-ebupot/)
+- [Bagaimana Cara Menjaga Kerahasiaan Bupot PPh 21 Antar Pegawai di Satu Lokasi Usaha?](https://www.diskusipajak.com/bagaimana-cara-menjaga-kerahasiaan-bupot-pph-21-antar-pegawai-di-satu-lokasi-usaha/)
+- [Pencantuman NITKU pada Bukti Potong PPh Pasal 21](https://www.diskusipajak.com/pencantuman-nitku-pada-bukti-potong-pph-pasal-21/)
+- [Apakah Pemotong Pajak Masih Bisa Membetulkan Bukti Potong Setelah Penerima Penghasilan Melaporkan SPT Tahunan?](https://www.diskusipajak.com/apakah-pemotong-pajak-masih-bisa-membetulkan-bukti-potong-setelah-penerima-penghasilan-melaporkan-spt-tahunan/)
+- [Bagaimana Cara Buat Bupot PPh 21 untuk Pegawai Tetap yang Pindah Kerja?](https://www.diskusipajak.com/bagaimana-cara-buat-bupot-pph-21-untuk-pegawai-tetap-yang-pindah-kerja/)
+- [Bagaimana Cara Penerbitan Bukti Potong untuk Istri dengan NPWP Gabung Suami?](https://www.diskusipajak.com/bagaimana-cara-penerbitan-bukti-potong-untuk-istri-dengan-npwp-gabung-suami/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
