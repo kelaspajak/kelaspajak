@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Bagaimana Cara Menjaga Kerahasiaan Bupot PPh 21 Antar Pegawai di Satu Lokasi Usaha?](https://www.diskusipajak.com/bagaimana-cara-menjaga-kerahasiaan-bupot-pph-21-antar-pegawai-di-satu-lokasi-usaha/)
-- [Pencantuman NITKU pada Bukti Potong PPh Pasal 21](https://www.diskusipajak.com/pencantuman-nitku-pada-bukti-potong-pph-pasal-21/)
-- [Apakah Pemotong Pajak Masih Bisa Membetulkan Bukti Potong Setelah Penerima Penghasilan Melaporkan SPT Tahunan?](https://www.diskusipajak.com/apakah-pemotong-pajak-masih-bisa-membetulkan-bukti-potong-setelah-penerima-penghasilan-melaporkan-spt-tahunan/)
-- [Bagaimana Cara Buat Bupot PPh 21 untuk Pegawai Tetap yang Pindah Kerja?](https://www.diskusipajak.com/bagaimana-cara-buat-bupot-pph-21-untuk-pegawai-tetap-yang-pindah-kerja/)
-- [Bagaimana Cara Penerbitan Bukti Potong untuk Istri dengan NPWP Gabung Suami?](https://www.diskusipajak.com/bagaimana-cara-penerbitan-bukti-potong-untuk-istri-dengan-npwp-gabung-suami/)
+- [Cara Mengkreditkan Pajak Masukan di Coretax DJP dengan Mudah dan Benar?](https://www.diskusipajak.com/cara-mengkreditkan-pajak-masukan-di-coretax-djp-dengan-mudah-dan-benar/)
+- [Cara Membuat Faktur Pajak Massal dengan XML di Coretax: Panduan Lengkap Step-by-Step](https://www.diskusipajak.com/cara-membuat-faktur-pajak-massal-dengan-xml-di-coretax-panduan-lengkap-step-by-step/)
+- [Bagaimana Cara Membuat Faktur Pajak di Coretax DJP? Panduan Lengkap untuk PKP](https://www.diskusipajak.com/bagaimana-cara-membuat-faktur-pajak-di-coretax-djp-panduan-lengkap-untuk-pkp/)
+- [Tiga Skema Pembuatan E-Faktur di Coretax DJP yang Perlu Diketahui PKP](https://www.diskusipajak.com/tiga-skema-pembuatan-e-faktur-di-coretax-djp-yang-perlu-diketahui-pkp/)
+- [Mengapa Bupot PPh Istri Masih Muncul di Akun Coretax Suami Padahal Sudah Pilih Kewajiban Pajak Terpisah?](https://www.diskusipajak.com/mengapa-bupot-pph-istri-masih-muncul-di-akun-coretax-suami-padahal-sudah-pilih-kewajiban-pajak-terpisah/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
