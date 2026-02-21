@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Panduan Lengkap Pencantuman NPWP dan NITKU pada Faktur Pajak di Coretax](https://www.diskusipajak.com/panduan-lengkap-pencantuman-npwp-dan-nitku-pada-faktur-pajak-di-coretax/)
+- [Cara Buat Faktur Pajak Uang Muka dan Pelunasan di Coretax DJP yang Benar?](https://www.diskusipajak.com/cara-buat-faktur-pajak-uang-muka-dan-pelunasan-di-coretax-djp-yang-benar/)
+- [Apa yang Harus Dilakukan untuk Faktur Pajak Pelunasan Uang Muka Legacy di Coretax DJP?](https://www.diskusipajak.com/apa-yang-harus-dilakukan-untuk-faktur-pajak-pelunasan-uang-muka-legacy-di-coretax-djp/)
+- [Bisakah Faktur Pajak Dibuat dengan Tanggal Mundur?](https://www.diskusipajak.com/bisakah-faktur-pajak-dibuat-dengan-tanggal-mundur/)
 - [Cara Mengkreditkan Pajak Masukan di Coretax DJP dengan Mudah dan Benar?](https://www.diskusipajak.com/cara-mengkreditkan-pajak-masukan-di-coretax-djp-dengan-mudah-dan-benar/)
-- [Cara Membuat Faktur Pajak Massal dengan XML di Coretax: Panduan Lengkap Step-by-Step](https://www.diskusipajak.com/cara-membuat-faktur-pajak-massal-dengan-xml-di-coretax-panduan-lengkap-step-by-step/)
-- [Bagaimana Cara Membuat Faktur Pajak di Coretax DJP? Panduan Lengkap untuk PKP](https://www.diskusipajak.com/bagaimana-cara-membuat-faktur-pajak-di-coretax-djp-panduan-lengkap-untuk-pkp/)
-- [Tiga Skema Pembuatan E-Faktur di Coretax DJP yang Perlu Diketahui PKP](https://www.diskusipajak.com/tiga-skema-pembuatan-e-faktur-di-coretax-djp-yang-perlu-diketahui-pkp/)
-- [Mengapa Bupot PPh Istri Masih Muncul di Akun Coretax Suami Padahal Sudah Pilih Kewajiban Pajak Terpisah?](https://www.diskusipajak.com/mengapa-bupot-pph-istri-masih-muncul-di-akun-coretax-suami-padahal-sudah-pilih-kewajiban-pajak-terpisah/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
