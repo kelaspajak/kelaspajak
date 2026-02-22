@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Panduan Lengkap Pencantuman NPWP dan NITKU pada Faktur Pajak di Coretax](https://www.diskusipajak.com/panduan-lengkap-pencantuman-npwp-dan-nitku-pada-faktur-pajak-di-coretax/)
-- [Cara Buat Faktur Pajak Uang Muka dan Pelunasan di Coretax DJP yang Benar?](https://www.diskusipajak.com/cara-buat-faktur-pajak-uang-muka-dan-pelunasan-di-coretax-djp-yang-benar/)
-- [Apa yang Harus Dilakukan untuk Faktur Pajak Pelunasan Uang Muka Legacy di Coretax DJP?](https://www.diskusipajak.com/apa-yang-harus-dilakukan-untuk-faktur-pajak-pelunasan-uang-muka-legacy-di-coretax-djp/)
-- [Bisakah Faktur Pajak Dibuat dengan Tanggal Mundur?](https://www.diskusipajak.com/bisakah-faktur-pajak-dibuat-dengan-tanggal-mundur/)
-- [Cara Mengkreditkan Pajak Masukan di Coretax DJP dengan Mudah dan Benar?](https://www.diskusipajak.com/cara-mengkreditkan-pajak-masukan-di-coretax-djp-dengan-mudah-dan-benar/)
+- [Kesulitan Input Kuantitas 3 Digit Desimal di Coretax DJP? Ini Solusinya!](https://www.diskusipajak.com/kesulitan-input-kuantitas-3-digit-desimal-di-coretax-djp-ini-solusinya/)
+- [Kapan Memilih NPWP vs NIK dan TIN vs National ID Saat Merekam Identitas Pembeli Orang Pribadi?](https://www.diskusipajak.com/kapan-memilih-npwp-vs-nik-dan-tin-vs-national-id-saat-merekam-identitas-pembeli-orang-pribadi/)
+- [Bagaimana PKP Mendapatkan Nomor Seri Faktur Pajak Otomatis di Coretax DJP?](https://www.diskusipajak.com/bagaimana-pkp-mendapatkan-nomor-seri-faktur-pajak-otomatis-di-coretax-djp/)
+- [Bagaimana Cara Mengakses dan Menggunakan Menu “Bukti Potong Saya” di Bupot PPh?](https://www.diskusipajak.com/bagaimana-cara-mengakses-dan-menggunakan-menu-bukti-potong-saya-di-bupot-pph/)
+- [Bagaimana Mengisi Identitas Pembeli pada Faktur Pajak Digunggung &lpar;Pedagang Eceran&rpar; di XML Induk IA5?](https://www.diskusipajak.com/bagaimana-mengisi-identitas-pembeli-pada-faktur-pajak-digunggung-pedagang-eceran-di-xml-induk-ia5/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
