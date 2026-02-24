@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Proses Migrasi Faktur Pajak e-Faktur Desktop ke Coretax DJP?](https://www.diskusipajak.com/bagaimana-proses-migrasi-faktur-pajak-e-faktur-desktop-ke-coretax-djp/)
+- [Bagaimana Cara Mengisi Nomor Dokumen pada Faktur Pajak Kode 07 untuk Transaksi Kawasan Khusus?](https://www.diskusipajak.com/bagaimana-cara-mengisi-nomor-dokumen-pada-faktur-pajak-kode-07-untuk-transaksi-kawasan-khusus/)
 - [Kesulitan Input Kuantitas 3 Digit Desimal di Coretax DJP? Ini Solusinya!](https://www.diskusipajak.com/kesulitan-input-kuantitas-3-digit-desimal-di-coretax-djp-ini-solusinya/)
 - [Kapan Memilih NPWP vs NIK dan TIN vs National ID Saat Merekam Identitas Pembeli Orang Pribadi?](https://www.diskusipajak.com/kapan-memilih-npwp-vs-nik-dan-tin-vs-national-id-saat-merekam-identitas-pembeli-orang-pribadi/)
 - [Bagaimana PKP Mendapatkan Nomor Seri Faktur Pajak Otomatis di Coretax DJP?](https://www.diskusipajak.com/bagaimana-pkp-mendapatkan-nomor-seri-faktur-pajak-otomatis-di-coretax-djp/)
-- [Bagaimana Cara Mengakses dan Menggunakan Menu “Bukti Potong Saya” di Bupot PPh?](https://www.diskusipajak.com/bagaimana-cara-mengakses-dan-menggunakan-menu-bukti-potong-saya-di-bupot-pph/)
-- [Bagaimana Mengisi Identitas Pembeli pada Faktur Pajak Digunggung &lpar;Pedagang Eceran&rpar; di XML Induk IA5?](https://www.diskusipajak.com/bagaimana-mengisi-identitas-pembeli-pada-faktur-pajak-digunggung-pedagang-eceran-di-xml-induk-ia5/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
