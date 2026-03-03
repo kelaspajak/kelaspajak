@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Gali Potensi Pajak - Dividen ke Pemegang Saham Badan dengan Kepemilikan di Bawah 25%](https://www.diskusipajak.com/gali-potensi-pajak-dividen-ke-pemegang-saham-badan-dengan-kepemilikan-di-bawah-25/)
+- [Cara Lapor SPT Tahunan Orang Pribadi Menggunakan Coretax Form 2026](https://www.diskusipajak.com/cara-lapor-spt-tahunan-orang-pribadi-menggunakan-coretax-form-2026/)
+- [Mengenal Perbedaan Wajib Pajak Pasal 17C dan 17D dalam Restitusi Dipercepat](https://www.diskusipajak.com/mengenal-perbedaan-wajib-pajak-pasal-17c-dan-17d-dalam-restitusi-dipercepat/)
+- [Apakah Sanksi Kurang Bayar Setelah Pengembalian Pendahuluan Masih 100%?](https://www.diskusipajak.com/apakah-sanksi-kurang-bayar-setelah-pengembalian-pendahuluan-masih-100/)
 - [Apakah Bisa Membuat Bukti Potong PPh 23 Setelah Beberapa Bulan Kemudian?](https://www.diskusipajak.com/apakah-bisa-membuat-bukti-potong-pph-23-setelah-beberapa-bulan-kemudian/)
-- [Apakah Batas Omzet 4,8 Miliar PPh Final dan NPPN Dihitung Terpisah?](https://www.diskusipajak.com/apakah-batas-omzet-4-8-miliar-pph-final-dan-nppn-dihitung-terpisah/)
-- [Youtube- Bagaimana Cara Melaporkan SPT Tahunan PPh Badan via Coretax DJP dengan Mudah?](https://www.diskusipajak.com/youtube-bagaimana-cara-melaporkan-spt-tahunan-pph-badan-via-coretax-djp-dengan-mudah-2/)
-- [Apa Arti Status &#39;Waiting for Amendment/Cancellation&#39; pada Faktur Pajak Keluaran?](https://www.diskusipajak.com/apa-arti-status-waiting-for-amendment-cancellation-pada-faktur-pajak-keluaran/)
-- [Bagaimana Cara Melakukan Retur Barang di Coretax DJP dan Apa Dampaknya pada PPN?](https://www.diskusipajak.com/bagaimana-cara-melakukan-retur-barang-di-coretax-djp-dan-apa-dampaknya-pada-ppn/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
