@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
-- [Gali Potensi Pajak - Dividen ke Pemegang Saham Badan dengan Kepemilikan di Bawah 25%](https://www.diskusipajak.com/gali-potensi-pajak-dividen-ke-pemegang-saham-badan-dengan-kepemilikan-di-bawah-25/)
-- [Cara Lapor SPT Tahunan Orang Pribadi Menggunakan Coretax Form 2026](https://www.diskusipajak.com/cara-lapor-spt-tahunan-orang-pribadi-menggunakan-coretax-form-2026/)
-- [Mengenal Perbedaan Wajib Pajak Pasal 17C dan 17D dalam Restitusi Dipercepat](https://www.diskusipajak.com/mengenal-perbedaan-wajib-pajak-pasal-17c-dan-17d-dalam-restitusi-dipercepat/)
-- [Apakah Sanksi Kurang Bayar Setelah Pengembalian Pendahuluan Masih 100%?](https://www.diskusipajak.com/apakah-sanksi-kurang-bayar-setelah-pengembalian-pendahuluan-masih-100/)
-- [Apakah Bisa Membuat Bukti Potong PPh 23 Setelah Beberapa Bulan Kemudian?](https://www.diskusipajak.com/apakah-bisa-membuat-bukti-potong-pph-23-setelah-beberapa-bulan-kemudian/)
+- [Bagaimana Cara Mengurus Kredit PPh 22 Impor yang Belum Diperhitungkan dalam SKPKB?](https://www.diskusipajak.com/bagaimana-cara-mengurus-kredit-pph-22-impor-yang-belum-diperhitungkan-dalam-skpkb/)
+- [Bagaimana Cara Mengakses Riwayat SPT Badan di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-mengakses-riwayat-spt-badan-di-coretax-djp/)
+- [Bagaimana Cara Rekonsiliasi Daftar Gaji Payroll dengan SPT PPh 21 di Coretax?](https://www.diskusipajak.com/bagaimana-cara-rekonsiliasi-daftar-gaji-payroll-dengan-spt-pph-21-di-coretax/)
+- [Bagaimana Cara Membuat dan Melaporkan SPT Masa PPh 21/26 di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-membuat-dan-melaporkan-spt-masa-pph-21-26-di-coretax-djp/)
+- [Bagaimana Format Spreadsheet Rekonsiliasi Faktur Pajak untuk Coretax?](https://www.diskusipajak.com/bagaimana-format-spreadsheet-rekonsiliasi-faktur-pajak-untuk-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
