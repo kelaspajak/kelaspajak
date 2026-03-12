@@ -3,11 +3,11 @@
 website: https://www.diskusipajak.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana Cara Mengatasi SPT Tahunan Lebih Bayar bagi Pegawai Sekaligus Affiliator?](https://www.diskusipajak.com/bagaimana-cara-mengatasi-spt-tahunan-lebih-bayar-bagi-pegawai-sekaligus-affiliator/)
 - [Bagaimana Cara Merekam Form DGT dan SKD WPLN di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-merekam-form-dgt-dan-skd-wpln-di-coretax-djp/)
 - [Bedah Profil PT Rejek Rejeki](https://www.diskusipajak.com/bedah-profil-pt-rejek-rejeki/)
 - [Bagaimana Cara Mengurus Kredit PPh 22 Impor yang Belum Diperhitungkan dalam SKPKB?](https://www.diskusipajak.com/bagaimana-cara-mengurus-kredit-pph-22-impor-yang-belum-diperhitungkan-dalam-skpkb/)
 - [Bagaimana Cara Mengakses Riwayat SPT Badan di Coretax DJP?](https://www.diskusipajak.com/bagaimana-cara-mengakses-riwayat-spt-badan-di-coretax-djp/)
-- [Bagaimana Cara Rekonsiliasi Daftar Gaji Payroll dengan SPT PPh 21 di Coretax?](https://www.diskusipajak.com/bagaimana-cara-rekonsiliasi-daftar-gaji-payroll-dengan-spt-pph-21-di-coretax/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
